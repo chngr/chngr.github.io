@@ -1,0 +1,109 @@
+body {
+  margin:12px;
+  width: 48em;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 4em;
+  margin-bottom: 4em;
+  background: transparent;
+}
+
+#name {
+  font-family: serif;
+  font-size: 24px;
+  margin-bottom: 0;
+}
+
+#subtitle {
+  font-size: 11px;
+}
+
+#email {
+  font-family: monospace;
+  font-size:12px;
+}
+
+#address {
+  font-family: monospace;
+  font-size: 12px;
+}
+
+
+a {
+  color: purple;
+}
+a:hover {
+  color: purple;
+}
+a:active {
+  color: violet;
+}
+a:visited {
+  color: #512e5f;
+}
+
+span.people a,
+.people {
+  color: #2e86c1;
+}
+
+.paper-description {
+  font-size: 10px;
+  display: block;
+  margin-top: 0.5rem;
+}
+
+.paper {
+  font-style: italic;
+}
+
+dl {
+  margin-bottom: 2em;
+  padding: 0;
+}
+
+dd {
+  padding-left: 0.5em;
+  border-left: 1px solid black;
+}
+
+dt {
+  position: relative;
+  left: 0;
+  width: 3em;
+  font-weight: bold;
+  top: 1.38em;
+}
+
+.phantom {
+  color: white;
+}
+
+.speaker {
+}
+
+.title {
+  font-style: italic;
+}
+
+.references {
+  font-style: monospace;
+}
+
+/* Tables */
+
+th {
+    background-color: #AE97FF;
+}
+tr:nth-child(even){
+  background-color: #f2f2f2;
+}
+td:nth-child(2) {
+  text-align:center;
+}
+td:nth-child(1) {
+  text-align:center;
+}
+td {
+  padding: 2px 10px;
+}
