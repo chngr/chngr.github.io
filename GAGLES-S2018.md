@@ -5,16 +5,8 @@ subtitle: An episode of <a title="Graduate Algebraic Geometry LEarning Seminar">
 
 The first half of this seminar aims to develop the basic theory of abelian
 varieties, mainly following Mumford's beautiful book mentioned below.
-The second half of this seminar will be devoted to topics chosen depending
-on the tastes of participants. Some suggestions include:
-
-  - properties of the derived categories of abelian varieties;
-  - moduli spaces of abelian varieties and their compactifications;
-  - theta functions and their relation to moduli;
-  - Serre&ndash;Tate deformation theory for abelian varieties in positive characteristic;
-  - Honda&ndash;Tate theory for abelian varieties over finite fields;
-  - \\(p\\)-adic uniformizatin of abelian varieties over non-archimedean fields;
-  - etc.
+The second half of this seminar will be devoted to topics surrounding Jacobian
+varieties, that classical "crutch" that Mumford so stubbornly avoids.
 
 ## References
 
