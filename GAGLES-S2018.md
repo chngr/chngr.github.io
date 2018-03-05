@@ -114,8 +114,9 @@ We meet Wednesdays in Mathematics Room 507 between 2:30PM and 4:00PM.
     \[&sect;&sect;24--26, [[Bhatt]]{.people}\].
 
 03/07
-  ~ [.]{.speaker .phantom}
-  ~ [.]{.title .phantom}
+  ~ [Raymond Cheng]{.speaker},
+  ~ [The Theta Divisor]{.title}.
+  ~ \[&sect;14, [[EvdGM]]{.people}\].
 
 [03/]{.phantom}14
   ~ [No Seminar]{.speaker}.
