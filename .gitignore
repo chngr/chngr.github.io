@@ -4,3 +4,5 @@
 _cache
 _site
 site
+*.swp
+.stack-work
