@@ -115,12 +115,14 @@ We meet Wednesdays in Mathematics Room 507 between 2:30PM and 4:00PM.
   ~ [Spring Recess]{.title}.
 
 [03/]{.phantom}21
-  ~ [.]{.speaker .phantom}
-  ~ [.]{.title .phantom}
+  ~ [No Seminar]{.speaker}.
+  ~ [Raymond in Italy]{.title}.
 
 [03/]{.phantom}28
-  ~ [.]{.speaker .phantom}
-  ~ [.]{.title .phantom}
+  ~ [Raymond Cheng]{.speaker},
+  ~ [Cubic Threefolds, their Intermediate Jacobians, and Prym Varieties]{.title}.
+  ~ \[[[Clemens--Griffiths](https://mathscinet.ams.org/mathscinet-getitem?mr=302652)]{.people}\],
+    \[[[Beauville](https://mathscinet.ams.org/mathscinet-getitem?mr=672617)]{.people}].
 
 04/04
   ~ [.]{.speaker .phantom}
