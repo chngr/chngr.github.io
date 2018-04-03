@@ -125,8 +125,8 @@ We meet Wednesdays in Mathematics Room 507 between 2:30PM and 4:00PM.
     \[[[Beauville](https://mathscinet.ams.org/mathscinet-getitem?mr=672617)]{.people}].
 
 04/04
-  ~ [.]{.speaker .phantom}
-  ~ [.]{.title .phantom}
+  ~ [Carl Lian]{.speaker},
+  ~ [Kuga--Satake Construction]{.title}.
 
 [04/]{.phantom}11
   ~ [.]{.speaker .phantom}
