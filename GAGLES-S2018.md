@@ -129,8 +129,8 @@ We meet Wednesdays in Mathematics Room 507 between 2:30PM and 4:00PM.
   ~ [Kuga--Satake Construction]{.title}.
 
 [04/]{.phantom}11
-  ~ [.]{.speaker .phantom}
-  ~ [.]{.title .phantom}
+  ~ [Dmitrii Pirozhkov]{.speaker},
+  ~ [Weil Conjectures for K3 Surfaces]{.title}.
 
 [04/]{.phantom}18
   ~ [.]{.speaker .phantom}
