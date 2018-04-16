@@ -133,8 +133,8 @@ We meet Wednesdays in Mathematics Room 507 between 2:30PM and 4:00PM.
   ~ [Weil Conjectures for K3 Surfaces]{.title}.
 
 [04/]{.phantom}18
-  ~ [.]{.speaker .phantom}
-  ~ [.]{.title .phantom}
+  ~ [No Seminar]{.speaker},
+  ~ [Post-AGNES rest]{.title}.
 
 [04/]{.phantom}25
   ~ [.]{.speaker .phantom}
