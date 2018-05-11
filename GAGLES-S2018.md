@@ -5,8 +5,8 @@ subtitle: An episode of <a title="Graduate Algebraic Geometry LEarning Seminar">
 
 The first half of this seminar aims to develop the basic theory of abelian
 varieties, mainly following Mumford's beautiful book mentioned below.
-The second half of this seminar will be devoted to topics surrounding Jacobian
-varieties, that classical "crutch" that Mumford so stubbornly avoids.
+The second half of this seminar is a scattering of topics around the geometric
+theory of abelian varieties.
 
 ## References
 
@@ -131,18 +131,6 @@ We meet Wednesdays in Mathematics Room 507 between 2:30PM and 4:00PM.
 [04/]{.phantom}11
   ~ [Dmitrii Pirozhkov]{.speaker},
   ~ [Weil Conjectures for K3 Surfaces]{.title}.
-
-[04/]{.phantom}18
-  ~ [No Seminar]{.speaker},
-  ~ [Post-AGNES rest]{.title}.
-
-[04/]{.phantom}25
-  ~ [.]{.speaker .phantom}
-  ~ [.]{.title .phantom}
-
-05/02
-  ~ [.]{.speaker .phantom}
-  ~ [.]{.title .phantom}
 
 [Mumford]: <http://www.math.hawaii.edu/~pavel/cmi/References/Mumford_Abelian_Varities.pdf>
 [BL]: <https://link.springer.com/book/10.1007%2F978-3-662-06307-1>
