@@ -7,11 +7,15 @@ import           Hakyll
 --------------------------------------------------------------------------------
 main :: IO ()
 main = hakyll $ do
+    match "assets/*" $ do
+        route   idRoute
+        compile copyFileCompiler
+
     match "css/*" $ do
         route   idRoute
         compile compressCssCompiler
 
-    match (fromList ["BMS-S2018.md", "GAGLES-S2018.md", "F2017.md"]) $ do
+    match (fromList ["F2018.md", "GAGLES-F2018.md", "BMS-S2018.md", "GAGLES-S2018.md", "F2017.md"]) $ do
         route   $ setExtension "html"
         compile $ pandocCompiler
             >>= loadAndApplyTemplate "templates/default.html" defaultContext
