@@ -30,21 +30,26 @@ body {
 
 
 a {
-  color: purple;
-}
-a:hover {
-  color: purple;
+  color: #2E294E;
 }
 a:active {
-  color: violet;
+  color: #2E294E;
 }
 a:visited {
-  color: #512e5f;
+  color: #221E39;
+}
+a:hover {
+  color: #67637E;
 }
 
-span.people a,
-.people {
-  color: #2e86c1;
+.people, .people a{
+  color: #C6035F;
+}
+.people a:hover {
+  color: #E34791;
+}
+.people a:visited {
+  color: #DC1975;
 }
 
 .paper-description {
@@ -53,8 +58,25 @@ span.people a,
   margin-top: 0.5rem;
 }
 
-.paper {
+.paper, .paper a {
+  color: #632892;
   font-style: italic;
+}
+.paper a:hover {
+  color: #A17EBE;
+}
+.paper a:visited {
+  color: #8253A8;
+}
+
+a.MR {
+  color: #FF595E;
+}
+a:hover.MR {
+  color: #FF8689;
+}
+a:visited.MR {
+  color: #FF686C;
 }
 
 dl {
