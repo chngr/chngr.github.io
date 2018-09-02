@@ -108,6 +108,7 @@ of the cubic fourfold.
 
 * B. Hassett (2000),
 [[Special cubic fourfolds][Hassett-thesis]]{.paper},
+[[abridged version][Hassett-thesis-abridged]]{.paper},
 [MR1738215](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=1738215){.MR}.
 
 For a more recent and up-to-date account of these ideas, see also Hassett's
@@ -291,6 +292,7 @@ We meet Wednesdays in Mathematics Room ??? between 1:15PM and 2:30PM.
 
 [Hassett-survey]: <https://link.springer.com/chapter/10.1007/978-3-319-46209-7_2>
 [Hassett-thesis]: <https://www.math.brown.edu/~bhassett/papers/cubics/cubiclong.pdf>
+[Hassett-thesis-abridged]: <https://link.springer.com/article/10.1023/A:1001706324425>
 [Kuz-K3-category]: <https://link.springer.com/chapter/10.1007%2F978-0-8176-4934-0_9>
 [Kuz-survey]: <https://link.springer.com/chapter/10.1007/978-3-319-46209-7_3>
 [MS-NCK3]: <https://arxiv.org/abs/1807.06169>
