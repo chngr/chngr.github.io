@@ -112,6 +112,14 @@ dt {
   font-style: monospace;
 }
 
+.schedule-first {
+  color: indigo;
+}
+
+.schedule-second {
+  color: forestgreen;
+}
+
 /* Tables */
 
 th {
