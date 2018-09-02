@@ -42,13 +42,13 @@ a:hover {
   color: #67637E;
 }
 
-.people, .people a{
+a.people, .people a{
   color: #C6035F;
 }
-.people a:hover {
+a:hover.people, .people a:hover {
   color: #E34791;
 }
-.people a:visited {
+a:visited.people, .people a:visited {
   color: #DC1975;
 }
 
@@ -58,14 +58,14 @@ a:hover {
   margin-top: 0.5rem;
 }
 
-.paper, .paper a {
+a.paper, .paper a {
   color: #632892;
   font-style: italic;
 }
-.paper a:hover {
+a:hover.paper, .paper a:hover {
   color: #A17EBE;
 }
-.paper a:visited {
+a:visited.paper, .paper a:visited {
   color: #8253A8;
 }
 
