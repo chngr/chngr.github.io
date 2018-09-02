@@ -30,7 +30,7 @@ scrolls and which are rational. The MathSciNet review of the following
 paper is delightfully alien and at least makes me wonder what algebraic geometry
 looked back then.
 
-- G. Fano,
+* G. Fano (1943),
 [[Sulle forme cubiche dello spazio a cinque dimensioni contenenti rigate razionali del 4∘ ordine](https://link.springer.com/article/10.1007%2FBF02565634)]{.paper},
 [MR0010433](https://mathscinet.ams.org/mathscinet/search/publdoc.html?pg1=MR&s1=10433){.MR}.
 
@@ -44,16 +44,16 @@ the rest is deformation theory.
 This paper perhaps marks the beginning of a long story in so much modern
 algebraic geometry.
 
-- A. Beauville and R. Donagi,
+* A. Beauville and R. Donagi (1985),
 [[La variété des droites d'une hypersurface cubique de dimension 4][BD-lines]]{.paper},
 [MR0818549](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=818549){.MR}.
 
 ### Moduli and Periods
 
 Cubic fourfolds, being hypersurfaces in a projective space, admit a simple
-moduli space given as the set of cubic forms in 6 variables with nonvanishing
+moduli space given as the set of cubic forms in 6 variables with non-vanishing
 discriminant.
-Perhaps a more interesting way to paramterize cubic fourfolds, and one which is
+Perhaps a more interesting way to parameterize cubic fourfolds, and one which is
 more amenable to the construction of a compact moduli space, is via period
 mappings and Hodge theory.
 Quite remarkably, as Claire Voisin established in her thesis, a global Torelli
@@ -62,17 +62,17 @@ importance and power of Hodge theory in the study of cubic fourfolds.
 The geometry of the period domain and the properties of the period map have
 since been clarified by Radu Laza, Eduard Looijenga, and others.
 
-- C. Voisin,
+* C. Voisin (1986),
 [[Théorème de Torelli pour les cubiques de \\(\\mathbf{P}^5\\)][Voisin-Torelli]]{.paper},
 [[erratum][Voisin-Torelli-erratum]]{.paper},
 [MR0860684](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=0860684){.MR}.
-- R. Laza,
+* R. Laza (2009),
 [[The moduli space of cubic fourfolds][Laza-moduli]]{.paper},
 [MR2496456](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=2496456){.MR}.
-- E. Looijenga,
+* E. Looijenga (2009),
 [[The period map for cubic fourfolds][Loo-period]]{.paper},
 [MR2507640](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=2507640){.MR}.
-- R. Laza,
+* R. Laza (2010),
 [[The moduli space of cubic fourfolds via the period map][Laza-period]]{.paper},
 [MR2680429](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=2680429){.MR}.
 
@@ -85,11 +85,11 @@ Torelli theorem for K3 surfaces; and
 Bayer et al. have given a variation of the Huybrechts--Rennemo proof using their
 work on stability conditions on the Kuznetsov component of a cubic fourfold.
 
-- F. Charles,
+* F. Charles (2012),
 [[A remark on the Torelli theorem for cubic fourfolds][Charles-Torelli]]{.paper}.
-- D. Huybrechts and J. Rennemo,
+* D. Huybrechts and J. Rennemo (2016),
 [[Hochschild cohomology versus the Jacobian ring, and the Torelli theorem for cubic fourfolds][HR-Torelli]]{.paper}.
-- A. Bayer, M. Lahoz, E. Macrì, P. Stellari, and X. Zhao,
+* A. Bayer, M. Lahoz, E. Macrì, P. Stellari, and X. Zhao (2017),
 [[The Torelli theorem for cubic fourfolds][BLMSZ-Torelli]]{.paper}.
 
 ### Hodge Theoretic Approach to Rationality
@@ -106,14 +106,14 @@ fourfold; this K3, or rather its primitive Hodge structure, enters as the
 orthogonal complement of the extra algebraic class in the primitive cohomology
 of the cubic fourfold.
 
-- B. Hassett,
+* B. Hassett (2000),
 [[Special cubic fourfolds][Hassett-thesis]]{.paper},
 [MR1738215](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=1738215){.MR}.
 
 For a more recent and up-to-date account of these ideas, see also Hassett's
 survey:
 
-- B. Hassett,
+* B. Hassett (2016),
 [[Cubic fourfolds, K3 surfaces, and rationality questions][Hassett-survey]]{.paper},
 [MR3618665](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=3618665){.MR}.
 
@@ -128,7 +128,7 @@ of a K3 surface and Kuznetsov conjectures that a cubic fourfold is rational
 precisely when this category can be realized as the derived category of an
 honest K3 surface.
 
-- A. Kuznetsov,
+* A. Kuznetsov (2010),
 [[Derived categories of cubic fourfolds][Kuz-K3-category]]{.paper},
 [MR2605171](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=2605171){.MR}.
 
@@ -140,12 +140,12 @@ Also, notes by Asher Auel and Marcello Bernardara give a good account of how
 Kuznetsov's approach to rationality fits into the larger picture of things, and
 how it is, for instance, related to the Clemens--Griffiths result.
 
-- A. Kuznetsov,
+* A. Kuznetsov (2016),
 [[Derived categories view on rationality problems][Kuz-survey]]{.paper},
 [MR3618666](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=3618666){.MR}.
-- E. Macrì and P. Stellari,
+* E. Macrì and P. Stellari (2018),
 [[Lectures on non-commutative K3 surfaces, Bridgeland stability, and moduli spaces][MS-NCK3]]{.paper}.
-- A. Auel and M. Bernardara,
+* A. Auel and M. Bernardara (2016),
 [[Cycles, derived categories, and rationality][AB-notes]]{.paper},
 [MR3727501](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=3727501){.MR}.
 
@@ -158,10 +158,10 @@ precise relationship.
 Daniel Huybrechts has since then expanded on this relation and have proved some
 basic structure results for the Kuznetsov component of a cubic fourfold.
 
-- N. Addington and R. Thomas,
+* N. Addington and R. Thomas (2014),
 [[Hodge theory and derived categories of cubic fourfolds][AT-K3]]{.paper},
 [MR3229044](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=3229044){.MR}.
-- D. Huybrechts,
+* D. Huybrechts (2017),
 [[The K3 category of a cubic fourfold][Huy-K3]]{.paper},
 [MR3705236](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=3705236){.MR}.
 
@@ -169,20 +169,20 @@ One more approach to the rationality problem for cubic problems is a
 baby motivic one due to Sergey Galkin and Evgeny Shinder.
 Their approach is to find a relation between the class of a cubic fourfold and
 its associated Fano variety of lines in the Grothendieck ring of varieties.
-This relation together with the hypothesis that a certain element in the the
+This relation together with the hypothesis that a certain element in the
 Grothendieck ring is not a zero divisor implies that a very general
 cubic fourfold is not rational.
 Unfortunately, the non-zero divisor hypothesis seems likely to be false in view
 of Lev Borisov's example which shows that the Lefschetz motive is actually a
 zero divisor in the Grothendieck ring.
 
-- S. Galkin and E. Shinder,
+* S. Galkin and E. Shinder (2014),
 [[The Fano variety of lines and rationality problem for a cubic hypersurface][GS-Fano]]{.paper}.
 
 Finally, a helpful guide to the relationships between cubic fourfolds and K3
 surfaces is contained in a set of slides by Daniel Huybrechts:
 
-- D. Huybrechts,
+* D. Huybrechts (2018),
 Hodge theory of cubic fourfolds, their Fano varieties, and associated K3 categories,
 [1](assets/HuybrechtsLecture1.pdf),
 [2](assets/HuybrechtsLecture2.pdf),
@@ -195,7 +195,10 @@ We meet Wednesdays in Mathematics Room ??? between 1:15PM and 2:30PM.
 
 09/05
   ~ [Raymond Cheng]{.speaker},
-  ~ [Introduction and Organization]{.title}.
+  ~ [Introduction and Organization]{.title},
+  ~ \[[Beauville--Donagi (1985)][BD-lines]\],
+    \[[Hassett (2000)][Hassett-thesis]\],
+    \[[Hassett (2016)][Hassett-survey].
 
 [09/]{.phantom}12
   ~ [TBA]{.speaker},
