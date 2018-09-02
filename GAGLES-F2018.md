@@ -1,6 +1,6 @@
 ---
 title: Cubic Fourfolds, Rationality, etc.
-subtitle: An episode of <a title="Graduate Algebraic Geometry LEarning Seminar">GAGLeS</a> organized by <span class="people"><a href="index.html">Raymond Cheng</a></span> during the spring of 2018.
+subtitle: An episode of <a title="Graduate Algebraic Geometry LEarning Seminar">GAGLeS</a> organized by <span class="people"><a href="index.html">Raymond Cheng</a></span> during the fall of 2018.
 ---
 
 Cubic fourfolds, i.e. nonsingular cubic hypersurface in projective five space,
@@ -153,7 +153,7 @@ how it is, for instance, related to the Clemens--Griffiths result.
 
 The Hodge theoretic viewpoint and the derived category viewpoint are closely
 related.
-Nicholas Addington and Richard Thomas seem to be the first to really work out the
+Nicolas Addington and Richard Thomas seem to be the first to really work out the
 precise relationship.
 Daniel Huybrechts has since then expanded on this relation and have proved some
 basic structure results for the Kuznetsov component of a cubic fourfold.
@@ -175,9 +175,16 @@ cubic fourfold is not rational.
 Unfortunately, the non-zero divisor hypothesis seems likely to be false in view
 of Lev Borisov's example which shows that the Lefschetz motive is actually a
 zero divisor in the Grothendieck ring.
+Nonetheless, the work of Galkin--Shinder suggest some further conditions for
+when a cubic fourfold might be rational through geometric properties of the
+associated Fano variety of lines, a direction further clarified by Nicolas
+Addington.
 
 * S. Galkin and E. Shinder (2014),
 [[The Fano variety of lines and rationality problem for a cubic hypersurface][GS-Fano]]{.paper}.
+* N. Addington (2016),
+[[On two rationality conjectures for cubic fourfolds][Add-GS]]{.paper},
+[MR3512874](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=3512874){.MR}.
 
 Finally, a helpful guide to the relationships between cubic fourfolds and K3
 surfaces is contained in a set of slides by Daniel Huybrechts:
@@ -196,65 +203,91 @@ We meet Wednesdays in Mathematics Room ??? between 1:15PM and 2:30PM.
 09/05
   ~ [Raymond Cheng]{.speaker},
   ~ [Introduction and Organization]{.title},
-  ~ \[[Beauville--Donagi (1985)][BD-lines]\],
-    \[[Hassett (2000)][Hassett-thesis]\],
-    \[[Hassett (2016)][Hassett-survey].
+  ~ [[Beauville--Donagi (1985)][BD-lines]]{.people},
+    [[Hassett (2000)][Hassett-thesis]]{.people},
+    [[Hassett (2016)][Hassett-survey]]{.people}.
 
 [09/]{.phantom}12
-  ~ [TBA]{.speaker},
-  ~ [TBA]{.title}.
+  ~ [No Seminar]{.speaker},
+  ~ [Raymond in Italy]{.title}.
 
 [09/]{.phantom}19
   ~ [TBA]{.speaker},
-  ~ [TBA]{.title}.
+  ~ [Hodge theory of Cubic Fourfolds]{.title}
+  ~ [[Voisin (1986)][Voisin-Torelli]]{.people},
+    [[Hassett (2000)][Hassett-thesis]]{.people},
+    [[Hassett (2016)][Hassett-survey]]{.people},
+    [Huybrechts Slides 2](assets/HuybrechtsLecture2.pdf){.people}.
 
 [09/]{.phantom}26
   ~ [TBA]{.speaker},
-  ~ [TBA]{.title}.
+  ~ [Torelli Theorem for Cubic Fourfolds]{.title},
+  ~ [[Voisin (1986)][Voisin-Torelli]]{.people},
+    [[Hassett (2000)][Hassett-thesis]]{.people},
+    [[Hassett (2016)][Hassett-survey]]{.people},
+    [Huybrechts Slides 2](assets/HuybrechtsLecture2.pdf){.people}.
 
 10/03
   ~ [TBA]{.speaker},
-  ~ [TBA]{.title}.
+  ~ [Special Cubic Fourfolds]{.title},
+  ~ [[Hassett (2000)][Hassett-thesis]]{.people},
+    [[Hassett (2016)][Hassett-survey]]{.people},
+    [Huybrechts Slides 1](assets/HuybrechtsLecture1.pdf){.people}.
 
 [10/]{.phantom}10
   ~ [TBA]{.speaker},
-  ~ [TBA]{.title},
+  ~ [K3 Surfaces Associated with Cubic Fourfolds]{.title},
+  ~ [[Hassett (2000)][Hassett-thesis]]{.people},
+    [[Hassett (2016)][Hassett-survey]]{.people},
+    [Huybrechts Slides 2](assets/HuybrechtsLecture1.pdf){.people}.
 
 [10/]{.phantom}17
   ~ [TBA]{.speaker},
-  ~ [TBA]{.title}.
+  ~ [Derived Categories of Cubic Fourfolds]{.title},
+  ~ [[Kuznetsov (2010)][Kuz-K3-category]]{.people},
+    [[Kuznetsov (2016)][Kuz-survey]]{.people},
+    [[Macrì--Stellari (2018)][MS-NCK3]]{.people}.
 
 [10/]{.phantom}24
   ~ [TBA]{.speaker},
-  ~ [TBA]{.title}.
+  ~ [Kuznetsov Component of Cubic Fourfolds]{.title},
+  ~ [[Kuznetsov (2010)][Kuz-K3-category]]{.people},
+    [[Kuznetsov (2016)][Kuz-survey]]{.people},
+    [[Macrì--Stellari (2018)][MS-NCK3]]{.people}.
 
 [10/]{.phantom}31
   ~ [TBA]{.speaker},
-  ~ [TBA]{.title}.
+  ~ [Hodge Theory and Derived Category of Cubic Fourfolds]{.title},
+  ~ [[Addington--Thomas (2014)][AT-K3]]{.people},
+    [[Huybrechts (2017)][Huy-K3]]{.people},
+    [Huybrechts Slides 3](assets/HuybrechtsLecture3.pdf){.people}.
 
 11/07
   ~ [TBA]{.speaker},
-  ~ [TBA]{.title}.
+  ~ [Rationality and the Fano Variety of Lines, Reprise]{.title},
+  ~ [[Galkin--Shinder (2014)][GS-Fano]]{.people},
+    [[Addington (2016)][Add-GS]]{.people},
+    [Huybrechts Slides 4](assets/HuybrechtsLecture4.pdf){.people}.
 
 [11/]{.phantom}14
-  ~ [TBA]{.speaker}.
-  ~ [TBA]{.title}.
+  ~ [TBA]{.speaker},
+  ~ [---]{.title}.
 
 [11/]{.phantom}24
   ~ [TBA]{.speaker}.
-  ~ [TBA]{.title}.
+  ~ [---]{.title}.
 
 [11/]{.phantom}28
   ~ [TBA]{.speaker},
-  ~ [TBA]{.title}.
+  ~ [---]{.title}.
 
 12/05
   ~ [TBA]{.speaker},
-  ~ [TBA]{.title}.
+  ~ [---]{.title}.
 
 [12/]{.phantom}12
   ~ [TBA]{.speaker},
-  ~ [TBA]{.title}.
+  ~ [---]{.title}.
 
 [Hassett-survey]: <https://link.springer.com/chapter/10.1007/978-3-319-46209-7_2>
 [Hassett-thesis]: <https://www.math.brown.edu/~bhassett/papers/cubics/cubiclong.pdf>
@@ -274,3 +307,4 @@ We meet Wednesdays in Mathematics Room ??? between 1:15PM and 2:30PM.
 [Charles-Torelli]: <https://arxiv.org/abs/1209.4509>
 [HR-Torelli]: <https://arxiv.org/abs/1610.04128>
 [BLMSZ-Torelli]: <https://arxiv.org/abs/1703.10839>
+[Add-GS]: <http://intlpress.com/site/pub/pages/journals/items/mrl/content/vols/0023/0001/a001/index.html>
