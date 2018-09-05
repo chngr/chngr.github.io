@@ -213,7 +213,7 @@ We meet Wednesdays in Mathematics Room ??? between 1:15PM and 2:30PM.
   ~ [Raymond in Italy]{.title}.
 
 [09/]{.phantom}19
-  ~ [TBA]{.speaker},
+  ~ [Carl Lian]{.speaker},
   ~ [Hodge theory of Cubic Fourfolds]{.title}
   ~ [[Voisin (1986)][Voisin-Torelli]]{.people},
     [[Hassett (2000)][Hassett-thesis]]{.people},
@@ -221,7 +221,7 @@ We meet Wednesdays in Mathematics Room ??? between 1:15PM and 2:30PM.
     [Huybrechts Slides 2](assets/HuybrechtsLecture2.pdf){.people}.
 
 [09/]{.phantom}26
-  ~ [TBA]{.speaker},
+  ~ [Dmitrii Pirozhkov]{.speaker},
   ~ [Torelli Theorem for Cubic Fourfolds]{.title},
   ~ [[Voisin (1986)][Voisin-Torelli]]{.people},
     [[Hassett (2000)][Hassett-thesis]]{.people},
@@ -243,14 +243,14 @@ We meet Wednesdays in Mathematics Room ??? between 1:15PM and 2:30PM.
     [Huybrechts Slides 2](assets/HuybrechtsLecture1.pdf){.people}.
 
 [10/]{.phantom}17
-  ~ [TBA]{.speaker},
+  ~ [Noah Olander]{.speaker},
   ~ [Derived Categories of Cubic Fourfolds]{.title},
   ~ [[Kuznetsov (2010)][Kuz-K3-category]]{.people},
     [[Kuznetsov (2016)][Kuz-survey]]{.people},
     [[Macrì--Stellari (2018)][MS-NCK3]]{.people}.
 
 [10/]{.phantom}24
-  ~ [TBA]{.speaker},
+  ~ [Dmitrii Pirozhkov]{.speaker},
   ~ [Kuznetsov Component of Cubic Fourfolds]{.title},
   ~ [[Kuznetsov (2010)][Kuz-K3-category]]{.people},
     [[Kuznetsov (2016)][Kuz-survey]]{.people},
