@@ -199,7 +199,7 @@ Hodge theory of cubic fourfolds, their Fano varieties, and associated K3 categor
 
 ## Schedule
 
-We meet Wednesdays in Mathematics Room ??? between 1:15PM and 2:30PM.
+We meet Mondays in Mathematics Room 622 between 1:15PM and 2:30PM.
 
 09/05
   ~ [Raymond Cheng]{.speaker},
