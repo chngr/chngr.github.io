@@ -222,57 +222,53 @@ We meet Mondays in Mathematics Room 622 between 1:15PM and 2:30PM.
 
 [09/]{.phantom}24
   ~ [Dmitrii Pirozhkov]{.speaker},
-  ~ [Torelli Theorem for Cubic Fourfolds]{.title},
-  ~ [[Voisin (1986)][Voisin-Torelli]]{.people},
-    [[Hassett (2000)][Hassett-thesis]]{.people},
-    [[Hassett (2016)][Hassett-survey]]{.people},
-    [Huybrechts Slides 2](assets/HuybrechtsLecture2.pdf){.people}.
-
-10/01
-  ~ [TBA]{.speaker},
   ~ [Special Cubic Fourfolds]{.title},
   ~ [[Hassett (2000)][Hassett-thesis]]{.people},
     [[Hassett (2016)][Hassett-survey]]{.people},
     [Huybrechts Slides 1](assets/HuybrechtsLecture1.pdf){.people}.
 
-[10/]{.phantom}08
+10/01
   ~ [TBA]{.speaker},
   ~ [K3 Surfaces Associated with Cubic Fourfolds]{.title},
   ~ [[Hassett (2000)][Hassett-thesis]]{.people},
     [[Hassett (2016)][Hassett-survey]]{.people},
     [Huybrechts Slides 2](assets/HuybrechtsLecture1.pdf){.people}.
 
-[10/]{.phantom}15
+[10/]{.phantom}08
   ~ [Noah Olander]{.speaker},
   ~ [Derived Categories of Cubic Fourfolds]{.title},
   ~ [[Kuznetsov (2010)][Kuz-K3-category]]{.people},
     [[Kuznetsov (2016)][Kuz-survey]]{.people},
     [[Macrì--Stellari (2018)][MS-NCK3]]{.people}.
 
-[10/]{.phantom}22
+[10/]{.phantom}15
   ~ [Dmitrii Pirozhkov]{.speaker},
   ~ [Kuznetsov Component of Cubic Fourfolds]{.title},
   ~ [[Kuznetsov (2010)][Kuz-K3-category]]{.people},
     [[Kuznetsov (2016)][Kuz-survey]]{.people},
     [[Macrì--Stellari (2018)][MS-NCK3]]{.people}.
 
-[10/]{.phantom}29
+[10/]{.phantom}22
   ~ [TBA]{.speaker},
   ~ [Hodge Theory and Derived Category of Cubic Fourfolds]{.title},
   ~ [[Addington--Thomas (2014)][AT-K3]]{.people},
     [[Huybrechts (2017)][Huy-K3]]{.people},
     [Huybrechts Slides 3](assets/HuybrechtsLecture3.pdf){.people}.
 
-11/05
-  ~ [No Seminar]{.speaker},
-  ~ [Academic Holiday]{.title}.
-
-[11/]{.phantom}12
+[10/]{.phantom}29
   ~ [TBA]{.speaker},
   ~ [Rationality and the Fano Variety of Lines, Reprise]{.title},
   ~ [[Galkin--Shinder (2014)][GS-Fano]]{.people},
     [[Addington (2016)][Add-GS]]{.people},
     [Huybrechts Slides 4](assets/HuybrechtsLecture4.pdf){.people}.
+
+11/05
+  ~ [No Seminar]{.speaker},
+  ~ [Academic Holiday]{.title}.
+
+[11/]{.phantom}12
+  ~ [TBA]{.speaker}.
+  ~ [---]{.title}.
 
 [11/]{.phantom}19
   ~ [TBA]{.speaker}.
