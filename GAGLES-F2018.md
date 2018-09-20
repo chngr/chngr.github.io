@@ -221,7 +221,7 @@ We meet Mondays in Mathematics Room 622 between 1:15PM and 2:30PM.
     [Huybrechts Slides 2](assets/HuybrechtsLecture2.pdf){.people}.
 
 [09/]{.phantom}24
-  ~ [Dmitrii Pirozhkov]{.speaker},
+  ~ [Raymond Cheng]{.speaker},
   ~ [Special Cubic Fourfolds]{.title},
   ~ [[Hassett (2000)][Hassett-thesis]]{.people},
     [[Hassett (2016)][Hassett-survey]]{.people},
