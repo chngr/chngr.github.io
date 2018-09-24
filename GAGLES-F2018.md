@@ -221,15 +221,13 @@ We meet Mondays in Mathematics Room 622 between 1:15PM and 2:30PM.
     [Huybrechts Slides 2](assets/HuybrechtsLecture2.pdf){.people}.
 
 [09/]{.phantom}24
-  ~ [Raymond Cheng]{.speaker},
-  ~ [Special Cubic Fourfolds]{.title},
-  ~ [[Hassett (2000)][Hassett-thesis]]{.people},
-    [[Hassett (2016)][Hassett-survey]]{.people},
-    [Huybrechts Slides 1](assets/HuybrechtsLecture1.pdf){.people}.
+  ~ [No Seminar]{.speaker},
+  ~ [Post-AGNES Lull]{.title}.
 
 10/01
   ~ [TBA]{.speaker},
-  ~ [K3 Surfaces Associated with Cubic Fourfolds]{.title},
+  ~ [Raymond Cheng]{.speaker},
+  ~ [Special Cubic Fourfolds and Associated K3 Surfaces]{.title},
   ~ [[Hassett (2000)][Hassett-thesis]]{.people},
     [[Hassett (2016)][Hassett-survey]]{.people},
     [Huybrechts Slides 2](assets/HuybrechtsLecture1.pdf){.people}.
