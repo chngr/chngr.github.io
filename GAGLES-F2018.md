@@ -197,6 +197,12 @@ Hodge theory of cubic fourfolds, their Fano varieties, and associated K3 categor
 [3](assets/HuybrechtsLecture3.pdf),
 [4](assets/HuybrechtsLecture4.pdf).
 
+For a more up-to-date and more polished reference, see also Daniel Huybrechts's
+notes in progress:
+
+* D. Huybrechts (2018),
+[[The geometry of cubic hypersurfaces][Huy-Notes]]{.paper}.
+
 ## Schedule
 
 We meet Mondays in Mathematics Room 622 between 1:15PM and 2:30PM.
@@ -240,24 +246,21 @@ We meet Mondays in Mathematics Room 622 between 1:15PM and 2:30PM.
 
 [10/]{.phantom}15
   ~ [Dmitrii Pirozhkov]{.speaker},
-  ~ [Kuznetsov Component of Cubic Fourfolds]{.title},
-  ~ [[Kuznetsov (2010)][Kuz-K3-category]]{.people},
-    [[Kuznetsov (2016)][Kuz-survey]]{.people},
-    [[Macrì--Stellari (2018)][MS-NCK3]]{.people}.
-
-[10/]{.phantom}22
-  ~ [TBA]{.speaker},
   ~ [Hodge Theory and Derived Category of Cubic Fourfolds]{.title},
   ~ [[Addington--Thomas (2014)][AT-K3]]{.people},
     [[Huybrechts (2017)][Huy-K3]]{.people},
     [Huybrechts Slides 3](assets/HuybrechtsLecture3.pdf){.people}.
 
-[10/]{.phantom}29
+[10/]{.phantom}22
   ~ [TBA]{.speaker},
   ~ [Rationality and the Fano Variety of Lines, Reprise]{.title},
   ~ [[Galkin--Shinder (2014)][GS-Fano]]{.people},
     [[Addington (2016)][Add-GS]]{.people},
     [Huybrechts Slides 4](assets/HuybrechtsLecture4.pdf){.people}.
+
+[10/]{.phantom}29
+  ~ [TBA]{.speaker},
+  ~ [---]{.title}.
 
 11/05
   ~ [No Seminar]{.speaker},
@@ -303,3 +306,4 @@ We meet Mondays in Mathematics Room 622 between 1:15PM and 2:30PM.
 [HR-Torelli]: <https://arxiv.org/abs/1610.04128>
 [BLMSZ-Torelli]: <https://arxiv.org/abs/1703.10839>
 [Add-GS]: <http://intlpress.com/site/pub/pages/journals/items/mrl/content/vols/0023/0001/a001/index.html>
+[Huy-Notes]: <http://www.math.uni-bonn.de/people/huybrech/Notes.pdf>
