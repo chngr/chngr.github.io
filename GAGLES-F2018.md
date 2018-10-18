@@ -246,21 +246,24 @@ We meet Mondays in Mathematics Room 622 between 1:15PM and 2:30PM.
 
 [10/]{.phantom}15
   ~ [Dmitrii Pirozhkov]{.speaker},
+  ~ [Kuznetsov Component of Cubic Fourfolds]{.title},
+  ~ [[Kuznetsov (2010)][Kuz-K3-category]]{.people},
+    [[Kuznetsov (2016)][Kuz-survey]]{.people},
+    [[Macrì--Stellari (2018)][MS-NCK3]]{.people}.
+
+[10/]{.phantom}22
+  ~ [Dmitrii Pirozhkov]{.speaker},
   ~ [Hodge Theory and Derived Category of Cubic Fourfolds]{.title},
   ~ [[Addington--Thomas (2014)][AT-K3]]{.people},
     [[Huybrechts (2017)][Huy-K3]]{.people},
     [Huybrechts Slides 3](assets/HuybrechtsLecture3.pdf){.people}.
 
-[10/]{.phantom}22
+[10/]{.phantom}29
   ~ [TBA]{.speaker},
   ~ [Rationality and the Fano Variety of Lines, Reprise]{.title},
   ~ [[Galkin--Shinder (2014)][GS-Fano]]{.people},
     [[Addington (2016)][Add-GS]]{.people},
     [Huybrechts Slides 4](assets/HuybrechtsLecture4.pdf){.people}.
-
-[10/]{.phantom}29
-  ~ [TBA]{.speaker},
-  ~ [---]{.title}.
 
 11/05
   ~ [No Seminar]{.speaker},
