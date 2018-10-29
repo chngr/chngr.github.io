@@ -259,7 +259,7 @@ We meet Mondays in Mathematics Room 622 between 1:15PM and 2:30PM.
     [Huybrechts Slides 3](assets/HuybrechtsLecture3.pdf){.people}.
 
 [10/]{.phantom}29
-  ~ [TBA]{.speaker},
+  ~ [Carl Lian]{.speaker},
   ~ [Rationality and the Fano Variety of Lines, Reprise]{.title},
   ~ [[Galkin--Shinder (2014)][GS-Fano]]{.people},
     [[Addington (2016)][Add-GS]]{.people},
