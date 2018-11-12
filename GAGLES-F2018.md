@@ -270,12 +270,10 @@ We meet Mondays in Mathematics Room 622 between 1:15PM and 2:30PM.
   ~ [Academic Holiday]{.title}.
 
 [11/]{.phantom}12
-  ~ [TBA]{.speaker}.
-  ~ [---]{.title}.
+  ~ [No Seminar]{.speaker}.
 
 [11/]{.phantom}19
-  ~ [TBA]{.speaker}.
-  ~ [---]{.title}.
+  ~ [No Seminar]{.speaker}.
 
 [11/]{.phantom}26
   ~ [TBA]{.speaker},
