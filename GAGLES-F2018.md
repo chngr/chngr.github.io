@@ -276,8 +276,8 @@ We meet Mondays in Mathematics Room 622 between 1:15PM and 2:30PM.
   ~ [No Seminar]{.speaker}.
 
 [11/]{.phantom}26
-  ~ [TBA]{.speaker},
-  ~ [---]{.title}.
+  ~ [Dmitrii Pirozhkov]{.speaker},
+  ~ [Symplectic structures on moduli spaces of sheaves via the Atiyah class]{.title}.
 
 12/03
   ~ [TBA]{.speaker},
