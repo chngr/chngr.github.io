@@ -279,13 +279,6 @@ We meet Mondays in Mathematics Room 622 between 1:15PM and 2:30PM.
   ~ [Dmitrii Pirozhkov]{.speaker},
   ~ [Symplectic structures on moduli spaces of sheaves via the Atiyah class]{.title}.
 
-12/03
-  ~ [TBA]{.speaker},
-  ~ [---]{.title}.
-
-[12/]{.phantom}10
-  ~ [TBA]{.speaker},
-  ~ [---]{.title}.
 
 [Hassett-survey]: <https://link.springer.com/chapter/10.1007/978-3-319-46209-7_2>
 [Hassett-thesis]: <https://www.math.brown.edu/~bhassett/papers/cubics/cubiclong.pdf>
