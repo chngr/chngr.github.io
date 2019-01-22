@@ -17,6 +17,14 @@
         });
       </script>
       <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132872354-1"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-132872354-1');
+      </script>
       <link rel="stylesheet" type="text/css" href="css/style.css"/>
       $if(html-title)$
       <title>$html-title$</title>
@@ -24,13 +32,29 @@
       <title>$title$</title>
       $endif$
   </head>
-  <body id="content">
-    <main role="main">
-      <h1 id="name">$title$</h1>
-      $if(subtitle)$
-      <span class="subtitle">$subtitle$</span>
-      $endif$
-        $body$
+  <body>
+    <div id="header">
+      <div id="header-side">
+        <h1><a id="name" href="/">Raymond Cheng</a></h1>
+      </div>
+      <div id="header-content">
+        $if(heading)$
+        <h1 class="heading">$heading$</h1>
+        $endif$
+        $if(subheading)$
+        <div class="subheading">$subheading$</div>
+        $endif$
+      </div>
+    </div>
+    <div id="side-bar">
+      <a href="/writing.html">writing</a>
+      <a href="/teaching.html">teaching</a>
+      <a href="/organization.html">organization</a>
+    </div>
+    <div id="content">
+      $body$
+    </div>
+
     </main>
   </body>
 </html>

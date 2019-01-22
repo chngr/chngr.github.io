@@ -1,6 +1,7 @@
 ---
 title: Cubic Fourfolds, Rationality, etc.
-subtitle: An episode of <a title="Graduate Algebraic Geometry LEarning Seminar">GAGLeS</a> organized by <span class="people"><a href="index.html">Raymond Cheng</a></span> during the fall of 2018.
+heading: Cubic Fourfolds, Rationality, etc.
+subheading: An episode of <a title="Graduate Algebraic Geometry LEarning Seminar">GAGLeS</a> organized by <span class="people"><a href="index.html">Raymond Cheng</a></span> during the fall of 2018.
 ---
 
 Cubic fourfolds, i.e. nonsingular cubic hypersurface in projective five space,
