@@ -1,6 +1,7 @@
 ---
 title: Topics on Abelian Varieties
-subtitle: An episode of <a title="Graduate Algebraic Geometry LEarning Seminar">GAGLeS</a> organized by <span class="people"><a href="index.html">Raymond Cheng</a></span> during the spring of 2018.
+heading: Topics on Abelian Varieties
+subheading: An episode of <a title="Graduate Algebraic Geometry LEarning Seminar">GAGLeS</a> organized by <span class="people"><a href="index.html">Raymond Cheng</a></span> during the spring of 2018.
 ---
 
 The first half of this seminar aims to develop the basic theory of abelian

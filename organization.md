@@ -10,7 +10,7 @@ I have organized seminars in the past; here is an archive of their webpages.
 
   * Summer 2018 ---
   (with [Shizhang Li](http://math.columbia.edu/~shanbei){.people})
-  [Integral \(p\)-adic Hodge theory](BMS-S2018.html).
+  [Integral \\(p\\)-adic Hodge theory](BMS-S2018.html).
 
   * Spring 2018 ---
   [Topics on Abelian Varieties](GAGLES-S2018.html).
