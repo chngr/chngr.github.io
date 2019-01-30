@@ -11,12 +11,14 @@ p {
   --side-bar-width: 12em;
   --content-width: 43em;
   --side-bar-content-divider: 1em;
+
 }
 
 body {
   width: calc(var(--side-bar-width) + var(--content-width) + var(--side-bar-content-divider));
   margin: 4em auto 4em auto;
   background: transparent;
+  font-family: 'Noto Sans', sans-serif;
 }
 
 #header {
@@ -199,8 +201,9 @@ dt {
 }
 
 .references {
-  font-style: monospace;
+  font-family: monospace;
 }
+
 
 .schedule-first {
   color: indigo;
