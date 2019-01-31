@@ -65,7 +65,7 @@ body {
 }
 
 h1 {
-  font-size: 1.47em;
+  font-size: 1.45em;
 }
 
 h2 {
@@ -178,8 +178,7 @@ dl {
 }
 
 dd {
-  padding-left: 0.5em;
-  border-left: 1px solid black;
+  padding-left: 0.75em
 }
 
 dt {
@@ -188,6 +187,8 @@ dt {
   width: 3em;
   font-weight: bold;
   top: 1.38em;
+  border-right: 1px solid black;
+  margin-right: 1em;
 }
 
 .phantom {
