@@ -55,6 +55,7 @@ body {
 #side-bar {
   float: left;
   width: var(--side-bar-width);
+  clear: both;
 }
 
 #side-bar a {
