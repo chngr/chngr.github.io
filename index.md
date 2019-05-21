@@ -5,13 +5,16 @@ heading: About
 
 I am a third year mathematics graduate student at
 [Columbia University](http://math.columbia.edu).
-Sometimes, I heed the advice of [[Johan de Jong](http://math.columbia.edu/~dejong)]{.people}.
+I have the pleasure and privilege to converse regularly with
+[[Aise Johan de Jong](http://math.columbia.edu/~dejong)]{.people}.
 Geometry fascinates me, with algebraic methods my preferred means of exploration.
+In particular, I think a lot about rational curves, rationality problems, and
+geometry in positive characteristic.
 
 ### Current Projects
-During the semester of Spring 2019, I am:
+During the Summer of 2019, I am:
 
-- teaching [Calculus II](S2019.html).
+- mentoring a joint Columbia--Paris IV [REU program](https://global.undergrad.columbia.edu/program/columbia-summer-undergraduate-math-research-program-paris).
 
 ### Contact
 <span class="contact-wrapper">
