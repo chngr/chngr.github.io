@@ -3,7 +3,7 @@ title: Raymond Cheng
 heading: About
 ---
 
-I am a third year mathematics graduate student at
+I am a fourth year mathematics graduate student at
 [Columbia University](http://math.columbia.edu).
 I have the pleasure and privilege to converse regularly with
 [[Aise Johan de Jong](http://math.columbia.edu/~dejong)]{.people}.
@@ -12,9 +12,10 @@ In particular, I think a lot about rational curves, rationality problems, and
 geometry in positive characteristic.
 
 ### Current Projects
-During the Summer of 2019, I am:
+During the Fall of 2019, I am:
 
-- mentoring a joint Columbia--Paris IV [REU program](https://global.undergrad.columbia.edu/program/columbia-summer-undergraduate-math-research-program-paris).
+- leading an undergraduate seminar on (tentatively) [Differential Galois
+  Theory](F2019.html).
 
 ### Contact
 <span class="contact-wrapper">
