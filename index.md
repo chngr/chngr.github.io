@@ -15,7 +15,9 @@ geometry in positive characteristic.
 During the Fall of 2019, I am:
 
 - leading an undergraduate seminar on (tentatively) [Differential Galois
-  Theory](F2019.html).
+  Theory](F2019.html);
+- giving a talk in the Columbia [Undergraduate Mathematics
+  Society](http://math.columbia.edu/~ums/) at 7:30 PM on September 11.
 
 ### Contact
 <span class="contact-wrapper">

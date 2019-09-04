@@ -9,7 +9,7 @@ Here is an archive of teaching activities I have been involved in.
   Undergraduate seminar on [Differential Galois Theory](F2019.html).
 
 * Summer 2019 ---
-  Co-Lead of a joint Columbia--Paris IV [REU program](https://global.undergrad.columbia.edu/program/columbia-summer-undergraduate-math-research-program-paris).
+  Co-Lead of a joint Columbia--Paris VII [REU program](https://global.undergrad.columbia.edu/program/columbia-summer-undergraduate-math-research-program-paris).
 
 * Spring 2019 ---
   [Calculus II](S2019.html).
