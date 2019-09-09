@@ -9,7 +9,7 @@ I have organized seminars in the past; here is an archive of their webpages.
   [Cubic Fourfolds, Rationality, etc](GAGLES-F2018.html)
 
   * Summer 2018 ---
-  (with [Shizhang Li](http://math.columbia.edu/~shanbei){.people})
+  (with [Shizhang Li](http://shizhang.li){.people})
   [Integral \\(p\\)-adic Hodge theory](BMS-S2018.html).
 
   * Spring 2018 ---
