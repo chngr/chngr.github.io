@@ -18,7 +18,7 @@ During the Fall of 2019, I am:
 - working on a paper about the derived category of certain double quartic
   fivefolds with [Huachen Chen](https://sites.google.com/view/huachen/){.people},
   [Tony Feng](https://www.mit.edu/~fengt/){.people},
-  [Alex Perry](https://math.columbia.edu/~aperry/){.people},
+  [Alex Perry](http://www.math.ias.edu/~aperry/){.people},
   and [Xiaolei Zhao](https://sites.google.com/site/xiaoleizhaoswebsite/){.people}.
   It's almost done and sort of fun; stay tuned!
 - working on another paper about a family of varieties that look like orthogonal

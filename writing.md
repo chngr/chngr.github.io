@@ -11,7 +11,7 @@ Collected here is the writing that I have done over the various years.
 <div class="paper-title">Derived Categories of Quartic Double Fivefolds,</div>
 <div class="coauthor">with [Huachen Chen](https://sites.google.com/view/huachen/){.people},
                            [Tony Feng](https://www.mit.edu/~fengt/){.people},
-                           [Alex Perry](https://math.columbia.edu/~aperry/){.people}, and
+                           [Alex Perry](http://www.math.ias.edu/~aperry/){.people}, and
                            [Xiaolei Zhao](https://sites.google.com/site/xiaoleizhaoswebsite/){.people}.</div>
 <div class="journal">In preparation.</div>
 </div>
