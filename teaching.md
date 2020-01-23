@@ -5,6 +5,9 @@ heading: Teaching
 
 Here is an archive of teaching activities I have been involved in.
 
+* Spring 2020 ---
+  Undergraduate seminar on [The Arithmetic of Elliptic Curves](S2020.html).
+
 * Fall 2019 ---
   Undergraduate seminar on [Differential Galois Theory](F2019.html).
 

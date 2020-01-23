@@ -12,17 +12,17 @@ In particular, I think a lot about rational curves, rationality problems, and
 geometry in positive characteristic.
 
 ### Current Projects
-During the Fall of 2019, I am:
+During the Spring of 2020, I am:
 
-- leading an undergraduate seminar on [Differential Galois Theory](F2019.html);
-- working on a paper about the derived category of certain double quartic
-  fivefolds with [Huachen Chen](https://sites.google.com/view/huachen/){.people},
-  [Tony Feng](https://www.mit.edu/~fengt/){.people},
-  [Alex Perry](http://www.math.ias.edu/~aperry/){.people},
-  and [Xiaolei Zhao](https://sites.google.com/site/xiaoleizhaoswebsite/){.people}.
-  It's almost done and sort of fun; stay tuned!
-- working on another paper about a family of varieties that look like orthogonal
-  Grassmannian in positive characteristic: they are pretty weird and awesome!
+- leading an undergraduate seminar on [The Arithmetic of Elliptic Curves](S2020.html);
+- giving a
+  [talk](https://research.math.osu.edu/arithgeoseminar/ArithGeomSeminar.html) at
+  The Ohio State University on February 25: come hang out!
+- attending [AGNES](http://www.agneshome.org/stony-brook-2020) at Stony Brook
+  between March 27 and March 29: see you there!
+- thinking about conic bundles and some positive characteristic analogues of
+  them, Deligne--Lusztig theory, and more around the geometry of rational curves
+  in positive characteristic; let's talk!
 
 ### Contact
 <span class="contact-wrapper">
