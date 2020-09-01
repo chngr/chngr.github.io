@@ -16,7 +16,8 @@ main = hakyll $ do
         compile compressCssCompiler
 
     match (fromList [
-                      "S2020.md"
+                      "F2020.md"
+                    , "S2020.md"
                     , "F2019.md"
                     , "S2019.md"
                     , "F2018.md"

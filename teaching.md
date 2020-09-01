@@ -5,6 +5,9 @@ heading: Teaching
 
 Here is an archive of teaching activities I have been involved in.
 
+* Fall 2020 ---
+  Undergraduate seminar on [Indra's Pearls](F2020.html).
+
 * Spring 2020 ---
   Undergraduate seminar on [The Arithmetic of Elliptic Curves](S2020.html).
 
