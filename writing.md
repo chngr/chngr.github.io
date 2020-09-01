@@ -47,3 +47,19 @@ with guidance from [Davesh Maulik](http://www-math.mit.edu/~maulik/){.people}.
 The source code for this project is available
 <a href="https://github.com/chngr/mgbar-proj">here</a>.
 </div>
+
+2. <div class="paper">
+<div class="paper-title">Theorem of the Base</div>
+<p class="paper-description">
+This is a project started at the
+[Stacks Project Workshop](https://stacks.github.io/) during August of 2020
+together with
+[Lena Ji](https://web.math.princeton.edu/~lji/){.people},
+[Matt Larson](https://stanford.edu/~mwlarson/){.people},
+[Noah Olander](http://math.columbia.edu/~nolander/){.people}, and
+[Remy van Dobben de Bruyn](https://web.math.princeton.edu/~rdobben/){.people}.
+We give an exposition of the Theorem of the Base, which states that the
+Néron--Severi group of a proper scheme over a field is a finitely generated
+abelian group. The document is still in quite a rough form, but it is available
+upon request.
+</div>
