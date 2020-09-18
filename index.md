@@ -19,7 +19,8 @@ During the Fall of 2020, I am:
   [talk](http://www.ams.org/meetings/sectional/2278_progfull.html) at the Fall
   Eastern Sectional Meeting of the AMS on October 4;
 - giving a
-  [talk](https://sites.google.com/view/agsags/calendar) sometime this fall; and
+  [talk](https://sites.google.com/view/agsags/calendar) in the American
+  Graduate Student Algebraic Geometry Seminar on November 11; and
 - thinking about a peculiar Artin--Schreier covering of surfaces I found, in
   hopes of computing some cohomology!
 
