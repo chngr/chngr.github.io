@@ -5,6 +5,9 @@ heading: Teaching
 
 Here is an archive of teaching activities I have been involved in.
 
+* Spring 2021 ---
+  Undergraduate seminar on [Origami](S2021.html).
+
 * Fall 2020 ---
   Undergraduate seminar on [Indra's Pearls](F2020.html).
 

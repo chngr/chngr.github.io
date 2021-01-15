@@ -12,17 +12,10 @@ In particular, I think a lot about rational curves, rationality problems, and
 geometry in positive characteristic.
 
 ### Current Projects
-During the Fall of 2020, I am:
+During the Spring of 2021, I am:
 
-- leading an undergraduate seminar on [Indra's Pearls](F2020.html);
-- giving a
-  [talk](http://www.ams.org/meetings/sectional/2278_progfull.html) at the Fall
-  Eastern Sectional Meeting of the AMS on October 4;
-- giving a
-  [talk](https://sites.google.com/view/agsags/calendar) in the American
-  Graduate Student Algebraic Geometry Seminar on November 11; and
-- thinking about a peculiar Artin--Schreier covering of surfaces I found, in
-  hopes of computing some cohomology!
+- leading an undergraduate seminar on [Origami](S2021.html); and
+- thinking about \\(q\\)-bic surfaces in positive characteristic!
 
 ### Contact
 <span class="contact-wrapper">
