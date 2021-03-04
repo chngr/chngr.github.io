@@ -17,6 +17,11 @@ During the Spring of 2021, I am:
 - leading an undergraduate seminar on [Origami](S2021.html); and
 - thinking about \\(q\\)-bic surfaces in positive characteristic!
 
+Recently, I also thought about negative curves in rational surfaces in positive
+characteristic with
+[[Remy van Dobben de Bruyn](https://web.math.princeton.edu/~rdobben/)]{.people};
+check it out [here](https://arxiv.org/abs/2103.02172)!
+
 ### Contact
 <span class="contact-wrapper">
 email: <br/>
