@@ -25,7 +25,7 @@ Collected here is the writing that I have done over the various years.
 3. <div class="paper">
 <div class="paper-title">Combinatorial iterated integrals and the harmonic volume of graphs,</div>
 <div class="coauthor">with [Eric Katz](https://people.math.osu.edu/katz.60/){.people}.</div>
-<div class="journal">Submitted.</div>
+<div class="journal">To appear in Adv. in Appl. Math.</div>
 <div class="paper-links">([arXiv](https://arxiv.org/abs/1709.01175) | [pdf](/assets/unipotent.pdf))</div>
 </div>
 
