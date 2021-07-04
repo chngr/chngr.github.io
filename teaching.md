@@ -31,7 +31,7 @@ Here is an archive of teaching activities I have been involved in.
   [REU on Curves on Surfaces Over Finite Fields](http://www.math.columbia.edu/department/website/wp-content/uploads/2018/01/REU2018-LittPerry.pdf),
   led by
   [Daniel Litt](https://www.daniellitt.com/){.people} and
-  [Alex Perry](http://www.math.ias.edu/~aperry/){.people}.
+  [Alex Perry](http://www-personal.umich.edu/~arper/){.people}.
 
 * Spring 2018 ---
   TA for

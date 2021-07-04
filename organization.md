@@ -16,9 +16,9 @@ I have organized seminars in the past; here is an archive of their webpages.
   [Topics on Abelian Varieties](GAGLES-S2018.html).
 
   * Fall 2017 ---
-  (with [Carl Lian](http://math.columbia.edu/~clian){.people})
+  (with [Carl Lian](https://sites.google.com/view/carllian){.people})
   [Moduli of Sheaves](http://math.columbia.edu/~clian/aglsf17.html).
 
   * Summer 2017 ---
-  (with [Carl Lian](http://math.columbia.edu/~clian){.people})
+  (with [Carl Lian](https://sites.google.com/view/carllian){.people})
   [Classic Papers in Algebraic Geometry](http://www.math.columbia.edu/~clian/classics17.html).
