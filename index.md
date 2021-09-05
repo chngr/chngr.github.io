@@ -3,7 +3,7 @@ title: Raymond Cheng
 heading: About
 ---
 
-I will be a sixth year mathematics graduate student at
+I am a sixth year mathematics graduate student at
 [Columbia University](http://math.columbia.edu).
 I have the pleasure and privilege to converse regularly with
 [[Aise Johan de Jong](http://math.columbia.edu/~dejong)]{.people}.
@@ -12,14 +12,12 @@ In particular, I think a lot about rational curves, rationality problems, and
 geometry in positive characteristic.
 
 ### Current Projects
-During the Summer of 2021, I am:
+During the Fall of 2021, I am:
 
-- thinking about \\(q\\)-bic surfaces in positive characteristic!
-
-Recently, I also thought about negative curves in rational surfaces in positive
-characteristic with
-[[Remy van Dobben de Bruyn](https://web.math.princeton.edu/~rdobben/)]{.people};
-check it out [here](https://arxiv.org/abs/2103.02172)!
+- writing about the geometry of \\(q\\)-bic hypersurfaces. If you are
+interested, take a look at a [talk](https://www.youtube.com/watch?v=0xx6MBSB1BY)
+I gave on this during the summer!
+- leading an Undergraduate Seminar on [Entropy and Diversity](F2021.html).
 
 ### Contact
 <span class="contact-wrapper">

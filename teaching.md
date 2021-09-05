@@ -5,6 +5,9 @@ heading: Teaching
 
 Here is an archive of teaching activities I have been involved in.
 
+* Fall 2021 ---
+  Undergraduate seminar on [Entropy and Diversity](F2021.html).
+
 * Spring 2021 ---
   Undergraduate seminar on [Origami](S2021.html).
 

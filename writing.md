@@ -42,8 +42,8 @@ Collected here is the writing that I have done over the various years.
 5. <div class="paper">
 <div class="paper-title">Combinatorial iterated integrals and the harmonic volume of graphs,</div>
 <div class="coauthor">with [Eric Katz](https://people.math.osu.edu/katz.60/){.people}.</div>
-<div class="journal">To appear in Adv. in Appl. Math.</div>
-<div class="paper-links">([arXiv](https://arxiv.org/abs/1709.01175) | [pdf](/assets/unipotent.pdf))</div>
+<div class="journal">Adv. in Appl. Math. <b>128</b> (2021), 102190, 23 pp.</div>
+<div class="paper-links">([arXiv](https://arxiv.org/abs/1709.01175) | [journal](https://doi.org/10.1016/j.aam.2021.102190) | [pdf](/assets/unipotent.pdf))</div>
 </div>
 
 6. <div class="paper">
