@@ -12,7 +12,7 @@ Collected here is the writing that I have done over the various years.
 <div class="coauthor">with [Carl Lian](https://sites.google.com/view/carllian){.people},
                            [Yordanka Kovacheva](https://math.umd.edu/~ykovache/){.people},
                            [Monica Marinescu](https://www.math.columbia.edu/~marinescu/){.people}, and
-                           [Takumi Murayama](https://web.math.princeton.edu/~takumim/){.people},</div>
+                           [Takumi Murayama](https://web.math.princeton.edu/~takumim/){.people}.</div>
 <div class="paper-links">([pdf](/assets/mgbar.pdf))</div>
 </div>
 
@@ -20,13 +20,14 @@ Collected here is the writing that I have done over the various years.
 <div class="paper-title">Theorem of the Base,</div>
 <div class="coauthor">with [Lena Ji](https://web.math.princeton.edu/~lji/){.people},
                            [Matt Larson](https://stanford.edu/~mwlarson/){.people}, and
-                           [Noah Olander](https://math.columbia.edu/~nolander/){.people},</div>
+                           [Noah Olander](https://math.columbia.edu/~nolander/){.people}.</div>
 <div class="paper-links">([pdf](/assets/theorem-of-the-base.pdf))</div>
 </div>
 
 3. <div class="paper">
 <div class="paper-title">Unbounded negativity on rational surfaces in positive characteristic,</div>
-<div class="coauthor">with [Remy van Dobben de Bruyn](https://web.math.princeton.edu/~rdobben/){.people},</div>
+<div class="coauthor">with [Remy van Dobben de Bruyn](https://web.math.princeton.edu/~rdobben/){.people}.</div>
+<div class="journal">Accepted in J. Reine Angew. Math.</div>
 <div class="paper-links">([arxiv](https://arxiv.org/abs/2103.02172) | [pdf](/assets/negcurves.pdf))</div>
 </div>
 
