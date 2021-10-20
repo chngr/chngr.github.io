@@ -9,7 +9,7 @@ I have the pleasure and privilege to converse regularly with
 [[Aise Johan de Jong](http://math.columbia.edu/~dejong)]{.people}.
 Geometry fascinates me, with algebraic methods my preferred means of exploration.
 In particular, I think a lot about rational curves, rationality problems, and
-geometry in positive characteristic.
+geometry in positive characteristic. Here is a [CV](assets/cv.pdf).
 
 ### Current Projects
 During the Fall of 2021, I am:
@@ -17,6 +17,10 @@ During the Fall of 2021, I am:
 - writing about the geometry of \\(q\\)-bic hypersurfaces. If you are
 interested, take a look at a [talk](https://www.youtube.com/watch?v=0xx6MBSB1BY)
 I gave on this during the summer!
+- speaking in [Number Theory and Algebraic Geometry
+  Seminar @ SFU](http://www.cecm.sfu.ca/~nbruin/NTAG/) on October 28.
+- speaking in the [Algebraic Geometry Seminar @ Stony
+  Brook](https://www.math.stonybrook.edu/agenda?LocationID=1) on November 3.
 - leading an Undergraduate Seminar on [Entropy and Diversity](F2021.html).
 
 ### Contact

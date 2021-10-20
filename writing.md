@@ -13,20 +13,22 @@ Collected here is the writing that I have done over the various years.
                            [Yordanka Kovacheva](https://math.umd.edu/~ykovache/){.people},
                            [Monica Marinescu](https://www.math.columbia.edu/~marinescu/){.people}, and
                            [Takumi Murayama](https://web.math.princeton.edu/~takumim/){.people}.</div>
+<div class="journal">To appear in <em>SPEC: Stacks Project Expository Collection</em>.</div>
 <div class="paper-links">([pdf](/assets/mgbar.pdf))</div>
 </div>
 
 2. <div class="paper">
 <div class="paper-title">Theorem of the Base,</div>
-<div class="coauthor">with [Lena Ji](https://web.math.princeton.edu/~lji/){.people},
+<div class="coauthor">with [Lena Ji](http://www-personal.umich.edu/~lenaji/){.people},
                            [Matt Larson](https://stanford.edu/~mwlarson/){.people}, and
                            [Noah Olander](https://math.columbia.edu/~nolander/){.people}.</div>
+<div class="journal">To appear in <em>SPEC: Stacks Project Expository Collection</em>.</div>
 <div class="paper-links">([pdf](/assets/theorem-of-the-base.pdf))</div>
 </div>
 
 3. <div class="paper">
 <div class="paper-title">Unbounded negativity on rational surfaces in positive characteristic,</div>
-<div class="coauthor">with [Remy van Dobben de Bruyn](https://web.math.princeton.edu/~rdobben/){.people}.</div>
+<div class="coauthor">with [Remy van Dobben de Bruyn](https://pub.math.leidenuniv.nl/~dobbendebruynrvan/){.people}.</div>
 <div class="journal">Accepted in J. Reine Angew. Math.</div>
 <div class="paper-links">([arxiv](https://arxiv.org/abs/2103.02172) | [pdf](/assets/negcurves.pdf))</div>
 </div>
