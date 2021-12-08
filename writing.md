@@ -29,8 +29,8 @@ Collected here is the writing that I have done over the various years.
 3. <div class="paper">
 <div class="paper-title">Unbounded negativity on rational surfaces in positive characteristic,</div>
 <div class="coauthor">with [Remy van Dobben de Bruyn](https://pub.math.leidenuniv.nl/~dobbendebruynrvan/){.people}.</div>
-<div class="journal">Accepted in J. Reine Angew. Math.</div>
-<div class="paper-links">([arxiv](https://arxiv.org/abs/2103.02172) | [pdf](/assets/negcurves.pdf))</div>
+<div class="journal">To appear in J. Reine Angew. Math.</div>
+<div class="paper-links">([arxiv](https://arxiv.org/abs/2103.02172) | [doi](https://doi.org/10.1515/crelle-2021-0078) | [pdf](/assets/negcurves.pdf))</div>
 </div>
 
 4. <div class="paper">
@@ -46,13 +46,13 @@ Collected here is the writing that I have done over the various years.
 <div class="paper-title">Combinatorial iterated integrals and the harmonic volume of graphs,</div>
 <div class="coauthor">with [Eric Katz](https://people.math.osu.edu/katz.60/){.people}.</div>
 <div class="journal">Adv. in Appl. Math. <b>128</b> (2021), 102190, 23 pp.</div>
-<div class="paper-links">([arXiv](https://arxiv.org/abs/1709.01175) | [journal](https://doi.org/10.1016/j.aam.2021.102190) | [pdf](/assets/unipotent.pdf))</div>
+<div class="paper-links">([arXiv](https://arxiv.org/abs/1709.01175) | [doi](https://doi.org/10.1016/j.aam.2021.102190) | [pdf](/assets/unipotent.pdf))</div>
 </div>
 
 6. <div class="paper">
 <div class="paper-title">Combinatorial aspects of the quantized universal enveloping algebra of \\(\\mathfrak{sl}\_{n+1}\\)</div>
 <div class="coauthor">with [David M. Jackson](http://www.math.uwaterloo.ca/~dmjackso/){.people} and [Geoff Stanley](https://scholar.google.co.uk/citations?user=Dj5z2DwAAAAJ&hl=en).</div>
 <div class="journal">Ann. Comb. 22 (2018), no. 4, 681–710.</div>
-<div class="paper-links">([arXiv](https://arxiv.org/abs/1601.01377) | [journal](https://doi.org/10.1007/s00026-018-0404-2) | [pdf](/assets/hopfstr.pdf))</div>
+<div class="paper-links">([arXiv](https://arxiv.org/abs/1601.01377) | [doi](https://doi.org/10.1007/s00026-018-0404-2) | [pdf](/assets/hopfstr.pdf))</div>
 </div>
 
