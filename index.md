@@ -12,16 +12,14 @@ In particular, I think a lot about rational curves, rationality problems, and
 geometry in positive characteristic. Here is a [CV](assets/cv.pdf).
 
 ### Current Projects
-During the Fall of 2021, I am:
+During the Spring of 2022, I am:
 
 - writing about the geometry of \\(q\\)-bic hypersurfaces. If you are
-interested, take a look at a [talk](https://www.youtube.com/watch?v=0xx6MBSB1BY)
-I gave on this during the summer!
-- speaking in [Number Theory and Algebraic Geometry
-  Seminar @ SFU](http://www.cecm.sfu.ca/~nbruin/NTAG/) on October 28.
-- speaking in the [Algebraic Geometry Seminar @ Stony
-  Brook](https://www.math.stonybrook.edu/agenda?LocationID=1) on November 3.
-- leading an Undergraduate Seminar on [Entropy and Diversity](F2021.html).
+  interested, take a look at a [talk](https://www.youtube.com/watch?v=0xx6MBSB1BY)
+  I gave on this during the summer!
+- speaking in the [Moduli Across the Pandemic](https://sites.google.com/bc.edu/map/home)
+  online seminar on January 29; and
+- leading an Undergraduate Seminar on [Tilings](S2022.html).
 
 ### Contact
 <span class="contact-wrapper">

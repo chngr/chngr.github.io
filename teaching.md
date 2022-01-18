@@ -5,6 +5,9 @@ heading: Teaching
 
 Here is an archive of teaching activities I have been involved in.
 
+* Spring 2022 --
+  Undergraduate seminar on [Tilings](S2022.html).
+
 * Fall 2021 ---
   Undergraduate seminar on [Entropy and Diversity](F2021.html).
 
