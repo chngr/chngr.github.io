@@ -17,8 +17,9 @@ During the Spring of 2022, I am:
 - writing about the geometry of \\(q\\)-bic hypersurfaces. If you are
   interested, take a look at a [talk](https://www.youtube.com/watch?v=0xx6MBSB1BY)
   I gave on this during the summer!
-- speaking in the [Moduli Across the Pandemic](https://sites.google.com/bc.edu/map/home)
-  online seminar on January 29; and
+- I spoke about \\(q\\)-bic hypersurfaces in the [Moduli Across the
+  Pandemic](https://sites.google.com/bc.edu/map/home) online seminar on January
+  29; you can see the video [here](https://drive.google.com/file/d/16rEanN-KW_zDwfMAnK03n4e-3mOmcNfL/view?usp=sharing)!
 - leading an Undergraduate Seminar on [Tilings](S2022.html).
 
 ### Contact
