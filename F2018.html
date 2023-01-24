@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <meta name="viewport" content="width=device-width" />
+      <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+          tex2jax: {
+            inlineMath: [['\\(','\\)'], ['\\(','\\)']]
+          },
+          TeX: {
+            extensions: ["AMSmath.js", "AMSsymbols.js"]
+          },
+          displayAlign: "left",
+          displayIndent: "2em",
+        });
+      </script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132872354-1"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-132872354-1');
+      </script>
+      <link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
+      <link rel="stylesheet" type="text/css" href="css/style.css" />
+      
+      <title>Combinatorial Reciprocity Theorems</title>
+      
+  </head>
+  <body>
+    <div id="header">
+      <div id="header-side">
+        <h1><a id="name" href="./">Raymond Cheng</a></h1>
+      </div>
+      <div id="header-content">
+        
+        <h1 class="heading">Combinatorial Reciprocity Theorems</h1>
+        
+        
+        <div class="subheading">An undergraduate seminar during the fall of 2018.</div>
+        
+      </div>
+    </div>
+    <div id="body">
+    <div id="side-bar">
+      <a href="./writing.html">writing</a>
+      <a href="./teaching.html">teaching</a>
+      <a href="./organization.html">organization</a>
+    </div>
+    <div id="content">
+      <p>A basic problem in combinatorics—in fact, probably in life!—is to count: how many objects are there of a particular shape, perhaps limited by a parameter \(n\)? Varying the parameter \(n\) gives a sequence of non-negative integers which can be packaged into a counting function. Remarkably often, these counting functions turn out to be restrictions of polynomials, or other nice functions defined on the entire set of integers, to the non-negative ones. One might ask: do evaluations of the counting function at negative integers mean something? Again, remarkably often, these negative evaluations turn out to count some sort of “dual” object. Such an answer is called a <em>combinatorial reciprocity theorem</em>.</p>
+<p>With combinatorial reciprocity theorems as our guiding stars, this seminar is an introduction to the beautiful landscape of enumerative and geometric combinatorics. The gadgets and tools we will find at hand are those of modern algebraic combinatorics, such as the theory of partially ordered sets, Möbius functions, and generating functions. The local wildlife consist primarily of of polyhedra, polytopes, cones, and hyperplane arrangements, all of which have been marvelled since the ancients.</p>
+<h3 id="prerequisites-format-expectations-etc.">Prerequisites, Format, Expectations, etc.</h3>
+<p>This seminar should be accessible to one with a good background in linear algebra.</p>
+<p>Beyond the mathematical content, these seminars are really about communicating mathematics. This primarily means two things for me: First, the small seminar environment is a perfect place to develop skills and a sense of comfort in speaking and presenting mathematics. Thus the seminar consists mostly of lectures by the attendees. Second, I would like to try to give direct feedback on mathematical writing, so expect an occasional problem set which, in addition to having fun with the mathematical objects at hand, is a time to think about how to write mathematics.</p>
+<h2 id="references">References</h2>
+<p>Our primary reference is a beautiful new book by Mathias Beck and Raman Sanyal:</p>
+<ul>
+<li>M. Beck and R. Sanyal (2018), <span class="paper"><a href="http://math.sfsu.edu/beck/papers/crt.pdf">Combinatorial Reciprocity Theorems</a></span>.</li>
+</ul>
+<p>The idea of a combinatorial reciprocity theorem was probably first formalized by Richard Stanley in a 1974 paper where he thought deeply about certain algebraic identities amongst counting functions. His original paper is not an easy read, but it’s good to know where your roots lie.</p>
+<ul>
+<li>R. Stanley (1974), <span class="paper"><a href="https://www.sciencedirect.com/science/article/pii/0001870874900309">Combinatorial Reciprocity Theorems</a></span>, <a href="https://mathscinet.ams.org/mathscinet/search/publdoc.html?&amp;pg1=MR&amp;s1=0411982" class="MR">MR0411982</a>.</li>
+</ul>
+<p>Along the way, we are going to pick up some tools from algebraic and enumerative combinatorics. A classic reference in this area is Stanley’s books on enumerative combinatorics, only the first of which should be necessary.</p>
+<ul>
+<li>R. Stanley (2012), <span class="paper"><a href="http://www-math.mit.edu/~rstan/ec/ec1.pdf">Enumerative Combinatorics I</a></span>, <a href="https://mathscinet.ams.org/mathscinet/search/publdoc.html?&amp;pg1=MR&amp;s1=2868112" class="MR">MR2868112</a>.</li>
+</ul>
+<p>A large part of our adventure will be centred around polytopes, triangulations, and other topics in discrete geometry. I think the delightful book by Mathias Beck and Sinai Robins on lattice point enumeration and Ehrhart theory should suffice for most of our purposes.</p>
+<ul>
+<li>M. Beck and S. Robins (2015), <span class="paper"><a href="https://link.springer.com/book/10.1007/978-1-4939-2969-6">Computing the Continuous Discretely</a></span>, <a href="https://mathscinet.ams.org/mathscinet/search/publdoc.html?&amp;pg1=MR&amp;s1=3410115" class="MR">MR3410115</a>.</li>
+</ul>
+<p>For more on discrete geometry, here are three classics:</p>
+<ul>
+<li>G. Ziegler (1995), <span class="paper"><a href="https://link.springer.com/book/10.1007%2F978-1-4613-8431-1">Lectures on Polytopes</a></span>, <a href="https://mathscinet.ams.org/mathscinet/search/publdoc.html?&amp;pg1=MR&amp;s1=1311028" class="MR">MR1311028</a>.</li>
+<li>B. Grünbaum (2003), <span class="paper"><a href="https://link.springer.com/book/10.1007%2F978-1-4613-0019-9">Convex Polytopes</a></span>, <a href="https://mathscinet.ams.org/mathscinet/search/publdoc.html?&amp;pg1=MR&amp;s1=1976856" class="MR">MR1976856</a>.</li>
+<li>J. De Loera, J. Rambau, and F. Santos (2010), <span class="paper"><a href="https://link.springer.com/book/10.1007%2F978-3-642-12971-1">Triangulations: Structures for Algorithms and Applications</a></span>, <a href="https://mathscinet.ams.org/mathscinet/search/publdoc.html?&amp;pg1=MR&amp;s1=2743368" class="MR">MR2743368</a>.</li>
+</ul>
+<h2 id="schedule">Schedule</h2>
+<p>We meet <span class="schedule-first">Monday</span> and <span class="schedule-second">Wednesdays</span> in Mathematics Room 528 between 4:30PM and 5:30PM.</p>
+<dl>
+<dt>09/04</dt>
+<dd>Organization.
+</dd>
+<dt><span class="phantom">09/</span>07</dt>
+<dd><span class="speaker">Raymond Cheng</span>,
+</dd>
+<dd><span class="title">Introduction, Colourings, and Acyclic Orientations of Graphs</span>,
+</dd>
+<dd>[<a href="assets/crt-lecture-1.pdf">Lecture 1 Notes</a>], [<span class="people"><a href="http://math.sfsu.edu/beck/papers/crt.pdf">Beck–Sanyal (2018)</a></span>, §§0,1.1].
+</dd>
+<dt><span class="phantom">09/</span><span class="schedule-first">10</span></dt>
+<dd><span class="speaker">No Seminar</span>,
+</dd>
+<dd><span class="title">Raymond in Italy</span>,
+</dd>
+<dd><span class="title">Suggested reading on enumeration:</span> [<span class="people"><a href="https://link.springer.com/book/10.1007/978-1-4939-2969-6">Beck–Robins (2015)</a></span>, Chapter 1], [<span class="people"><a href="http://www-math.mit.edu/~rstan/ec/ec1.pdf">Stanley (2012)</a></span>, §§1.1–1.2].
+</dd>
+<dt><span class="phantom">09/</span><span class="schedule-second">12</span></dt>
+<dd><span class="speaker">No Seminar</span>,
+</dd>
+<dd><span class="title">Raymond in Italy</span>,
+</dd>
+<dd><span class="title">Suggested reading on polytopes:</span> [<span class="people"><a href="https://link.springer.com/book/10.1007/978-1-4939-2969-6">Beck–Robins (2015)</a></span>, Chapter 2], [<span class="people"><a href="https://link.springer.com/book/10.1007%2F978-1-4613-8431-1">Ziegler (1995)</a></span>, Lecture 0].
+</dd>
+<dt><span class="phantom">09/</span><span class="schedule-first">17</span></dt>
+<dd><span class="speaker">Raymond Cheng</span>,
+</dd>
+<dd><span class="title">Posets and Order Polynomials</span>,
+</dd>
+<dd>[<span class="people"><a href="http://math.sfsu.edu/beck/papers/crt.pdf">Beck–Sanyal (2018)</a></span>, §1.3].
+</dd>
+<dt><span class="phantom">09/</span><span class="schedule-second">19</span></dt>
+<dd><span class="speaker">Raymond Cheng</span>,
+</dd>
+<dd><span class="title">Polygons and Ehrhart Functions</span>,
+</dd>
+<dd>[<span class="people"><a href="http://math.sfsu.edu/beck/papers/crt.pdf">Beck–Sanyal (2018)</a></span>, §1.4].
+</dd>
+<dt><span class="phantom">09/</span><span class="schedule-first">24</span></dt>
+<dd><span class="speaker">Benjamin Foutty</span>,
+</dd>
+<dd><span class="title">Posets, Möbius Functions, and Order Polynomial Reciprocity</span>,
+</dd>
+<dd>[<span class="people"><a href="http://math.sfsu.edu/beck/papers/crt.pdf">Beck–Sanyal (2018)</a></span>, §§2.1–2.2], [<span class="people"><a href="http://www-math.mit.edu/~rstan/ec/ec1.pdf">Stanley (2012)</a></span>, §§3.1,3.6].
+</dd>
+<dt><span class="phantom">09/</span><span class="schedule-second">26</span></dt>
+<dd><span class="speaker">Benjamin Mazel</span>,
+</dd>
+<dd><span class="title">Principle of Inclusion-Exclusion, and Möbius Functions</span>,
+</dd>
+<dd>[<span class="people"><a href="http://math.sfsu.edu/beck/papers/crt.pdf">Beck–Sanyal (2018)</a></span>, §§2.1,2.4], [<span class="people"><a href="http://www-math.mit.edu/~rstan/ec/ec1.pdf">Stanley (2012)</a></span>, §§3.7–3.8].
+</dd>
+<dt><span class="schedule-first">10/01</span></dt>
+<dd><span class="speaker">Allison Clark</span>,
+</dd>
+<dd><span class="title">Polyhedra, Polytopes, and Cones</span>,
+</dd>
+<dd>[<span class="people"><a href="https://link.springer.com/book/10.1007/978-1-4939-2969-6">Beck–Robins (2015)</a></span>, §§2.1–2.3], [<span class="people"><a href="http://math.sfsu.edu/beck/papers/crt.pdf">Beck–Sanyal (2018)</a></span>, §§3.1–3.2], [<span class="people"><a href="https://link.springer.com/book/10.1007%2F978-1-4613-8431-1">Ziegler (1995)</a></span>, Lecture 1].
+</dd>
+<dt><span class="phantom">10/</span><span class="schedule-second">03</span></dt>
+<dd><span class="speaker">Hsin Pei Toh</span>,
+</dd>
+<dd><span class="title">Minkowski–Weyl Theorem and Faces of Polyhedra</span>,
+</dd>
+<dd>[<span class="people"><a href="http://math.sfsu.edu/beck/papers/crt.pdf">Beck–Sanyal (2018)</a></span>, §§3.2–3.3], [<span class="people"><a href="https://link.springer.com/book/10.1007%2F978-1-4613-8431-1">Ziegler (1995)</a></span>, Lecture 2].
+</dd>
+<dt><span class="phantom">10/</span><span class="schedule-first">08</span></dt>
+<dd><span class="speaker">Justin Whitehouse</span>,
+</dd>
+<dd><span class="title">Construction of the Euler Characteristic on Polytopes</span>,
+</dd>
+<dd>[<span class="people"><a href="http://math.sfsu.edu/beck/papers/crt.pdf">Beck–Sanyal (2018)</a></span>, §3.4].
+</dd>
+<dt><span class="phantom">10/</span><span class="schedule-second">10</span></dt>
+<dd><span class="speaker">Junho Won</span>,
+</dd>
+<dd><span class="title">Euler Characteristics and Möbius Functions</span>,
+</dd>
+<dd>[<span class="people"><a href="http://math.sfsu.edu/beck/papers/crt.pdf">Beck–Sanyal (2018)</a></span>, §§3.4–3.5].
+</dd>
+<dt><span class="phantom">10/</span><span class="schedule-first">15</span></dt>
+<dd><span class="speaker">Raymond Cheng</span>,
+</dd>
+<dd><span class="title">Subdivisions of Polyhedra</span>,
+</dd>
+<dd>[<span class="people"><a href="http://math.sfsu.edu/beck/papers/crt.pdf">Beck–Sanyal (2018)</a></span>, §5.1].
+</dd>
+<dt><span class="phantom">10/</span><span class="schedule-second">17</span></dt>
+<dd><span class="speaker">Ethan Kestenberg</span>,
+</dd>
+<dd><span class="title">Brief on Generating Functions</span>,
+</dd>
+<dd>[<span class="people"><a href="http://math.sfsu.edu/beck/papers/crt.pdf">Beck–Sanyal (2018)</a></span>, §§4.1–4.3], [<span class="people"><a href="http://www-math.mit.edu/~rstan/ec/ec1.pdf">Stanley (2012)</a></span>, §1.1–1.2].
+</dd>
+<dt><span class="phantom">10/</span><span class="schedule-first">22</span></dt>
+<dd><span class="speaker">Yoon Kim</span>,
+</dd>
+<dd><span class="title">Hyperplane Arrangements and Zaslavsky’s Theorem</span>,
+</dd>
+<dd>[<span class="people"><a href="http://math.sfsu.edu/beck/papers/crt.pdf">Beck–Sanyal (2018)</a></span>, §§3.5–3.6].
+</dd>
+<dt><span class="phantom">10/</span><span class="schedule-second">24</span></dt>
+<dd><span class="speaker">Benjamin Foutty</span>,
+</dd>
+<dd><span class="title">Ehrhart Functions and Integer-Point Transforms</span>,
+</dd>
+<dd>[<span class="people"><a href="https://link.springer.com/book/10.1007/978-1-4939-2969-6">Beck–Robins (2015)</a></span>, §§3.2–3.5], [<span class="people"><a href="http://math.sfsu.edu/beck/papers/crt.pdf">Beck–Sanyal (2018)</a></span>, §§4.6–4.7].
+</dd>
+<dt><span class="phantom">10/</span><span class="schedule-first">29</span></dt>
+<dd><span class="speaker">Junho Won</span>,
+</dd>
+<dd><span class="title">Stanley Reciprocity</span>,
+</dd>
+<dd>[<span class="people"><a href="http://math.sfsu.edu/beck/papers/crt.pdf">Beck–Sanyal (2018)</a></span>, §4.8].
+</dd>
+<dt><span class="phantom">10/</span><span class="schedule-second">31</span></dt>
+<dd><span class="speaker">Ethan Kestenberg</span>,
+</dd>
+<dd><span class="title">Ehrhart’s Reciprocity and Theorem</span>,
+</dd>
+<dd>[<span class="people"><a href="http://math.sfsu.edu/beck/papers/crt.pdf">Beck–Sanyal (2018)</a></span>, §§4.6–4.8].
+</dd>
+<dt><span class="schedule-first">11/05</span></dt>
+<dd><span class="speaker">No Seminar</span>.
+</dd>
+<dd><span class="title">Think About Voting!</span>
+</dd>
+<dt><span class="phantom">11/</span><span class="schedule-second">07</span></dt>
+<dd><span class="speaker">Justin Whitehouse</span>,
+</dd>
+<dd><span class="title">Möbius Functions of Subdivisions and Ehrhart–Macdonald Reciprocity</span>,
+</dd>
+<dd>[<span class="people"><a href="http://math.sfsu.edu/beck/papers/crt.pdf">Beck–Sanyal (2018)</a></span>, §§3.5,5.2].
+</dd>
+<dt><span class="phantom">11/</span><span class="schedule-first">12</span></dt>
+<dd><span class="speaker">Allison Clark</span>,
+</dd>
+<dd><span class="title">Order Cones and Order Polytopes</span>,
+</dd>
+<dd>[<span class="people"><a href="http://math.sfsu.edu/beck/papers/crt.pdf">Beck–Sanyal (2018)</a></span>, §§6.1,6.3].
+</dd>
+<dt><span class="phantom">11/</span><span class="schedule-second">14</span></dt>
+<dd><span class="speaker">Benjamin Mazel</span>,
+</dd>
+<dd><span class="title">Subdivisions of Order Polyhedra</span>,
+</dd>
+<dd>[<span class="people"><a href="http://math.sfsu.edu/beck/papers/crt.pdf">Beck–Sanyal (2018)</a></span>, §§6.2–6.3].
+</dd>
+<dt><span class="phantom">11/</span><span class="schedule-first">19</span></dt>
+<dd><span class="speaker">Hsin Pei Toh</span>,
+</dd>
+<dd><span class="title">Combinatorics of Permutations</span>,
+</dd>
+<dd>[<span class="people"><a href="http://math.sfsu.edu/beck/papers/crt.pdf">Beck–Sanyal (2018)</a></span>, §6.4], [<span class="people"><a href="http://www-math.mit.edu/~rstan/ec/ec1.pdf">Stanley (2012)</a></span>, §1.3–1.5].
+</dd>
+<dt><span class="phantom">11/</span><span class="schedule-second">21</span></dt>
+<dd><span class="speaker">No Seminar</span>,
+</dd>
+<dd><span class="title">Happy Thanksgiving!</span>
+</dd>
+<dt><span class="phantom">11/</span><span class="schedule-first">26</span></dt>
+<dd><span class="speaker">No Seminar</span>,
+</dd>
+<dt><span class="phantom">11/</span><span class="schedule-second">28</span></dt>
+<dd><span class="speaker">Yoon Kim</span>,
+</dd>
+<dd><span class="title">Regions of Hyperplane Arrangements</span>,
+</dd>
+<dd>[<span class="people"><a href="http://math.sfsu.edu/beck/papers/crt.pdf">Beck–Sanyal (2018)</a></span>, §7.2].
+</dd>
+<dt><span class="schedule-first">12/03</span></dt>
+<dd><span class="speaker">Raymond Cheng</span>.
+</dd>
+<dd><span class="title">Pretty Things</span>.
+</dd>
+<dt><span class="phantom">12/</span><span class="schedule-second">05</span></dt>
+<dd><span class="speaker">Raymond Cheng</span>.
+</dd>
+<dd><span class="title">More Pretty Things</span>.
+</dd>
+<dt><span class="phantom">12/</span><span class="schedule-first">10</span></dt>
+<dd><span class="speaker">Raymond Cheng</span>.
+</dd>
+<dd><span class="title">Conclusion and Parting Words</span>.
+</dd>
+</dl>
+    </div>
+    </div>
+
+    </main>
+  </body>
+</html>

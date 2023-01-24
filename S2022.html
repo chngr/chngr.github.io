@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <meta name="viewport" content="width=device-width" />
+      <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+          tex2jax: {
+            inlineMath: [['\\(','\\)'], ['\\(','\\)']]
+          },
+          TeX: {
+            extensions: ["AMSmath.js", "AMSsymbols.js"]
+          },
+          displayAlign: "left",
+          displayIndent: "2em",
+        });
+      </script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132872354-1"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-132872354-1');
+      </script>
+      <link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
+      <link rel="stylesheet" type="text/css" href="css/style.css" />
+      
+      <title>Tilings</title>
+      
+  </head>
+  <body>
+    <div id="header">
+      <div id="header-side">
+        <h1><a id="name" href="./">Raymond Cheng</a></h1>
+      </div>
+      <div id="header-content">
+        
+        <h1 class="heading">Tilings</h1>
+        
+        
+        <div class="subheading">An undergraduate seminar during the spring of 2022.</div>
+        
+      </div>
+    </div>
+    <div id="body">
+    <div id="side-bar">
+      <a href="./writing.html">writing</a>
+      <a href="./teaching.html">teaching</a>
+      <a href="./organization.html">organization</a>
+    </div>
+    <div id="content">
+      <p>Tilings, sometimes known as <a href="https://en.wikipedia.org/wiki/Tessellation">tessellations</a>, abound: look to <a href="https://www.science.org/do/10.1126/science.aag0001/full/cc_sunflower_16x9.jpg">nature</a>, <a href="https://physicsworld.com/a/islamic-quasicrystals-predate-penrose-tiles/">architecture</a>, <a href="https://mcescher.com/gallery/symmetry/">art</a>, and <a href="https://upload.wikimedia.org/wikipedia/commons/9/9c/Typical_Tetris_Game.svg">video games</a>. There are <a href="https://upload.wikimedia.org/wikipedia/commons/c/cb/P5-type15-chiral_coloring.png">much</a> <a href="https://upload.wikimedia.org/wikipedia/commons/1/1a/Penrose_Tiling_%28Rhombi%29.svg">more</a> <a href="https://upload.wikimedia.org/wikipedia/commons/1/12/Pinwheel_3.jpg">exotic</a> tilings which, for example, are <a href="https://en.wikipedia.org/wiki/Aperiodic_tiling">aperiodic</a>.</p>
+<p>Tilings are pretty. Tilings also naturally lead to many mathematically interesting questions. For example:</p>
+<ul>
+<li>Given a big shape, and a selection of small shapes, <a href="https://en.wikipedia.org/wiki/Mutilated_chessboard_problem">is there</a> a tiling?</li>
+<li>If there is a tiling, <a href="https://en.wikipedia.org/wiki/Domino_tiling#Counting_tilings_of_regions">how many</a> are there?</li>
+<li>What does a random tiling <a href="https://upload.wikimedia.org/wikipedia/commons/5/5f/Aztec_diamond%2C_n%3D50.jpg">look like</a>?</li>
+<li>What types of <a href="https://en.wikipedia.org/wiki/Wallpaper_group">symmetries</a> do tilings admit?</li>
+</ul>
+<p>And so forth! This seminar will touch on some of this vast topic of tilings.</p>
+<h3 id="prerequisites-format-expectations-etc.">Prerequisites, Format, Expectations, etc.</h3>
+<p>Each participant will give 1 or 2 talks over the course of the semester, during which I hope one enjoys some interesting mathematics, as well as meditates on the art of presenting and talking about mathematics. During the rest of the semester, I hope that those that are not presenting will help form a lively and friendly seminar environment, one in which all participants can feel comfortable to discuss and learn in.</p>
+<h2 id="references">References</h2>
+<p>There are many possible topics in the mathematics of tilings to explore. What follows is a sampling of possible topics and references for this seminar. This list is by no means exhaustive, and I would encourage you to find something that suits your taste!</p>
+<ul>
+<li>Federico Ardila and Richard P. Stanley (2005), <span class="paper"><a href="https://arxiv.org/pdf/math/0501170.pdf">Tilings</a></span>.</li>
+</ul>
+<p>This is a quick survey, aimed at a general audience, on the mathematics of tilings. The text contains many references for further reading.</p>
+<h3 id="books">Books</h3>
+<ul>
+<li>Brank Grunbaum and Geoffrey C. Shephard (1987), <span class="paper"><a href="https://clio.columbia.edu/catalog/498467">Tilings and Patterns</a></span>.</li>
+</ul>
+<p>This is perhaps the first textbook on the mathematics of tilings. It is full of pictures and gives a rather comprehensive treatment of many topics around tilings of the plane. Problems about tiling the plane are still topics of <a href="https://www.quantamagazine.org/pentagon-tiling-proof-solves-century-old-math-problem-20170711/">current research</a>!</p>
+<ul>
+<li>John H. Conway, Heidi Burgiel, Chaim Goodman-Strass (2008), <span class="paper"><a href="https://clio.columbia.edu/catalog/12292202">The Symmetries of Things</a></span>.</li>
+</ul>
+<p>This book is a more recent treatment about tilings, especially in regards to the symmetries they admit. The first part of this book gives a pretty and gentle classification of the possible symmetry groups of plane tilings—otherwise known as crystallographic groups. The later chapters explore more advanced topics involving group theory and <a href="https://en.wikipedia.org/wiki/Uniform_tilings_in_hyperbolic_plane">hyperbolic tilings</a>. It’s a book full of pictures and ideas, and should be an absolute delight to read.</p>
+<ul>
+<li>Solomon W. Golomb (1994), <span class="paper"><a href="https://clio.columbia.edu/catalog/SCSB-8554263">Polynominoes: puzzles, problems, and packings</a></span>.</li>
+</ul>
+<p>Have you played <a href="https://en.wikipedia.org/wiki/Tetris">Tetris</a>? Or perhaps you have packed a grocery bag. In any case, this is a game of tiling by <a href="https://en.wikipedia.org/wiki/Tetromino">tetromino</a>. A <a href="https://en.wikipedia.org/wiki/Polyomino">polynomino</a> is like tetris-like blocks of different sizes. You can now ask many questions about them, and this book is a guide to some of the mathematics.</p>
+<h3 id="aperiodic-tilings">Aperiodic Tilings</h3>
+<p>Aperiodic tilings are ones which do not admit translational symmetry. Before reading anything, you can do a lot worse than taking a look at the following gallery of <a href="https://en.wikipedia.org/wiki/Substitution_tiling">substitution tilings</a>:</p>
+<ul>
+<li>Dirk Frettlöh, Franz Gähler, and Edmund Harriss, <a href="https://tilings.math.uni-bielefeld.de/">Tilings Encyclopedia</a>.</li>
+</ul>
+<p>One of the most well-known aperiodic tilings are the <a href="https://en.wikipedia.org/wiki/Penrose_tiling">Penrose tilings</a>. Some things to read around this include:</p>
+<ul>
+<li><p>Roger Penrose (1974), <span class="paper">The role of aesthetics in pure and applied mathematical research</span>.</p></li>
+<li><p>Roger Penrose (1979), <span class="paper"><a href="https://link.springer.com/article/10.1007%2FBF03024384">Pentaplexity: A Class of Non-Periodic Tilings of the Plane</a></span>.</p></li>
+</ul>
+<p>Since then, there are many construction methods for aperiodic tilings. Some other interesting resources include:</p>
+<ul>
+<li><p>Robert Berger (1966), <span class="paper"><a href="https://clio.columbia.edu/catalog/11253834">The undecidability of the domino problem</a></span>.</p></li>
+<li><p>Charles Radin (1994), <span class="paper"><a href="https://www.jstor.org/stable/2118575">The pinwheel tilings of the plane</a></span>.</p></li>
+<li><p>Charles Radin (2021), <span class="paper"><a href="https://link.springer.com/article/10.1007%2Fs00283-020-10038-6">Conway and Aperiodic Tilings</a></span>.</p></li>
+</ul>
+<h3 id="tiling-invariants">Tiling Invariants</h3>
+<p>John Horton Conway invented a fascinating group-theoretic method to prove whether or not a region admits a tiling. Some basic references for this are the papers:</p>
+<ul>
+<li><p>John H. Conway and Jeffrey C. Lagrais (1990), <span class="paper"><a href="https://www.sciencedirect.com/science/article/pii/0097316590900574">Tiling with polynominoes and combinatorial group theory</a></span>.</p></li>
+<li><p>William P. Thurston (1989), <span class="paper"><a href="http://timo.jolivet.free.fr/docs/ThurstonLectNotes.pdf">Groups, tilings, and finite state automata</a></span>.</p></li>
+<li><p>William P. Thurston (1990), <span class="paper"><a href="https://www.jstor.org/stable/2324578">Conway’s Tiling Groups</a></span>.</p></li>
+<li><p>Igor Pak (2000), <span class="paper"><a href="https://www.math.ucla.edu/~pak/papers/tilesurvey.pdf">Tile Invariants: New Horizons</a></span>.</p></li>
+</ul>
+<h3 id="aztec-diamond">Aztec Diamond</h3>
+<p>The Aztec diamond is like a pixellated diamond, see <a href="https://upload.wikimedia.org/wikipedia/commons/a/a6/Diamant_azteque.svg">this picture</a>. Many questions about domino tilings of Aztec diamonds admit pretty solutions. Some references on this topic might be:</p>
+<ul>
+<li><p>Noam Elkies, Greg Kuperberg, Micahel Larsen, and James Propp (1992), <span class="paper"><a href="https://link.springer.com/article/10.1023/A:1022420103267">Alternating-Sign Matrices and Domino Tilings (Part I)</a></span>.</p></li>
+<li><p>Noam Elkies, Greg Kuperberg, Micahel Larsen, and James Propp (1992), <span class="paper"><a href="https://www.emis.de/journals/JACO/Volume1_3/r261p9652890q1j7.fulltext.pdf">Alternating-Sign Matrices and Domino Tilings (Part II)</a></span>.</p></li>
+<li><p>William Jockusch, James Propp, and Peter Shor (1998), <span class="paper"><a href="https://arxiv.org/abs/math/9801068">Random Domino Tilings and the Arctic Circle Theorem</a></span>.</p></li>
+</ul>
+<h2 id="schedule">Schedule</h2>
+<p>We meet on Fridays from 1 to 3 PM in Mathematics Room 507.</p>
+<dl>
+<dt>01/19</dt>
+<dd>Organization.
+</dd>
+<dt><span class="phantom">01/</span>28</dt>
+<dd><span class="speaker">Raymond Cheng</span>,
+</dd>
+<dd><span class="title">Overview of Seminar. Tilings by Dominoes.</span>.
+</dd>
+<dt><span class="schedule-first">02/04</span></dt>
+<dd><span class="speaker">Madeline Watts</span>,
+</dd>
+<dd><span class="title">Symmetries in Tilings, and Escher</span>.
+</dd>
+<dt><span class="phantom">02/</span><span class="schedule-second">04</span></dt>
+<dd><span class="speaker">Ria Mavinkurve</span>,
+</dd>
+<dd><span class="title">Penrose Tilings</span>.
+</dd>
+<dt><span class="phantom">02/</span><span class="schedule-first">11</span></dt>
+<dd><span class="speaker">Mia Bramel</span>,
+</dd>
+<dd><span class="title">The Magic Theorem</span>.
+</dd>
+<dt><span class="phantom">02/</span><span class="schedule-second">11</span></dt>
+<dd><span class="speaker">Andrew Magid</span>,
+</dd>
+<dd><span class="title">Complexity and Tilings</span>.
+</dd>
+<dt><span class="phantom">02/</span><span class="schedule-first">18</span></dt>
+<dd><span class="speaker">Sahr Singh</span>,
+</dd>
+<dd><span class="title">Polynominoes and variations</span>.
+</dd>
+<dt><span class="phantom">02/</span><span class="schedule-second">18</span></dt>
+<dd><span class="speaker">Cassandra Marcussen</span>,
+</dd>
+<dd><span class="title">Tiling Invariants</span>.
+</dd>
+<dt><span class="phantom">02/</span><span class="schedule-first">25</span></dt>
+<dd><span class="speaker">Joseph Swanson</span>,
+</dd>
+<dd><span class="title">Archimedean Tilings</span>.
+</dd>
+<dt><span class="phantom">02/</span><span class="schedule-second">25</span></dt>
+<dd><span class="speaker">Ashwin Padaki</span>,
+</dd>
+<dd><span class="title">Fibonacci Words, Tilings, and Snowflakes</span>.
+</dd>
+<dt>03/<span class="schedule-first">04</span></dt>
+<dd><span class="speaker">Benjamin Sherwin</span>,
+</dd>
+<dd><span class="title">Wang Tilings and Marching Squares</span>.
+</dd>
+<dt><span class="phantom">03/</span><span class="schedule-second">04</span></dt>
+<dd><span class="speaker">Ashley Kim</span>,
+</dd>
+<dd><span class="title">Dissection Tilings</span>.
+</dd>
+<dt><span class="phantom">03/</span>18</dt>
+<dd><span class="speaker">No seminar</span>,
+</dd>
+<dd><span class="title">Enjoy spring break!</span>.
+</dd>
+<dt><span class="phantom">03/</span><span class="schedule-first">25</span></dt>
+<dd><span class="speaker">Imanol Uribe Echevarria</span>,
+</dd>
+<dd><span class="title">Delaunay Partitions and Locality Sensitive Hashing</span>.
+</dd>
+<dt><span class="phantom">03/</span><span class="schedule-second">25</span></dt>
+<dd><span class="speaker">Anthony Ma</span>,
+</dd>
+<dd><span class="title">\(n\)-tris is hard</span>.
+</dd>
+<dt><span class="schedule-first">04/01</span></dt>
+<dd><span class="speaker">Oliver Li</span>,
+</dd>
+<dd><span class="title">Hyperbolic Tilings</span>.
+</dd>
+<dt><span class="phantom">04/</span><span class="schedule-second">01</span></dt>
+<dd><span class="speaker">Yuanbo Li</span>,
+</dd>
+<dd><span class="title">Tiling Problems and CFG</span>.
+</dd>
+<dt><span class="phantom">04/</span><span class="schedule-first">15</span></dt>
+<dd><span class="speaker">Boris Ter-Avanesov</span>,
+</dd>
+<dd><span class="title">TBD</span>.
+</dd>
+<dt><span class="phantom">04/</span><span class="schedule-second">15</span></dt>
+<dd><span class="speaker">Ting Chen</span>,
+</dd>
+<dd><span class="title">TBD</span>.
+</dd>
+<dt><span class="phantom">04/</span><span class="schedule-first">22</span></dt>
+<dd><span class="speaker">Ashton Daniel</span>,
+</dd>
+<dd><span class="title">TBD</span>.
+</dd>
+<dt><span class="phantom">04/</span><span class="schedule-second">22</span></dt>
+<dd><span class="speaker">Boris Ter-Avanesov</span>,
+</dd>
+<dd><span class="title">TBD</span>.
+</dd>
+<dt><span class="phantom">04/</span><span class="schedule-first">29</span></dt>
+<dd><span class="speaker">TBA</span>,
+</dd>
+<dd><span class="title">TBD</span>.
+</dd>
+<dt><span class="phantom">04/</span><span class="schedule-second">29</span></dt>
+<dd><span class="speaker">TBA</span>,
+</dd>
+<dd><span class="title">TBD</span>.
+</dd>
+</dl>
+    </div>
+    </div>
+
+    </main>
+  </body>
+</html>

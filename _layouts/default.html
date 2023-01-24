@@ -27,11 +27,11 @@
       </script>
       <link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
       <link rel="stylesheet" type="text/css" href="css/style.css"/>
-      $if(html-title)$
-      <title>$html-title$</title>
-      $else$
-      <title>$title$</title>
-      $endif$
+      {% if page.html_title %}
+        <title>{{ page.html_title }}</title>
+      {% else %}
+        <title>{{ page.title }}</title>
+      {% endif %}
   </head>
   <body>
     <div id="header">
@@ -39,12 +39,12 @@
         <h1><a id="name" href="/">Raymond Cheng</a></h1>
       </div>
       <div id="header-content">
-        $if(heading)$
-        <h1 class="heading">$heading$</h1>
-        $endif$
-        $if(subheading)$
-        <div class="subheading">$subheading$</div>
-        $endif$
+        {% if page.heading %}
+        <h1 class="heading">{{ page.heading }}</h1>
+        {% endif %}
+        {% if page.subheading %}
+        <div class="subheading">{{ page.subheading }}</div>
+        {% endif %}
       </div>
     </div>
     <div id="body">
@@ -54,7 +54,7 @@
       <a href="/organization.html">organization</a>
     </div>
     <div id="content">
-      $body$
+      {{ content }}
     </div>
     </div>
 

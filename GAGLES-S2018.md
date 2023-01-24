@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Topics on Abelian Varieties
 heading: Topics on Abelian Varieties
 subheading: An episode of <a title="Graduate Algebraic Geometry LEarning Seminar">GAGLeS</a> organized by <span class="people"><a href="index.html">Raymond Cheng</a></span> during the spring of 2018.

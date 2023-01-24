@@ -1,15 +1,15 @@
 ---
+layout: default
 title: Raymond Cheng
 heading: About
 ---
 
-I am a sixth year mathematics graduate student at
-[Columbia University](http://math.columbia.edu).
-I have the pleasure and privilege to converse regularly with
-[[Aise Johan de Jong](http://math.columbia.edu/~dejong)]{.people}.
-Geometry fascinates me, with algebraic methods my preferred means of exploration.
-In particular, I think a lot about rational curves, rationality problems, and
-geometry in positive characteristic. Here is a [CV](assets/cv.pdf).
+I am a postdoctoral fellow at the
+[Institute of Algebraic Geometry](https://www.iag.uni-hannover.de/en/) within
+[Liebniz Universität Hannover](https://www.uni-hannover.de/en/).
+Geometry fascinates me, with algebraic methods my preferred means of
+exploration. In particular, I think a lot about rational curves,
+rationality problems, and geometry in positive characteristic.
 
 ### Current Projects
 During the Spring of 2022, I am:
@@ -23,17 +23,16 @@ During the Spring of 2022, I am:
 - leading an Undergraduate Seminar on [Tilings](S2022.html).
 
 ### Contact
-<span class="contact-wrapper">
+<div class="contact-wrapper">
 email: <br/>
-<a id="email" href="mailto:rcheng@math.columbia.edu">rcheng@math.columbia.edu</a>
-</span>
-<span class="contact-wrapper">
-address: <br/>
-<div id="address">
-Department of Mathematics<br/>
-Columbia University<br/>
-2990 Broadway<br/>
-New York, NY 10027<br/>
+<a id="email" href="mailto:cheng@math.uni-hannover.de">cheng@math.uni-hannover.de</a>
 </div>
-</span>
+<div class="contact-wrapper">
+address:<br/>
+<div id="address">
+Institute of Algebraic Geometry<br/>
+Leibniz Universität Hannover<br/>
+Welfengarten 1<br/>
+30167 Hannover<br/>
+</div></div>
 

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <meta name="viewport" content="width=device-width" />
+      <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+          tex2jax: {
+            inlineMath: [['\\(','\\)'], ['\\(','\\)']]
+          },
+          TeX: {
+            extensions: ["AMSmath.js", "AMSsymbols.js"]
+          },
+          displayAlign: "left",
+          displayIndent: "2em",
+        });
+      </script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132872354-1"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-132872354-1');
+      </script>
+      <link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
+      <link rel="stylesheet" type="text/css" href="css/style.css" />
+      
+      <title>Differential Galois Theory</title>
+      
+  </head>
+  <body>
+    <div id="header">
+      <div id="header-side">
+        <h1><a id="name" href="./">Raymond Cheng</a></h1>
+      </div>
+      <div id="header-content">
+        
+        <h1 class="heading">Differential Galois Theory</h1>
+        
+        
+        <div class="subheading">An undergraduate seminar during the fall of 2019.</div>
+        
+      </div>
+    </div>
+    <div id="body">
+    <div id="side-bar">
+      <a href="./writing.html">writing</a>
+      <a href="./teaching.html">teaching</a>
+      <a href="./organization.html">organization</a>
+    </div>
+    <div id="content">
+      <p>Classical <a href="https://en.wikipedia.org/wiki/Galois_theory">Galois Theory</a> aimed to study the solvability of polynomial equations by studying a certain symmetry group associated with the equation. Famously, these ideas allowed <a href="https://en.wikipedia.org/wiki/Paolo_Ruffini">Ruffini</a>, <a href="https://en.wikipedia.org/wiki/Niels_Henrik_Abel">Abel</a>, and, of course, <a href="https://en.wikipedia.org/wiki/%C3%89variste_Galois">Galois</a> to show that there cannot possibly be a closed-form solution to the general quintic equation involving only radicals in the coefficients of the equation; moreover, Galois identified exactly which quintics can be solved explicitly through detailed consideration of the properties of the symmetry group.</p>
+<p>Differential Galois Theory is to linear differential equations as Galois Theory is to polynomial equations. The <a href="https://en.wikipedia.org/wiki/Picard%E2%80%93Vessiot_theory">subject</a> was initiated by <a href="https://en.wikipedia.org/wiki/%C3%89mile_Picard">Picard</a> and <a href="https://en.wikipedia.org/wiki/Ernest_Vessiot">Vessiot</a> some 50 years after Galois, and following its ancestor, remained obscure and difficult to understand until later developments, notably 50 some-odd years later by our very own <a href="https://en.wikipedia.org/wiki/Joseph_Ritt">Ritt</a> and <a href="https://en.wikipedia.org/wiki/Ellis_Kolchin">Kolchin</a>. As before, the theory is concerned with a certain symmetry group associated with a linear differential equation, and by studying properties of this symmetry group, one can prove, for example, that the equation \(y’ = x - y^2\) cannot be solved in elementary terms; equivalently, the function \(e^{-x^2}\) cannot be integrated in elementary terms!</p>
+<p>The approach that we will follow is a slightly more modern approach that crucially uses the <a href="https://en.wikipedia.org/wiki/Riemann%E2%80%93Hilbert_correspondence">Riemann–Hilbert Correspondence</a>. This allows us to realize differential Galois groups very geometrically as coming from monodromy related to differential equations; we have come full circle!</p>
+<h3 id="prerequisites-format-expectations-etc.">Prerequisites, Format, Expectations, etc.</h3>
+<p>This seminar should be accessible to one with a good background in linear algebra, some analysis, and basics of modern algebra.</p>
+<p>Beyond the mathematical content, these seminars are really about communicating mathematics. In particular, I think that the small seminar environment is a perfect place to develop skills and a sense of comfort in speaking and presenting mathematics. Thus the seminar consists mostly of lectures by the participants. Moreover, this experience is a great place to think carefully about how to explain mathematics to an audience.</p>
+<h2 id="references">References</h2>
+<p>Our primary reference is the following textbook on the subject:</p>
+<ul>
+<li>J. Sauloy (2016), <span class="paper"><a href="https://www.ams.org/books/gsm/177/">Differential Galois Theory through Riemann-Hilbert Correspondence: An Elementary Introduction</a></span>.</li>
+</ul>
+<p>Another book that will be useful is:</p>
+<ul>
+<li>M. van der Put and M. F. Singer (2003), <span class="paper"><a href="https://link.springer.com/book/10.1007%2F978-3-642-55750-7">Galois Theory of Linear Differential Equations</a></span>.</li>
+</ul>
+<p>Here is a beautiful survey about the subject:</p>
+<ul>
+<li>A. R. Magid (1999), <span class="paper"><a href="https://www.ams.org/notices/199909/fea-magid.pdf">Differential Galois Theory</a></span>.</li>
+</ul>
+<p>Finally, the following book is a delightful whimsy:</p>
+<ul>
+<li>M. Kuga (1993), <span class="paper"><a href="https://link.springer.com/book/10.1007%2F978-1-4612-0329-2">Galois’ Dream</a></span>.</li>
+</ul>
+<h2 id="schedule">Schedule</h2>
+<p>We meet on Tuesdays in Mathematics Room 528 between 7:30PM and 9:30PM. Mostly, there will be a <span class="schedule-first">first</span> and <span class="schedule-second">second</span> speaker, each speaking for approximately an hour.</p>
+<dl>
+<dt>09/05</dt>
+<dd>Organization.
+</dd>
+<dt><span class="phantom">09/</span>10</dt>
+<dd><span class="speaker">Raymond Cheng</span>,
+</dd>
+<dd><span class="title">Introduction</span>.
+</dd>
+<dt><span class="phantom">09/</span>17</dt>
+<dd><span class="speaker">Ben Church</span>,
+</dd>
+<dd><span class="title">Overview of Tools and the Logarithm</span>,
+</dd>
+<dd>[<span class="people"><a href="https://www.ams.org/books/gsm/177/">Sauloy</a></span>, §§5,6].
+</dd>
+<dt><span class="phantom">09/</span><span class="schedule-first">24</span></dt>
+<dd><span class="speaker">Shasta Ramachandran</span>,
+</dd>
+<dd><span class="title">Introduction to Complex Linear Differential Equations</span>,
+</dd>
+<dd>[<span class="people"><a href="https://www.ams.org/books/gsm/177/">Sauloy</a></span>, §§7.2–7.3].
+</dd>
+<dt><span class="phantom">09/</span><span class="schedule-second">24</span></dt>
+<dd><span class="speaker">Ben Bellick</span>,
+</dd>
+<dd><span class="title">Monodromy of Complex Linear Differential Equations</span>,
+</dd>
+<dd>[<span class="people"><a href="https://www.ams.org/books/gsm/177/">Sauloy</a></span>, §§7.4–7.5].
+</dd>
+<dt><span class="schedule-first">10/01</span></dt>
+<dd><span class="speaker">Tasman Fell</span>,
+</dd>
+<dd><span class="title">Gauge Transformations and Differential Systems</span>,
+</dd>
+<dd>[<span class="people"><a href="https://www.ams.org/books/gsm/177/">Sauloy</a></span>, §§7.6–8.1].
+</dd>
+<dt><span class="phantom">10/</span><span class="schedule-second">01</span></dt>
+<dd><span class="speaker">Micah Gay</span>,
+</dd>
+<dd><span class="title">Differential Systems, Local Systems, and Fundamental Groups</span>,
+</dd>
+<dd>[<span class="people"><a href="https://www.ams.org/books/gsm/177/">Sauloy</a></span>, §§8.2–8.4].
+</dd>
+<dt><span class="phantom">10/</span>08</dt>
+<dd><span class="speaker">Myeonhu Kim</span>,
+</dd>
+<dd><span class="title">Growth Conditions and the Local Riemann–Hilbert Correspondence</span>,
+</dd>
+<dd>[<span class="people"><a href="https://www.ams.org/books/gsm/177/">Sauloy</a></span>, §9].
+</dd>
+<dt><span class="phantom">10/</span><span class="schedule-first">15</span></dt>
+<dd><span class="speaker">Christian Serio</span>,
+</dd>
+<dd><span class="title">Local Riemann–Hilbert Correspondence Categorically</span>,
+</dd>
+<dd>[<span class="people"><a href="https://www.ams.org/books/gsm/177/">Sauloy</a></span>, §10].
+</dd>
+<dt><span class="phantom">10/</span><span class="schedule-second">15</span></dt>
+<dd><span class="speaker">Raymond Cheng</span>,
+</dd>
+<dd><span class="title">Global Riemann–Hilbert Correspondence</span>,
+</dd>
+<dd>[<span class="people"><a href="https://www.ams.org/books/gsm/177/">Sauloy</a></span>, §12].
+</dd>
+<dt><span class="phantom">10/</span>22</dt>
+<dd><span class="speaker">Raymond Cheng</span>,
+</dd>
+<dd><span class="title">Differential Galois Groups</span>,
+</dd>
+<dd>[<span class="people"><a href="https://www.ams.org/books/gsm/177/">Sauloy</a></span>, §13].
+</dd>
+<dt><span class="phantom">10/</span><span class="schedule-first">29</span></dt>
+<dd><span class="speaker">Benjamin Bellick</span>,
+</dd>
+<dd><span class="title">Calculating Local Differential Galois Groups</span>,
+</dd>
+<dd>[<span class="people"><a href="https://www.ams.org/books/gsm/177/">Sauloy</a></span>, §§14.1–14.2].
+</dd>
+<dt><span class="phantom">10/</span><span class="schedule-second">29</span></dt>
+<dd><span class="speaker">Cecilia Wang</span>,
+</dd>
+<dd><span class="title">Local Schlesinger Density Theorem</span>,
+</dd>
+<dd>[<span class="people"><a href="https://www.ams.org/books/gsm/177/">Sauloy</a></span>, §§14.3–14.4].
+</dd>
+<dt>11/05</dt>
+<dd><span class="speaker">No Seminar</span>.
+</dd>
+<dd><span class="title">Go Vote!</span>
+</dd>
+<dt><span class="phantom">11/</span>12</dt>
+<dd><span class="speaker">Tasman Fell</span>,
+</dd>
+<dd><span class="title">The Universal Galois Group</span>,
+</dd>
+<dd>[<span class="people"><a href="https://www.ams.org/books/gsm/177/">Sauloy</a></span>, §§15, 16.1].
+</dd>
+<dt><span class="phantom">11/</span><span class="schedule-first">19</span></dt>
+<dd><span class="speaker">Myeonhu Kim</span>,
+</dd>
+<dd><span class="title">Riemann–Hilbert via Differential Galois Groups, I</span>,
+</dd>
+<dd>[<span class="people"><a href="https://www.ams.org/books/gsm/177/">Sauloy</a></span>, §§16.2–16.4].
+</dd>
+<dt><span class="phantom">11/</span><span class="schedule-second">19</span></dt>
+<dd><span class="speaker">Christian Serio</span>,
+</dd>
+<dd><span class="title">Riemann–Hilbert via Differential Galois Groups, II</span>,
+</dd>
+<dd>[<span class="people"><a href="https://www.ams.org/books/gsm/177/">Sauloy</a></span>, §§16.2–16.4].
+</dd>
+<dt><span class="phantom">11/</span><span class="schedule-first">26</span></dt>
+<dd><span class="speaker">Shasta Ramachandran</span>,
+</dd>
+<dd><span class="title">Picard–Vessiot Theory</span>,
+</dd>
+<dd>[<span class="people"><a href="https://link.springer.com/book/10.1007%2F978-3-642-55750-7">vdPS</a></span>, Chapter 1].
+</dd>
+<dt><span class="phantom">11/</span><span class="schedule-second">26</span></dt>
+<dd><span class="speaker">Micah Gay</span>,
+</dd>
+<dd><span class="title">\(q\)-Difference Equations</span>.
+</dd>
+<dt><span class="schedule-first">12/03</span></dt>
+<dd><span class="speaker">TBD</span>.
+</dd>
+<dt><span class="phantom">12/</span><span class="schedule-second">03</span></dt>
+<dd><span class="speaker">TBD</span>.
+</dd>
+</dl>
+    </div>
+    </div>
+
+    </main>
+  </body>
+</html>

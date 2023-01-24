@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Raymond Cheng -- Teaching
 heading: Teaching
 ---
@@ -36,18 +37,18 @@ Here is an archive of teaching activities I have been involved in.
   TA for
   [REU on Curves on Surfaces Over Finite Fields](http://www.math.columbia.edu/department/website/wp-content/uploads/2018/01/REU2018-LittPerry.pdf),
   led by
-  [Daniel Litt](https://www.daniellitt.com/){.people} and
-  [Alex Perry](http://www-personal.umich.edu/~arper/){.people}.
+  {% include person.html person=site.data.people.daniel_litt %} and
+  {% include person.html person=site.data.people.alex_perry %}.
 
 * Spring 2018 ---
   TA for
   [Schemes](http://www.math.columbia.edu/~dejong/courses/schemes-spring-2018.html)
-  taught by [Johan de Jong](http://math.columbia.edu/~dejong/){.people}.
+  taught by {% include person.html person=site.data.people.aise_johan_de_jong %}.
 
 * Spring 2018 ---
   TA for
   [Honours Mathematics B](http://math.columbia.edu/~hansen/un1208s1.html)
-  taught by [David Hansen](http://www.davidrenshawhansen.com/){.people}.
+  taught by {% include person.html person=site.data.people.david_hansen %}.
 
 * Fall 2017 ---
   Undergraduate seminar on [Hodge Theory in Combinatorics](F2017.html).
@@ -55,11 +56,11 @@ Here is an archive of teaching activities I have been involved in.
 * Fall 2017 ---
   TA for
   [Commutative Algebra](http://www.math.columbia.edu/~dejong/courses/commutative-algebra-fall-2017.html),
-  taught by [Johan de Jong](http://math.columbia.edu/~dejong/){.people}.
+  taught by {% include person.html person=site.data.people.aise_johan_de_jong %}.
 
 * Summer 2017 ---
   TA for
   [REU on Representation Theory in Graph Theory](http://www.math.columbia.edu/%7Eccliu/REU2017_Hansen-Litt.html),
   led by
-  [David Hansen](http://www.davidrenshawhansen.com/){.people} and
-  [Daniel Litt](https://www.daniellitt.com/){.people}.
+  {% include person.html person=site.data.people.david_hansen %} and
+  {% include person.html person=site.data.people.daniel_litt %}.

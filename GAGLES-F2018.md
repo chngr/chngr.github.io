@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Cubic Fourfolds, Rationality, etc.
 heading: Cubic Fourfolds, Rationality, etc.
 subheading: An episode of <a title="Graduate Algebraic Geometry LEarning Seminar">GAGLeS</a> organized by <span class="people"><a href="index.html">Raymond Cheng</a></span> during the fall of 2018.
