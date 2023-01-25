@@ -1,0 +1,54 @@
+-
+  date: 05/17
+  speaker: Shizhang Li
+  title: Background
+  references: "[§§1—4, [Bhatt]]."
+-
+  date: 05/24
+  speaker: Shizhang Li
+  title: Almost Purity and Primitive Comparison
+-
+  date: 05/31
+  speaker: Qixiao Ma
+  title: \(L\eta\)
+  references: "[§5, [Bhatt]], [§6, [BMS]]."
+-
+  date: 06/07
+  speaker: TBA
+  title: The complex \(\widetilde\Omega_{\mathfrak{X}}\)
+  references: "[§6, [Bhatt]], [§8, [BMS]]."
+-
+  date: 06/14
+  speaker: Shizhang Li
+  title: Breuil—Kisin—Fargues modules
+  references: "[§4, [BMS]]."
+-
+  date: 06/21
+  speaker: Shizhang Li
+  title: Rational \(p\)-adic Hodge theory
+  references: "[§5, [BMS]]."
+-
+  date: 06/28
+  speaker: Zijian Yao
+  title: The complex \(A\Omega_{\mathfrak{X}}\)
+  references: "[§7, [Bhatt]], [§9, [BMS]]."
+-
+  date: 07/05
+  speaker: Qixiao Ma
+  title: Global results
+  references: "[§8, [Bhatt]]."
+-
+  date: 07/12
+  speaker: Shizhang Li
+  title: Relative de Rham—Witt complex
+  references: "[§10, [BMS]]."
+-
+  date: 07/19
+  speaker: Raymond Cheng
+  title: Comparison with de Rham—Witt complexes
+  references: "[§11, [BMS]]."
+-
+  date: 07/20
+  speaker: Zijian Yao
+  title: Comparison with crystalline cohomology over \(A_\mathrm{crys}\)
+  references: "[§12, [BMS]]."

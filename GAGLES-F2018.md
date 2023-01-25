@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: page
 title: Cubic Fourfolds, Rationality, etc.
 heading: Cubic Fourfolds, Rationality, etc.
-subheading: An episode of <a title="Graduate Algebraic Geometry LEarning Seminar">GAGLeS</a> organized by <span class="people"><a href="index.html">Raymond Cheng</a></span> during the fall of 2018.
 ---
+<span class="subheading">An episode of <a title="Graduate Algebraic Geometry LEarning Seminar">GAGLeS</a> organized by <a href="index.html">Raymond Cheng</a> during the fall of 2018</span>
 
 Cubic fourfolds, i.e. nonsingular cubic hypersurface in projective five space,
 pose one of the most tantalizing challenges to the modern algebraic geometer:
@@ -33,8 +33,8 @@ paper is delightfully alien and at least makes me wonder what algebraic geometry
 looked back then.
 
 * G. Fano (1943),
-[[Sulle forme cubiche dello spazio a cinque dimensioni contenenti rigate razionali del 4∘ ordine](https://link.springer.com/article/10.1007%2FBF02565634)]{.paper},
-[MR0010433](https://mathscinet.ams.org/mathscinet/search/publdoc.html?pg1=MR&s1=10433){.MR}.
+[Sulle forme cubiche dello spazio a cinque dimensioni contenenti rigate razionali del 4∘ ordine](https://link.springer.com/article/10.1007%2FBF02565634),
+[MR0010433](https://mathscinet.ams.org/mathscinet/search/publdoc.html?pg1=MR&s1=10433).
 
 A modern classic in the theory of cubic fourfolds is one by Arnaud Beauville and
 Ron Donagi on the Fano variety of lines on a cubic fourfold.
@@ -47,8 +47,8 @@ This paper perhaps marks the beginning of a long story in so much modern
 algebraic geometry.
 
 * A. Beauville and R. Donagi (1985),
-[[La variété des droites d'une hypersurface cubique de dimension 4][BD-lines]]{.paper},
-[MR0818549](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=818549){.MR}.
+[La variété des droites d'une hypersurface cubique de dimension 4][BD-lines],
+[MR0818549](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=818549).
 
 ### Moduli and Periods
 
@@ -65,18 +65,18 @@ The geometry of the period domain and the properties of the period map have
 since been clarified by Radu Laza, Eduard Looijenga, and others.
 
 * C. Voisin (1986),
-[[Théorème de Torelli pour les cubiques de \\(\\mathbf{P}^5\\)][Voisin-Torelli]]{.paper},
-[[erratum][Voisin-Torelli-erratum]]{.paper},
-[MR0860684](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=0860684){.MR}.
+[Théorème de Torelli pour les cubiques de \\(\\mathbf{P}^5\\)][Voisin-Torelli],
+[erratum][Voisin-Torelli-erratum],
+[MR0860684](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=0860684).
 * R. Laza (2009),
-[[The moduli space of cubic fourfolds][Laza-moduli]]{.paper},
-[MR2496456](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=2496456){.MR}.
+[The moduli space of cubic fourfolds][Laza-moduli],
+[MR2496456](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=2496456).
 * E. Looijenga (2009),
-[[The period map for cubic fourfolds][Loo-period]]{.paper},
-[MR2507640](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=2507640){.MR}.
+[The period map for cubic fourfolds][Loo-period],
+[MR2507640](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=2507640).
 * R. Laza (2010),
-[[The moduli space of cubic fourfolds via the period map][Laza-period]]{.paper},
-[MR2680429](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=2680429){.MR}.
+[The moduli space of cubic fourfolds via the period map][Laza-period],
+[MR2680429](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=2680429).
 
 There are now several different proofs of the Torelli theorem for cubic
 fourfolds.
@@ -88,11 +88,11 @@ Bayer et al. have given a variation of the Huybrechts--Rennemo proof using their
 work on stability conditions on the Kuznetsov component of a cubic fourfold.
 
 * F. Charles (2012),
-[[A remark on the Torelli theorem for cubic fourfolds][Charles-Torelli]]{.paper}.
+[A remark on the Torelli theorem for cubic fourfolds][Charles-Torelli].
 * D. Huybrechts and J. Rennemo (2016),
-[[Hochschild cohomology versus the Jacobian ring, and the Torelli theorem for cubic fourfolds][HR-Torelli]]{.paper}.
+[Hochschild cohomology versus the Jacobian ring, and the Torelli theorem for cubic fourfolds][HR-Torelli].
 * A. Bayer, M. Lahoz, E. Macrì, P. Stellari, and X. Zhao (2017),
-[[The Torelli theorem for cubic fourfolds][BLMSZ-Torelli]]{.paper}.
+[The Torelli theorem for cubic fourfolds][BLMSZ-Torelli].
 
 ### Hodge Theoretic Approach to Rationality
 
@@ -109,16 +109,16 @@ orthogonal complement of the extra algebraic class in the primitive cohomology
 of the cubic fourfold.
 
 * B. Hassett (2000),
-[[Special cubic fourfolds][Hassett-thesis]]{.paper},
-[[abridged version][Hassett-thesis-abridged]]{.paper},
-[MR1738215](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=1738215){.MR}.
+[Special cubic fourfolds][Hassett-thesis],
+[abridged version][Hassett-thesis-abridged],
+[MR1738215](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=1738215).
 
 For a more recent and up-to-date account of these ideas, see also Hassett's
 survey:
 
 * B. Hassett (2016),
-[[Cubic fourfolds, K3 surfaces, and rationality questions][Hassett-survey]]{.paper},
-[MR3618665](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=3618665){.MR}.
+[Cubic fourfolds, K3 surfaces, and rationality questions][Hassett-survey],
+[MR3618665](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=3618665).
 
 ### Derived Category Approach to Rationality
 
@@ -132,8 +132,8 @@ precisely when this category can be realized as the derived category of an
 honest K3 surface.
 
 * A. Kuznetsov (2010),
-[[Derived categories of cubic fourfolds][Kuz-K3-category]]{.paper},
-[MR2605171](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=2605171){.MR}.
+[Derived categories of cubic fourfolds][Kuz-K3-category],
+[MR2605171](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=2605171).
 
 A very readable guide to these ideas is Kuznetsov's survey article below.
 For a further reference for derived category stuff, K3 categories, and relations
@@ -144,13 +144,13 @@ Kuznetsov's approach to rationality fits into the larger picture of things, and
 how it is, for instance, related to the Clemens--Griffiths result.
 
 * A. Kuznetsov (2016),
-[[Derived categories view on rationality problems][Kuz-survey]]{.paper},
-[MR3618666](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=3618666){.MR}.
+[Derived categories view on rationality problems][Kuz-survey],
+[MR3618666](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=3618666).
 * E. Macrì and P. Stellari (2018),
-[[Lectures on non-commutative K3 surfaces, Bridgeland stability, and moduli spaces][MS-NCK3]]{.paper}.
+[Lectures on non-commutative K3 surfaces, Bridgeland stability, and moduli spaces][MS-NCK3].
 * A. Auel and M. Bernardara (2016),
-[[Cycles, derived categories, and rationality][AB-notes]]{.paper},
-[MR3727501](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=3727501){.MR}.
+[Cycles, derived categories, and rationality][AB-notes],
+[MR3727501](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=3727501).
 
 ### Comparison Between Approaches, etc.
 
@@ -162,11 +162,11 @@ Daniel Huybrechts has since then expanded on this relation and have proved some
 basic structure results for the Kuznetsov component of a cubic fourfold.
 
 * N. Addington and R. Thomas (2014),
-[[Hodge theory and derived categories of cubic fourfolds][AT-K3]]{.paper},
-[MR3229044](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=3229044){.MR}.
+[Hodge theory and derived categories of cubic fourfolds][AT-K3],
+[MR3229044](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=3229044).
 * D. Huybrechts (2017),
-[[The K3 category of a cubic fourfold][Huy-K3]]{.paper},
-[MR3705236](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=3705236){.MR}.
+[The K3 category of a cubic fourfold][Huy-K3],
+[MR3705236](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=3705236).
 
 One more approach to the rationality problem for cubic problems is a
 baby motivic one due to Sergey Galkin and Evgeny Shinder.
@@ -184,10 +184,10 @@ associated Fano variety of lines, a direction further clarified by Nicolas
 Addington.
 
 * S. Galkin and E. Shinder (2014),
-[[The Fano variety of lines and rationality problem for a cubic hypersurface][GS-Fano]]{.paper}.
+[The Fano variety of lines and rationality problem for a cubic hypersurface][GS-Fano].
 * N. Addington (2016),
-[[On two rationality conjectures for cubic fourfolds][Add-GS]]{.paper},
-[MR3512874](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=3512874){.MR}.
+[On two rationality conjectures for cubic fourfolds][Add-GS],
+[MR3512874](https://mathscinet.ams.org/mathscinet/search/publdoc.html?&pg1=MR&s1=3512874).
 
 Finally, a helpful guide to the relationships between cubic fourfolds and K3
 surfaces is contained in a set of slides by Daniel Huybrechts:
@@ -203,84 +203,19 @@ For a more up-to-date and more polished reference, see also Daniel Huybrechts's
 notes in progress:
 
 * D. Huybrechts (2018),
-[[The geometry of cubic hypersurfaces][Huy-Notes]]{.paper}.
+[The geometry of cubic hypersurfaces][Huy-Notes].
 
 ## Schedule
 
 We meet Mondays in Mathematics Room 622 between 1:15PM and 2:30PM.
 
-09/05
-  ~ [Raymond Cheng]{.speaker},
-  ~ [Introduction and Organization]{.title},
-  ~ [[Beauville--Donagi (1985)][BD-lines]]{.people},
-    [[Hassett (2000)][Hassett-thesis]]{.people},
-    [[Hassett (2016)][Hassett-survey]]{.people}.
-
-[09/]{.phantom}10
-  ~ [No Seminar]{.speaker},
-  ~ [Raymond in Italy]{.title}.
-
-[09/]{.phantom}17
-  ~ [Carl Lian]{.speaker},
-  ~ [Hodge theory of Cubic Fourfolds]{.title}
-  ~ [[Voisin (1986)][Voisin-Torelli]]{.people},
-    [[Hassett (2000)][Hassett-thesis]]{.people},
-    [[Hassett (2016)][Hassett-survey]]{.people},
-    [Huybrechts Slides 2](assets/HuybrechtsLecture2.pdf){.people}.
-
-[09/]{.phantom}24
-  ~ [No Seminar]{.speaker},
-  ~ [Post-AGNES Lull]{.title}.
-
-10/01
-  ~ [Raymond Cheng]{.speaker},
-  ~ [Special Cubic Fourfolds and Associated K3 Surfaces]{.title},
-  ~ [[Hassett (2000)][Hassett-thesis]]{.people},
-    [[Hassett (2016)][Hassett-survey]]{.people},
-    [Huybrechts Slides 2](assets/HuybrechtsLecture2.pdf){.people}.
-
-[10/]{.phantom}08
-  ~ [Noah Olander]{.speaker},
-  ~ [Derived Categories of Cubic Fourfolds]{.title},
-  ~ [[Kuznetsov (2010)][Kuz-K3-category]]{.people},
-    [[Kuznetsov (2016)][Kuz-survey]]{.people},
-    [[Macrì--Stellari (2018)][MS-NCK3]]{.people}.
-
-[10/]{.phantom}15
-  ~ [Dmitrii Pirozhkov]{.speaker},
-  ~ [Kuznetsov Component of Cubic Fourfolds]{.title},
-  ~ [[Kuznetsov (2010)][Kuz-K3-category]]{.people},
-    [[Kuznetsov (2016)][Kuz-survey]]{.people},
-    [[Macrì--Stellari (2018)][MS-NCK3]]{.people}.
-
-[10/]{.phantom}22
-  ~ [Dmitrii Pirozhkov]{.speaker},
-  ~ [Hodge Theory and Derived Category of Cubic Fourfolds]{.title},
-  ~ [[Addington--Thomas (2014)][AT-K3]]{.people},
-    [[Huybrechts (2017)][Huy-K3]]{.people},
-    [Huybrechts Slides 3](assets/HuybrechtsLecture3.pdf){.people}.
-
-[10/]{.phantom}29
-  ~ [Carl Lian]{.speaker},
-  ~ [Rationality and the Fano Variety of Lines, Reprise]{.title},
-  ~ [[Galkin--Shinder (2014)][GS-Fano]]{.people},
-    [[Addington (2016)][Add-GS]]{.people},
-    [Huybrechts Slides 4](assets/HuybrechtsLecture4.pdf){.people}.
-
-11/05
-  ~ [No Seminar]{.speaker},
-  ~ [Academic Holiday]{.title}.
-
-[11/]{.phantom}12
-  ~ [No Seminar]{.speaker}.
-
-[11/]{.phantom}19
-  ~ [No Seminar]{.speaker}.
-
-[11/]{.phantom}26
-  ~ [Dmitrii Pirozhkov]{.speaker},
-  ~ [Symplectic structures on moduli spaces of sheaves via the Atiyah class]{.title}.
-
+<dl>
+<dt>01/23</dt>
+<dd>Organization.</dd>
+{% for item in site.data.GAGLES-F2018  %}
+{% include speaker.html info=item %}
+{% endfor %}
+</dl>
 
 [Hassett-survey]: <https://link.springer.com/chapter/10.1007/978-3-319-46209-7_2>
 [Hassett-thesis]: <https://www.math.brown.edu/~bhassett/papers/cubics/cubiclong.pdf>

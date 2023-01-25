@@ -1,0 +1,57 @@
+-
+  date: 09/05
+  speaker: Raymond Cheng
+  title: Introduction and Organization
+  references: "[Beauville--Donagi (1985)][BD-lines], [Hassett (2000)][Hassett-thesis], [Hassett (2016)][Hassett-survey]."
+-
+  date: 09/10
+  speaker: No Seminar
+  title: Raymond in Italy
+-
+  date: 09/17
+  speaker: Carl Lian
+  title: Hodge theory of Cubic Fourfolds
+  references: "[Voisin (1986)][Voisin-Torelli], [Hassett (2000)][Hassett-thesis], [Hassett (2016)][Hassett-survey], [Huybrechts Slides 2](assets/HuybrechtsLecture2.pdf)."
+-
+  date: 09/24
+  speaker: No Seminar
+  title: Post-AGNES Lull
+-
+  date: 10/01
+  speaker: Raymond Cheng
+  title: Special Cubic Fourfolds and Associated K3 Surfaces
+  references: "[Hassett (2000)][Hassett-thesis], [Hassett (2016)][Hassett-survey], [Huybrechts Slides 2](assets/HuybrechtsLecture2.pdf)."
+-
+  date: 10/08
+  speaker: Noah Olander
+  title: Derived Categories of Cubic Fourfolds
+  references: "[Kuznetsov (2010)][Kuz-K3-category], [Kuznetsov (2016)][Kuz-survey], [Macrì--Stellari (2018)][MS-NCK3]."
+-
+  date: 10/15
+  speaker: Dmitrii Pirozhkov
+  title: Kuznetsov Component of Cubic Fourfolds
+  references: "[Kuznetsov (2010)][Kuz-K3-category], [Kuznetsov (2016)][Kuz-survey], [Macrì--Stellari (2018)][MS-NCK3]."
+-
+  date: 10/22
+  speaker: Dmitrii Pirozhkov
+  title: Hodge Theory and Derived Category of Cubic Fourfolds
+  references: "[Addington--Thomas (2014)][AT-K3], [Huybrechts (2017)][Huy-K3], [Huybrechts Slides 3](assets/HuybrechtsLecture3.pdf)."
+-
+  date: 10/29
+  speaker: Carl Lian
+  title: Rationality and the Fano Variety of Lines, Reprise
+  references: "[Galkin--Shinder (2014)][GS-Fano], [Addington (2016)][Add-GS], [Huybrechts Slides 4](assets/HuybrechtsLecture4.pdf)."
+-
+  date: 11/05
+  speaker: No Seminar
+  title: Academic Holiday
+-
+  date: 11/12
+  speaker: No Seminar
+-
+  date: 11/19
+  speaker: No Seminar
+-
+  date: 11/26
+  speaker: Dmitrii Pirozhkov
+  title: Symplectic structures on moduli spaces of sheaves via the Atiyah class
