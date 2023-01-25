@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Raymond Cheng -- Teaching
+layout: page
+title: Teaching
 heading: Teaching
 ---
 

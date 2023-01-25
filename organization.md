@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Raymond Cheng -- Organization
+layout: page
+title: Organization
 heading: Organization
 ---
 

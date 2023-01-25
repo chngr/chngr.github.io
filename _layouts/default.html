@@ -1,63 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-  <head>
-      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-      <meta name="viewport" content="width=device-width" />
-      <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({
-          tex2jax: {
-            inlineMath: [['\\(','\\)'], ['\\(','\\)']]
-          },
-          TeX: {
-            extensions: ["AMSmath.js", "AMSsymbols.js"]
-          },
-          displayAlign: "left",
-          displayIndent: "2em",
-        });
-      </script>
-      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
-      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132872354-1"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+<!DOCTYPE html>
+<html lang="en-us">
 
-        gtag('config', 'UA-132872354-1');
-      </script>
-      <link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
-      <link rel="stylesheet" type="text/css" href="css/style.css"/>
-      {% if page.html_title %}
-        <title>{{ page.html_title }}</title>
-      {% else %}
-        <title>{{ page.title }}</title>
-      {% endif %}
-  </head>
+  {% include head.html %}
+
   <body>
-    <div id="header">
-      <div id="header-side">
-        <h1><a id="name" href="/">Raymond Cheng</a></h1>
-      </div>
-      <div id="header-content">
-        {% if page.heading %}
-        <h1 class="heading">{{ page.heading }}</h1>
-        {% endif %}
-        {% if page.subheading %}
-        <div class="subheading">{{ page.subheading }}</div>
-        {% endif %}
-      </div>
-    </div>
-    <div id="body">
-    <div id="side-bar">
-      <a href="/writing.html">writing</a>
-      <a href="/teaching.html">teaching</a>
-      <a href="/organization.html">organization</a>
-    </div>
-    <div id="content">
+
+    {% include sidebar.html %}
+
+    <div class="content container">
       {{ content }}
     </div>
-    </div>
 
-    </main>
   </body>
 </html>

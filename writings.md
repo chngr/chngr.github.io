@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Raymond Cheng -- Writings
+layout: page
+title: Writings
 heading: Writings
 ---
 

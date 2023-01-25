@@ -1,0 +1,30 @@
+<div class="sidebar">
+  <div class="container sidebar">
+    <div class="sidebar-about">
+      <h1>
+        <a href="{{ site.baseurl }}">
+          {{ site.title }}
+        </a>
+      </h1>
+      <p class="lead">{{ site.description }}</p>
+    </div>
+
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item{% if page.url == "/writings.html" %} active{% endif %}" href="/writings.html">Writings</a>
+      <a class="sidebar-nav-item{% if page.url == "/teaching.html" %} active{% endif %}" href="/teaching.html">Teaching</a>
+      <a class="sidebar-nav-item{% if page.url == "/organization.html" %} active{% endif %}" href="/organization.html">Organization</a>
+    </nav>
+
+
+  <div class="sidebar-sticky">
+  email: <br/>
+  <a id="email" href="mailto:cheng@math.uni-hannover.de">cheng@math.uni-hannover.de</a>
+  address:<br/>
+  <div id="address">
+  Institute of Algebraic Geometry<br/>
+  Leibniz Universität Hannover<br/>
+  Welfengarten 1<br/>
+  30167 Hannover<br/>
+  </div></div>
+  </div>
+</div>
