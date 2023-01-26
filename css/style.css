@@ -20,3 +20,11 @@ dt {
   font-size: 12pt;
   display: block;
 }
+
+a:hover.people {
+  color:#E34791;
+}
+
+a:visited.people {
+  color:#DC1975;
+}
