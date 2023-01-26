@@ -54,12 +54,12 @@ Here is an archive of teaching activities I have been involved in.
 
 * Spring 2018 ---
   TA for
-  [Schemes](http://www.math.columbia.edu/~dejong/courses/schemes-spring-2018.html)
+  [Schemes](http://www.math.columbia.edu/~dejong/courses/schemes-spring-2018.html),
   taught by {% include person.html person=site.data.people.aise_johan_de_jong %}.
 
 * Spring 2018 ---
   TA for
-  [Honours Mathematics B](http://math.columbia.edu/~hansen/un1208s1.html)
+  [Honours Mathematics B](http://math.columbia.edu/~hansen/un1208s1.html),
   taught by {% include person.html person=site.data.people.david_hansen %}.
 
 * Fall 2017 ---
