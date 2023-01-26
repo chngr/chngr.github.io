@@ -6,6 +6,18 @@ heading: Teaching
 
 Here is an archive of teaching activities I have been involved in.
 
+### Leibniz Universität Hannover
+
+* Winter 2022 --
+  Tutorials for Algebraic Geometry I, taught by
+  {% include person.html person=site.data.people.stefan_schreieder %}.
+
+* Winter 2022 --
+  Tutorials for Linear Algebra I, taught by
+  {% include person.html person=site.data.people.matthias_schuett %}.
+
+### Columbia University
+
 * Spring 2022 --
   Undergraduate seminar on [Tilings](S2022.html).
 

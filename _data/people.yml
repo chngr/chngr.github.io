@@ -91,3 +91,13 @@ aise_johan_de_jong: {
   name: Aise Johan de Jong,
   url: "https://math.columbia.edu/~dejong/"
 }
+
+stefan_schreieder: {
+  name: Stefan Schreieder,
+  url: "https://www.iag.uni-hannover.de/en/schreieder"
+}
+
+matthias_schuett: {
+  name: Matthias Schütt,
+  url: "https://www.iag.uni-hannover.de/en/schuett"
+}
