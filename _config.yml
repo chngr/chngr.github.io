@@ -2,7 +2,7 @@
 title:            Raymond Cheng
 tagline:          'Home'
 domain: chngr.github.io
-url: https://chngr.github.io
+url: "https://chngr.github.io"
 baseurl: '/'
 
 author:
