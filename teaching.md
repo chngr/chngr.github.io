@@ -8,6 +8,14 @@ Here is an archive of teaching activities I have been involved in.
 
 ### Leibniz Universität Hannover
 
+* Summer 2022 --
+  Tutorials for Algebraic Geometry II, taught by
+  {% include person.html person=site.data.people.victor_gonzalez_alonso %}.
+
+* Summer 2022 --
+  Tutorials for Mathematics for Engineers II, taught by
+  {% include person.html person=site.data.people.andreas_krug %}.
+
 * Winter 2022 --
   Tutorials for Algebraic Geometry I, taught by
   {% include person.html person=site.data.people.stefan_schreieder %}.

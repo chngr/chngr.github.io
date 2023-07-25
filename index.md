@@ -12,12 +12,14 @@ exploration. In particular, I think a lot about rational curves,
 rationality problems, and geometry in positive characteristic.
 
 ### Current Projects
-During the Winter of 2023, I am:
+During the Summer of 2023, I am:
 
--   writing about \\(q\\)-bic hypersurfaces and their Fano schemes. Take a look
-    at my [thesis](https://academiccommons.columbia.edu/doi/10.7916/4gba-xx11)
-    and this [talk](https://www.youtube.com/watch?v=0xx6MBSB1BY) I gave a while
-    ago on the subject!
+-   writing about the geometry of \\(q\\)-bic threefolds. Take a look at the
+    accompanying [paper](/assets/qbic-fanos.pdf) and this
+    [talk](https://www.youtube.com/watch?v=0xx6MBSB1BY) I gave a while ago on
+    the subject!
+-   thinking about quadric surface bundles in characteristic \\(2\\) with
+   {% include person.html person=site.data.people.noah_olander %}!
 
 ### Contact
 <div class="contact">

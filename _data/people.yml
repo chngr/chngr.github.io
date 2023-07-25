@@ -101,3 +101,13 @@ matthias_schuett: {
   name: Matthias Schütt,
   url: "https://www.iag.uni-hannover.de/en/schuett"
 }
+
+victor_gonzalez_alonso: {
+  name: Victor Gonzalez-Alonso,
+  url: "https://www.iag.uni-hannover.de/de/gonzalez-alonso"
+}
+
+andreas_krug: {
+  name: Andreas Krug,
+  url: "https://sites.google.com/site/andkrugmath/"
+}
