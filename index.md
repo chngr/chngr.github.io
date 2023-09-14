@@ -4,7 +4,8 @@ title: About
 heading: About
 ---
 
-I am a postdoctoral fellow at the
+I am a postdoctoral
+[Humboldt Research Fellow](https://www.humboldt-foundation.de/en/) based at the
 [Institute of Algebraic Geometry](https://www.iag.uni-hannover.de/en/) within
 [Leibniz Universität Hannover](https://www.uni-hannover.de/en/).
 Geometry fascinates me, with algebraic methods my preferred means of
@@ -12,8 +13,11 @@ exploration. In particular, I think a lot about rational curves,
 rationality problems, and geometry in positive characteristic.
 
 ### Current Projects
-During the Summer of 2023, I am:
+During the Autumn of 2023, I am:
 
+-   visiting the Hausdorff Research Institute for Mathematics as part of the
+    Junior Trimester Program in Algebraic Geometry. Please visit
+    [this page](/jtp-2023) for more information.
 -   writing about the geometry of \\(q\\)-bic threefolds. Take a look at the
     accompanying [paper](/assets/qbic-fanos.pdf) and this
     [talk](https://www.youtube.com/watch?v=0xx6MBSB1BY) I gave a while ago on
