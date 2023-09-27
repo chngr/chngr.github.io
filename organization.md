@@ -4,6 +4,14 @@ title: Organization
 heading: Organization
 ---
 
+Currently, I am organizing with
+{% include person.html person=site.data.people.laura_pertusi %},
+{% include person.html person=site.data.people.mirko_mauri %},
+{% include person.html person=site.data.people.sarah_frei %}, and others,
+various happenings at the Junior Trimester Program in Algebraic Geometry
+at the Hausdorff Institute for Research in Mathematics. See [this
+page](/jtp-2023) for more information.
+
 I have organized seminars in the past; here is an archive of their webpages.
 
   * Fall 2018 ---

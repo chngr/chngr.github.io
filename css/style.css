@@ -28,3 +28,7 @@ a:hover.people {
 a:visited.people {
   color:#DC1975;
 }
+
+.talk-information-title {
+  font-weight: bold;
+}

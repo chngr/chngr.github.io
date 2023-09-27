@@ -1,0 +1,18 @@
+-
+  date: 09/26
+  speaker: Reinder Meinsma
+  title: Derived equivalence for elliptic K3 surfaces and Jacobians
+  abstract: We present a detailed study of Fourier-Mukai partners of elliptic
+    K3 surfaces. One way to produce Fourier-Mukai partners of elliptic K3
+    surfaces is by taking Jacobians. We answer the question of whether every
+    Fourier-Mukai partner is obtained in this way. This question was raised by
+    Hassett and Tschinkel in 2015. We fully classify elliptic fibrations on
+    Fourier-Mukai partners in terms of Hodge-theoretic data, similar to the
+    Derived Torelli Theorem that describes Fourier-Mukai partners. This
+    classification has an explicit computable form in Picard rank two, building
+    on the work of Stellari and Van Geemen. We prove that for a large class of
+    Picard rank 2 elliptic K3 surfaces all Fourier-Mukai partners are
+    Jacobians. However, we also show that there exist many elliptic K3 surfaces
+    with Fourier-Mukai partners which are not Jacobians of the original K3
+    surface. This is joint work with Evgeny Shinder.
+

@@ -126,3 +126,9 @@ sarah_frei: {
   name: Sarah Frei,
   url: "https://math.dartmouth.edu/~sfrei/"
 }
+
+philip_engel : {
+  name: Philip Engel,
+  url: "https://philip-engel.github.io/"
+}
+
