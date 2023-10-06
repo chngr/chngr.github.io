@@ -1,5 +1,5 @@
 -
-  date: 09/26
+  date: 26.09
   speaker: Reinder Meinsma
   title: Derived equivalence for elliptic K3 surfaces and Jacobians
   abstract: We present a detailed study of Fourier-Mukai partners of elliptic
@@ -15,4 +15,48 @@
     Jacobians. However, we also show that there exist many elliptic K3 surfaces
     with Fourier-Mukai partners which are not Jacobians of the original K3
     surface. This is joint work with Evgeny Shinder.
-
+-
+  date: "10.10"
+  speaker: Raymond Cheng
+  title: "\\(q\\)-bic hypersurfaces"
+  abstract: "Let’s count: \\(1\\), \\(2\\), \\(q+1\\). The eponymous objects
+    are special projective hypersurfaces of degree \\(q+1\\), where \\(q\\) is
+    a power of the positive ground field characteristic. This talk will sketch
+    an analogy between the geometry of \\(q\\)-bic hypersurfaces and that of
+    quadric and cubic hypersurfaces. For instance, the moduli spaces of linear
+    spaces in \\(q\\)-bics are smooth and themselves have rich geometry. In the
+    case of \\(q\\)-bic threefolds, I will describe an analogue of result of
+    Clemens and Griffiths, which relates the intermediate Jacobian of the
+    \\(q\\)-bic with the Albanese of its surface of lines."
+-
+  date: "16.10"
+  speaker: Tudor Ciurca
+  title: Irrationality of cubic threefolds in characteristic 2
+  abstract: In 1972 Clemens and Griffiths gave a formidable proof that a
+    smooth cubic threefold over C is irrational. The proof was soon after
+    adapted to any algebraically closed field of characteristic not 2 using
+    algebraic methods. I will finish the story by extending the proof to the
+    case of characteristic 2. As arithmetic applications, we answer a question
+    of Deligne regarding arithmetic Torelli maps and establish the Shafarevich
+    conjecture for cubic threefolds over function fields of characteristic 2.
+-
+  date: "20.10"
+  speaker: Fei Xie
+-
+  date: "23.10"
+  speaker: Fumiaki Suzuki
+-
+  date: "27.10"
+  speaker: Shengxuan Liu
+-
+  date: "31.10"
+  speaker: Jack Petok
+-
+  date: "14.11"
+  speaker: Stefano Filipazzi
+-
+  date: "05.12"
+  speaker: Mark de Cataldo
+-
+  date: 12.12
+  speaker: Anna Abasheva

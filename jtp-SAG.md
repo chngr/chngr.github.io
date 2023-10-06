@@ -12,9 +12,8 @@ This is a weekly research seminar in algebraic geometry organized by
 {% include person.html person=site.data.people.sarah_frei %} as part of the
 [Junior Trimester Program](/jtp-2023)
 in Algebraic Geometry at the Hausdorff Research Institute for
-Mathematics. Meetings take place Thursdays
-from 10:30 to 11:30 in the Hausdorff Institute Lecture Hall, Poppelsdorfer Allee
-45.
+Mathematics. Meetings take place from 10:30 to 11:30, usually on Thursdays, in
+the Hausdorff Institute Lecture Hall, Poppelsdorfer Allee 45.
 
 
 <dl>

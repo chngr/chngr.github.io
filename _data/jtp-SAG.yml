@@ -1,8 +1,34 @@
 -
-  date: 09/28
+  date: 28.09
   speaker: Noah Olander
   title: Fully faithful functors and dimension
   abstract: Can one embed the derived category of a higher dimensional variety
     into the derived category of a lower dimensional variety? The expected
     answer was no. We give a simple proof and prove new cases of a conjecture
     of Orlov along the way.
+-
+  date: "12.10"
+  speaker: Genki Ouchi
+  title: Cubic fourfolds and K3 surfaces with large automorphism groups
+  abstract: Relations between cubic fourfolds and K3 surfaces are described by
+    Hodge theory and derived categories. Using Hodge theory and derived
+    categories, we can show that cubic fourfolds and associated K3 surfaces
+    share their symmetries, which are related with Mathieu groups and Conway
+    groups. In this talk, we find pairs of a cubic fourfold and a K3 surface
+    sharing large symplectic automorphism groups via Bridgeland stability
+    conditions on K3 surfaces.
+-
+  date: "02.11"
+  speaker: Franco Rota
+-
+  date: 16.11
+  speaker: Andres Fernandez Herrero
+-
+  date: 27.11
+  speaker: Olivier Martin
+-
+  date: "07.12"
+  speaker: Roberto Svaldi
+-
+  date: 14.12
+  speaker: Sarah Frei
