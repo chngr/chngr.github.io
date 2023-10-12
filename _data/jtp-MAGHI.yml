@@ -45,6 +45,17 @@
 -
   date: "23.10"
   speaker: Fumiaki Suzuki
+  title: Maximal linear spaces for pencils of quadrics and rationality
+  abstract: "Over an arbitrary field \\(k\\) of odd characteristic, let \\(X\\)
+    be a smooth complete intersection of two quadrics in
+    \\(\\mathbf{P}^{2g+1}\\). For every \\(g\\) at least 2, we show that the
+    existence of a \\((g-1)\\)-plane, defined over \\(k\\), on \\(X\\) may be
+    characterized by \\(k\\)-rationality of a certain 3-dimensional subvariety
+    of the Fano scheme of \\((g-2)\\)-planes on \\(X\\), generalizing the
+    \\(g = 2\\) case due to Hassett–Tschinkel and Benoist–Wittenberg. We also
+    present a related result on \\(k\\)-rationality of the Fano schemes of
+    non-maximal linear spaces on \\(X\\). This is joint work in progress with
+    Lena Ji."
 -
   date: "27.10"
   speaker: Shengxuan Liu
