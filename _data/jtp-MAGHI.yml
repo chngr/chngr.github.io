@@ -42,6 +42,14 @@
 -
   date: "20.10"
   speaker: Fei Xie
+  title: Quadric bundles over smooth surfaces
+  abstract: "For a flat quadric bundle of relative even dimension with fibers
+    of corank at most 1, there is a well established relation between its
+    derived category and its relative Hilbert scheme of maximal isotropic
+    subspaces (or its relative moduli of spinor bundles). For a smooth
+    \\(2m\\)-fold with the structure of a quadric bundle over a smooth surface,
+    there is a finite number of fibers with corank 2 and this relation fails. I
+    will discuss how to fix the relation in this case."
 -
   date: "23.10"
   speaker: Fumiaki Suzuki
