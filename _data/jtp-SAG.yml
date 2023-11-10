@@ -1,5 +1,5 @@
 -
-  date: 28.09
+  date: "28.09"
   speaker: Noah Olander
   title: Fully faithful functors and dimension
   abstract: Can one embed the derived category of a higher dimensional variety
@@ -20,15 +20,33 @@
 -
   date: "02.11"
   speaker: Franco Rota
+  title: Non-commutative deformations and contractibility of rational curves
+  abstract: "When can we contract a rational curve \\(C\\)? The situation is
+    much more complicated for threefolds than it is for surfaces: Jimenez gives
+      examples of (-3,1)-rational curves neither contract nor move. Their
+      behaviour is controlled by the functor of non-commutative deformations of
+      \\(C\\), which conjecturally controls exactly their contractibility. I
+      will report on work in progress with M. Wemyss, and reinterpret some of
+      Jimenez's examples in terms of non-commutative deformations."
 -
-  date: 16.11
+  date: "16.11"
   speaker: Andres Fernandez Herrero
+  title: "Towards curve counting on the classifying stack \\(B\\mathrm{GL}_n\\)"
+  abstract: "In this talk I will describe a version of stable maps into a
+    quotient stack \\([Z/\\mathrm{GL}_N]\\), where \\(Z\\) is a projective
+    variety with an action of the general linear group \\(\\mathrm{GL}_N\\). If
+    time allows, I will also update on the ongoing piece of the story with
+    marked points, which involves some surprises such as the inclusion of a
+    notion of `orientation' for the markings in order to compactify the
+    evaluation morphisms and recover reasonable gluing morphisms. This talk is
+    based on joint work in progress with Daniel Halpern-Leistner."
+
 -
-  date: 27.11
+  date: "27.11"
   speaker: Olivier Martin
 -
   date: "07.12"
   speaker: Roberto Svaldi
 -
-  date: 14.12
+  date: "14.12"
   speaker: Sarah Frei

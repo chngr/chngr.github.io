@@ -67,12 +67,42 @@
 -
   date: "27.10"
   speaker: Shengxuan Liu
+  title: A note on spherical bundles on K3 surfaces
+  abstract: "Let \\(S\\) be a K3 surface with the bounded derived category
+    \\(\\mathrm{D}^b(S)\\). Let \\(E\\) be a spherical object in
+    \\(\\mathrm{D}^b(S)\\). Then there always exists a non-zero object \\(F\\)
+    satisfying \\(\\mathrm{RHom}(E,F)=0\\). Further, there exists a spherical
+    bundle \\(E\\) on some K3 surfaces that is unstable with respect to all
+    polarization on \\(S\\). Also we “count”  spherical bundles with a fixed
+    Mukai vector. These provide (partial) answers to some questions of
+    Huybrechts. This is a joint work with Chunyi Li."
 -
   date: "31.10"
   speaker: Jack Petok
+  title: Zeta function of the K3 category of a cubic
+  abstract:  "We study the arithmetic of the K3 category associated to a cubic
+    fourfold over a non-algebraically closed field \\(k\\). We start by
+    constructing the Mukai structure of this K3 category with a natural action
+    of Galois. For \\(k\\) a finite field, this lets us define the zeta
+    function of a K3 category, an invariant under FM-equivalence of K3
+    categories. We provide a characterization of those cubic fourfolds whose K3
+    category has zeta function arising from a K3 surface defined over \\(k\\).
+    One interesting outcome is that the zeta function does not always detect
+    the geometricity of the K3 category. This is joint work with Asher Auel."
+
 -
   date: "14.11"
   speaker: Stefano Filipazzi
+  title: On the boundedness of elliptic Calabi-Yau threefolds
+  abstract: "In this talk, we will discuss the boundedness of Calabi-Yau
+    threefolds admitting an elliptic fibration. First, we will review the
+    notion of boundedness in birational geometry and its weak forms. Then, we
+    will switch focus to Calabi-Yau varieties and discuss how the
+    Kawamata-Morrison cone conjecture comes in the picture when studying
+    boundedness properties for this class of varieties. To conclude, we will
+    see how this circle of ideas applies to the case of elliptic Calabi-Yau
+    threefolds. This talk is based on work joint with C.D. Hacon and R. Svaldi."
+
 -
   date: "05.12"
   speaker: Mark de Cataldo
