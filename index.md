@@ -22,7 +22,7 @@ During the Autumn of 2023, I am:
     accompanying [paper](/assets/qbic-fanos.pdf) and this
     [talk](https://www.youtube.com/watch?v=0xx6MBSB1BY) I gave a while ago on
     the subject!
--   thinking about quadric surface bundles in characteristic \\(2\\) with
+-   thinking about quadric bundles with
    {% include person.html person=site.data.people.noah_olander %}!
 
 ### Contact
