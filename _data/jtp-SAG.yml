@@ -44,9 +44,22 @@
 -
   date: "27.11"
   speaker: Olivier Martin
+  title: "Isotrivial Lagrangian fibrations of compact hyper-Kähler manifolds"
+  abstract: "I will present a recent exploration of the geometry of isotrivial
+    Lagrangian fibrations conducted with Y. Kim and R. Laza. We show that the
+    smooth fiber of such a fibration is isogenous to the power of an elliptic
+    curve. Moreover, we introduce a dichotomy arising from the Kodaira
+    dimension of the minimal Galois cover of the base trivializing monodromy.
+    We also classify up to birational equivalence isotrivial fibrations with a
+    section in the case where this cover has Kodaira dimension 0."
+
 -
   date: "07.12"
-  speaker: Roberto Svaldi
--
-  date: "14.12"
-  speaker: Sarah Frei
+  speaker: Roberto Fringuelli
+  title: "The automorphism group of the moduli space of \\(G\\)-bundles over a curve"
+  abstract: "For any almost-simple group \\(G\\) over an algebraically closed
+    field \\(k\\) characteristic zero, we describe the automorphism group of
+    the moduli space of semistable \\(G\\)-bundles over a curve of genus at
+    least 4. The result is achieved by studying the singular fibers of the
+    Hitchin fibration. Time permitting, we also provide a proof of a
+    Torelli-type theorem for these moduli spaces."

@@ -106,6 +106,27 @@
 -
   date: "05.12"
   speaker: Mark de Cataldo
+  title: "Geometry of moduli of t-connections"
+  abstract: "I will review some of my recent work on moduli spaces of Higgs
+  bundles, of connections and of t-connections (which subsums both). These
+  moduli spaces are objects of interest in the Non Abelian Hodge Theory of
+  projective manifolds--warning: I will only discuss the case of curves--over
+    the complex numbers and they have been intensively studied in the last
+    thirty plus years. The situation over fields of positive characteristic is
+    less explored and has also become the focus of what people call NAHT in
+    characteristic p.  While the moduli spaces  of Higgs bundles and of
+    connections are homeomorphic over the complex numbers, the situation over
+    fields of positive characteristic is less clear. I will focus on explaining
+    how a suitable compactification of these moduli spaces allows to bypass the
+    lack of a homeomorphism to yield a canonical isomorphism of cohomology
+    rings. Along the way, I will discuss some of the new phenomena, absent over
+    the complex numbers, that emerge in positive characteristic. I will be
+    short on technical details and my plan is to make the talk accessible to
+    non-experts. For example, in illustrating the compactification technique, I
+    will use as a guide the Ehresmann Lemma from differential topology. The
+    talk contains some joint work with  Siqing Zhang and with Davesh Maulik,
+    Junliang Shen and Siqing Zhang."
+
 -
   date: 12.12
   speaker: Anna Abasheva
