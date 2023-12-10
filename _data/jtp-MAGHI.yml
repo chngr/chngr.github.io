@@ -128,5 +128,16 @@
     Junliang Shen and Siqing Zhang."
 
 -
-  date: 12.12
+  date: "12.12"
   speaker: Anna Abasheva
+  title: "Surfaces with many algebraic structures"
+  abstract: "According to the GAGA principle, if two complex projective
+    varieties are biholomorphic, then they are isomorphic as algebraic
+    varieties. This is false for non-compact varieties; the first
+    counterexample was due to Serre. Rodion Déev and I discovered
+    a new example of a complex surface admitting countably many algebraic
+    structures. Namely, we blow up the projective plane in sufficiently general
+    nine points and remove the strict preimage of the elliptic curve passing
+    through them. Our construction of the other algebraic structures relies on
+    the Hopf transform -- 'surgery` that replaces a neighborhood of an elliptic
+    curve with a neighborhood of a different elliptic curve."
