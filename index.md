@@ -13,15 +13,13 @@ exploration. In particular, I think a lot about rational curves,
 rationality problems, and geometry in positive characteristic.
 
 ### Current Projects
-During the Autumn of 2023, I am:
+During the Spring of 2024, I am:
 
--   visiting the Hausdorff Research Institute for Mathematics as part of the
-    Junior Trimester Program in Algebraic Geometry. Please visit
-    [this page](/jtp-2023) for more information.
--   writing about the geometry of \\(q\\)-bic threefolds. Take a look at the
-    accompanying [paper](/assets/qbic-fanos.pdf) and this
-    [talk](https://www.youtube.com/watch?v=0xx6MBSB1BY) I gave a while ago on
-    the subject!
+-   thinking about unirationality of a large class of high degree hypersurfaces
+    in positive characteristic. These are related to the \\(q\\)-bic
+    hypersurfaces that feature in [this](/assets/qbic-fanos.pdf) and
+    [this](/assets/qbic-threefolds.pdf) paper; also take a look at this
+    [talk](https://www.youtube.com/watch?v=0xx6MBSB1BY) I gave a while ago!
 -   thinking about quadric bundles with
    {% include person.html person=site.data.people.noah_olander %}!
 
