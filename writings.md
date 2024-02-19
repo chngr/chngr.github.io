@@ -11,7 +11,7 @@ Collected here is the writing that I have done over the various years.
 0.  <div class="paper">
     <div class="paper-title">\(q\)-bic threefolds and their surface of lines.</div>
     <div class="journal">Preprint.</div>
-    <div class="paper-links">(<a href="https://arxiv.org/abs/2307.06160">arXiv</a> | <a href="/assets/qbic-threefolds.pdf">pdf</a>)</div>
+    <div class="paper-links">(<a href="https://arxiv.org/abs/2402.09884">arXiv</a> | <a href="/assets/qbic-threefolds.pdf">pdf</a>)</div>
     </div>
 
 0.  <div class="paper">
