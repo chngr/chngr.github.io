@@ -8,6 +8,16 @@ Collected here is the writing that I have done over the various years.
 
 ## Publications and Preprints
 
+5.  <div class="paper">
+    <div class="paper-title">Derived Categories of Quartic Double Fivefolds,</div>
+    <div class="coauthor">with {% include person.html person=site.data.people.huachen_chen %},
+                               {% include person.html person=site.data.people.tony_feng %},
+                               {% include person.html person=site.data.people.alex_perry %}, and
+                               {% include person.html person=site.data.people.xiaolei_zhao %}.
+    </div>
+    <div class="journal">Preprint available upon request.</div>
+    </div>
+
 0.  <div class="paper">
     <div class="paper-title">\(q\)-bic threefolds and their surface of lines.</div>
     <div class="journal">Preprint.</div>
@@ -52,16 +62,6 @@ Collected here is the writing that I have done over the various years.
     <div class="coauthor">with {% include person.html person=site.data.people.remy_van_dobben_de_bruyn %}.</div>
     <div class="journal">J. Reine Angew. Math. <b>783</b> (2022), 217–226.</div>
     <div class="paper-links">(<a href="https://arxiv.org/abs/2103.02172">arxiv</a> | <a href="https://doi.org/10.1515/crelle-2021-0078">doi</a> | <a href="/assets/negcurves.pdf">pdf</a>)</div>
-    </div>
-
-5.  <div class="paper">
-    <div class="paper-title">Derived Categories of Quartic Double Fivefolds,</div>
-    <div class="coauthor">with {% include person.html person=site.data.people.huachen_chen %},
-                               {% include person.html person=site.data.people.tony_feng %},
-                               {% include person.html person=site.data.people.alex_perry %}, and
-                               {% include person.html person=site.data.people.xiaolei_zhao %}.
-    </div>
-    <div class="journal">Available upon request.</div>
     </div>
 
 6.  <div class="paper">
