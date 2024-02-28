@@ -10,8 +10,7 @@ Collected here is the writing that I have done over the various years.
 
 5.  <div class="paper">
     <div class="paper-title">Derived Categories of Quartic Double Fivefolds,</div>
-    <div class="coauthor">with {% include person.html person=site.data.people.huachen_chen %},
-                               {% include person.html person=site.data.people.tony_feng %},
+    <div class="coauthor">with {% include person.html person=site.data.people.tony_feng %},
                                {% include person.html person=site.data.people.alex_perry %}, and
                                {% include person.html person=site.data.people.xiaolei_zhao %}.
     </div>
