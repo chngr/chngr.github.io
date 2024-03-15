@@ -36,9 +36,7 @@ Collected here is the writing that I have done over the various years.
 
 2.  <div class="paper">
     <div class="paper-title">Projectivity of the moduli of curves,</div>
-    <div class="coauthor">with {% include person.html person=site.data.people.carl_lian %},
-                               {% include person.html person=site.data.people.yordanka_korvacheva %},
-                               {% include person.html person=site.data.people.monica_marinescu %}, and
+    <div class="coauthor">with {% include person.html person=site.data.people.carl_lian %}, and
                                {% include person.html person=site.data.people.takumi_murayama %}.
     </div>
     <div class="journal"><em>Stacks Project Expository Collection</em>, 1–43, London Math. Soc. Lecture Note Ser., 480, Cambridge Univ. Press, Cambridge, 2022.</div>
