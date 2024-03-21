@@ -9,7 +9,7 @@ Collected here is the writing that I have done over the various years.
 ## Publications and Preprints
 
 5.  <div class="paper">
-    <div class="paper-title">Derived Categories of Quartic Double Fivefolds,</div>
+    <div class="paper-title">Derived categories of quartic double fivefolds,</div>
     <div class="coauthor">with {% include person.html person=site.data.people.alex_perry %}, and
                                {% include person.html person=site.data.people.xiaolei_zhao %}.
     </div>
