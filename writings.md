@@ -11,7 +11,7 @@ Collected here is the writing that I have done over the various years.
 5.  <div class="paper">
     <div class="paper-title">Free curves in Fano hypersurfaces must have high degree,</div>
     <div class="journal">Preprint.</div>
-    <div class="paper-links">(<a href="/assets/free-curves.pdf">pdf</a>)</div>
+    <div class="paper-links">(<a href="https://arxiv.org/abs/2404.17341">arXiv</a> | <a href="/assets/free-curves.pdf">pdf</a>)</div>
     </div>
 
 5.  <div class="paper">
