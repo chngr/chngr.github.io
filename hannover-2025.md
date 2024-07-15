@@ -26,8 +26,8 @@ The schedule and abstracts will be announced closer to the event date.
 
 ### Registration
 
-Please email the organizers with your information if you are interested in
-attending.
+Please [write](mailto:cheng@math.uni-hannover.de) to Raymond with your
+information if you are interested in attending.
 
 ### Acknowledgements
 
