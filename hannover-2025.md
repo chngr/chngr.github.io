@@ -17,8 +17,8 @@ on March 18 and 19, 2025, organized by
 - {% include person.html person=site.data.people.giacomo_mezzedimi %} (Bonn)
 - {% include person.html person=site.data.people.stevell_muller  %} (Saarbrücken)
 - {% include person.html person=site.data.people.keiji_oguiso %} (Tokyo)
-- {% include person.html person=site.data.people.stefan_schroeer %} (Düsseldorf)
 - {% include person.html person=site.data.people.quentin_posva %} (Düsseldorf)
+- {% include person.html person=site.data.people.stefan_schroeer %} (Düsseldorf)
 
 ### Programme
 
