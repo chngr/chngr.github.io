@@ -32,3 +32,27 @@ a:visited.people {
 .talk-information-title {
   font-weight: bold;
 }
+
+.sidebar-image {
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+  align: center;
+  width: 288px;
+  height: 288px;
+  background: #00509b;
+  clip-path: circle();
+}
+
+.sidebar-image img {
+  position: relative;
+  top: 10px;
+  left: 10px;
+  width: 268px;
+  height: 268px;
+  clip-path: circle();
+}
+
+#hannover-conference-sidebar {
+  background-color: #003668;
+  text-align: center;
+}

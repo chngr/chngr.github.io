@@ -1,4 +1,9 @@
 # List of people referneced in site
+me: {
+  name: "Raymond Cheng",
+  url: "/"
+}
+
 carl_lian: {
   name: "Carl Lian",
   url: "https://sites.google.com/view/carllian/"
@@ -160,4 +165,44 @@ alessio_bottini: {
 nebojsa_pavic: {
   name: Nebojsa Pavic,
   url: "https://sites.google.com/view/nebojsapavic/home"
+}
+
+fabio_bernasconi: {
+  name: Fabio Bernasconi,
+  url: "https://sites.google.com/view/fabio-bernasconi/"
+}
+
+stefan_schroeer: {
+  name: Stefan Schröer,
+  url: "https://www.math.uni-duesseldorf.de/~schroeer/"
+}
+
+quentin_posva: {
+  name: Quentin Posva,
+  url: "https://sites.google.com/view/quentinposva/home"
+}
+
+valentijn_karemaker: {
+  name: Valentijn Karemaker,
+  url: "https://webspace.science.uu.nl/~karem001/"
+}
+
+tatsuro_kawakami: {
+  name: Tatsuro Kawakami,
+  url: "https://www.math.kyoto-u.ac.jp/en/people/profile/tkawakami"
+}
+
+keiji_oguiso: {
+  name: Keiji Oguiso,
+  url: "https://www.ms.u-tokyo.ac.jp/teacher_e/oguiso_e.html"
+}
+
+stevell_muller: {
+  name: Stevell Muller,
+  url: "https://www.math.uni-sb.de/ag/brandhorst/index.php?option=com_content&view=article&id=26:muller-en-1&catid=18&lang=en&Itemid=114"
+}
+
+giacomo_mezzedimi: {
+  name: Giacomo Mezzedimi,
+  url: "https://sites.google.com/view/giacomomezzedimi/"
 }

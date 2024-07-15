@@ -13,7 +13,7 @@ exploration. In particular, I think a lot about rational curves,
 rationality problems, and geometry in positive characteristic.
 
 ### Current Projects
-During the Spring of 2024, I am:
+During the Summer of 2024, I am:
 
 -   thinking about unirationality of a large class of high degree hypersurfaces
     in positive characteristic. These are related to the \\(q\\)-bic
