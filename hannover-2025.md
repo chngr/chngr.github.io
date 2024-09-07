@@ -32,7 +32,8 @@ information if you are interested in attending.
 ### Acknowledgements
 
 We acknowledge and thank the
-[Alexander von Humboldt-Stiftung](https://www.humboldt-foundation.de/) and
-[Leibniz Universität Hannover](https://www.uni-hannover.de/en/) for their
-generous support.
+[Alexander von Humboldt-Stiftung](https://www.humboldt-foundation.de/),
+[Leibniz Universität Hannover](https://www.uni-hannover.de/en/), and the
+[Riemann Center for Geometry and Physics](https://www.rc.uni-hannover.de/en/)
+for their generous support.
 
