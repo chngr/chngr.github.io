@@ -206,3 +206,58 @@ giacomo_mezzedimi: {
   name: Giacomo Mezzedimi,
   url: "https://sites.google.com/view/giacomomezzedimi/"
 }
+
+paola_frediani: {
+  name: Paola Frediani,
+  url: "https://mate.unipv.it/frediani/"
+}
+
+fabrizio_catanese: {
+  name: Fabrizio Catanese,
+  url: "https://www.mathe8.uni-bayreuth.de/en/team/prof-fabrizio-catanese/"
+}
+
+thomas_peternell: {
+  name: Thomas Peternell,
+  url: "https://www.komplexe-analysis.uni-bayreuth.de/en/team/peternell-thomas/"
+}
+
+dominique_mattei: {
+  name: Dominique Mattei,
+  url: "https://sites.google.com/view/dominiquemattei/homepage"
+}
+
+gebhard_martin: {
+  name: Gebhard Martin,
+  url: "https://www.math.uni-bonn.de/people/gmartin/"
+}
+
+sophie_friesen: {
+  name: Sophie Friesen,
+  url: "https://www.iag.uni-hannover.de/de/institut/personenverzeichnis/personen-detailansicht/institut-fur-algebraische-geometrie-b6bxz/wissenschaftliche-mitarbeiterinnen-und-mitarbeiter-1-1/sophie-elisabeth-friesen"
+}
+
+robin_lahni: {
+  name: Robin Lahni,
+  url: "https://www.iag.uni-hannover.de/de/institut/personenverzeichnis/personen-detailansicht/institut-fur-algebraische-geometrie-b6bxz/wissenschaftliche-mitarbeiterinnen-und-mitarbeiter-1-1/robin-christopher-tom-lahni"
+}
+
+simon_pietig: {
+  name: Simon Pietig,
+  url: "https://www.iag.uni-hannover.de/de/institut/personenverzeichnis/personen-detailansicht/institut-fur-algebraische-geometrie-b6bxz/wissenschaftliche-mitarbeiterinnen-und-mitarbeiter-1-1/simon-pietig"
+}
+
+pascal_fong: {
+  name: Pascal Fong,
+  url: "https://www.iag.uni-hannover.de/de/institut/personenverzeichnis/personen-detailansicht/institut-fur-algebraische-geometrie-b6bxz/wissenschaftliche-mitarbeiterinnen-und-mitarbeiter-1-1/dr-pascal-fong"
+}
+
+jan_lange: {
+  name: Jan Lange,
+  url: "https://janlng.github.io/"
+}
+
+fumiaki_suzuki: {
+  name: Fumiaki Suzuki,
+  url: "https://fumiaki-suzuki.github.io/"
+}

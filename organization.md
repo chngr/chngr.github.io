@@ -5,12 +5,15 @@ heading: Organization
 ---
 
 Events and workshops that I have been involved in organizing:
+  * March 21, 2025 ---
+  (with {% include person.html person=site.data.people.matthias_schuett %})
+  [Aspects of Algebraic Geometry](fab75.html).
 
-  * Winter 2025 --
+  * March 18 & 19, 2025 ---
   (with {% include person.html person=site.data.people.matthias_schuett %})
   [Algebraic Geometry in Hannover](hannover-2025.html).
 
-  * Fall 2023 --
+  * Fall 2023 ---
   (with {% include person.html person=site.data.people.laura_pertusi %},
   {% include person.html person=site.data.people.mirko_mauri %},
   {% include person.html person=site.data.people.sarah_frei %}, and others)
@@ -18,6 +21,10 @@ Events and workshops that I have been involved in organizing:
   at the Hausdorff Institute for Mathematics.
 
 I have organized seminars in the past; here is an archive of their webpages.
+
+  * Fall 2024 ---
+  (with {% include person.html person=site.data.people.stefan_schreieder %})
+  [Working seminar on rational curves](rational-curves-F2024.html).
 
   * Fall 2018 ---
   [Cubic Fourfolds, Rationality, etc](GAGLES-F2018.html)

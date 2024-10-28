@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  {% include head.html %}
+
+  <body>
+    <div class="sidebar">
+      <div class="container sidebar" id="fab75-conference-sidebar">
+        <div class="sidebar-about">
+          <div class="sidebar-image" id="fab75-conference-sidebar-image">
+            <a href="#top"><img src="/assets/Sarti_surface.png" title="CC. By Claudio Rocchini."/></a>
+          </div>
+        </div>
+
+        <nav class="sidebar-nav">
+          <a class="sidebar-nav-item" href="#speakers">Speakers</a>
+          <a class="sidebar-nav-item" href="#programme">Programme</a>
+          <a class="sidebar-nav-item" href="#registration">Registration</a>
+          <a class="sidebar-nav-item" href="#acknowledgements">Acknowledgements</a>
+        </nav>
+      </div>
+    </div>
+    <div class="content container">
+      <div class="page">
+        <h1 id="top" class="page-title">{{ page.title }}</h1>
+        {{ content }}
+      </div>
+    </div>
+
+  </body>
+</html>
+
