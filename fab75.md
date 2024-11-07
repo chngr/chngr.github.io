@@ -4,13 +4,16 @@ title: Aspects of Algebraic Geometry
 heading: Algebraic Geometry Workshop -- Hannover 03.2024
 ---
 
-A conference in honour of
+A small workshop in honour of
 {% include person.html person=site.data.people.fabrizio_catanese %} on the
 occasion of his 75th birthday at
 [Leibniz Universität Hannover](https://www.uni-hannover.de/en/) held
 on March 21, 2025, organized by
 {% include person.html person=site.data.people.me %} and
 {% include person.html person=site.data.people.matthias_schuett %}.
+
+Participants may also be interested in the workshop [Algebraic Geometry in
+Hannover](/hannover-2025) taking place earlier in the week.
 
 ### Speakers
 - {% include person.html person=site.data.people.paola_frediani %} (Pavia)

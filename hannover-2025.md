@@ -10,6 +10,9 @@ on March 18 and 19, 2025, organized by
 {% include person.html person=site.data.people.me %} and
 {% include person.html person=site.data.people.matthias_schuett %}.
 
+Participants may also be interested in the workshop [Aspects of Algebraic
+Geometry](/fab75) also taking place in Hannover at the end of the week.
+
 ### Speakers
 - {% include person.html person=site.data.people.fabio_bernasconi %} (Neuchatel)
 - {% include person.html person=site.data.people.valentijn_karemaker %} (Utrecht)
