@@ -54,7 +54,8 @@ Kollár and Zhiyu Tian:
   of \\(1\\)-cycles](https://arxiv.org/abs/2302.07069).
 
 ## Schedule
-We meet Thursdays in F107 between 14:15 and 15:45.
+We meet Thursdays in F107 between 14:15 and 15:45. A program may also be found
+[here](https://www.iag.uni-hannover.de/fileadmin/iag/homepages/schreieder/Seminars/rational-curves.pdf).
 
 <dl>
 <dt class="talk-information-date">17.10</dt>
