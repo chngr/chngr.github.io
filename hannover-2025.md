@@ -14,7 +14,7 @@ Participants may also be interested in the workshop [Aspects of Algebraic
 Geometry](/fab75) also taking place in Hannover at the end of the week.
 
 ### Speakers
-- {% include person.html person=site.data.people.fabio_bernasconi %} (Neuchatel)
+- {% include person.html person=site.data.people.fabio_bernasconi %} (Rome)
 - {% include person.html person=site.data.people.valentijn_karemaker %} (Utrecht)
 - {% include person.html person=site.data.people.tatsuro_kawakami %} (Kyoto)
 - {% include person.html person=site.data.people.giacomo_mezzedimi %} (Bonn)
