@@ -124,10 +124,10 @@ Lifting algebraic to deformation equivalence, III
 
 <dt class="talk-information-date">09.01</dt>
 <dd><span class="talk-information-speaker">
-TBD
+{% include person.html person=site.data.people.me %}
 </span></dd>
 <dd><span class="talk-information-title">
-TBD
+Geometric Manin Conjecture
 </span></dd>
 
 <dt class="talk-information-date">16.01</dt>
@@ -140,18 +140,18 @@ TBD
 
 <dt class="talk-information-date">23.01</dt>
 <dd><span class="talk-information-speaker">
-TBD
+{% include person.html person=site.data.people.tim_graefnitz %}
 </span></dd>
 <dd><span class="talk-information-title">
-TBD
+Stable curves and stable maps
 </span></dd>
 
 <dt class="talk-information-date">30.01</dt>
 <dd><span class="talk-information-speaker">
-TBD
+{% include person.html person=site.data.people.anneloes_viergever %}
 </span></dd>
 <dd><span class="talk-information-title">
-TBD
+Counting (real) rational curves
 </span></dd>
 </dl>
 
