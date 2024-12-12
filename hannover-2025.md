@@ -17,6 +17,7 @@ Geometry](/fab75) also taking place in Hannover at the end of the week.
 - {% include person.html person=site.data.people.fabio_bernasconi %} (Rome)
 - {% include person.html person=site.data.people.valentijn_karemaker %} (Utrecht)
 - {% include person.html person=site.data.people.tatsuro_kawakami %} (Kyoto)
+- {% include person.html person=site.data.people.seoyoung_kim %} (Basel)
 - {% include person.html person=site.data.people.giacomo_mezzedimi %} (Bonn)
 - {% include person.html person=site.data.people.stevell_muller  %} (Saarbrücken)
 - {% include person.html person=site.data.people.keiji_oguiso %} (Tokyo)
