@@ -33,6 +33,14 @@ a:visited.people {
   font-weight: bold;
 }
 
+.talk-information-time {
+  width: 6em;
+}
+
+td {
+  text-align: center;
+}
+
 .sidebar-image {
   margin-top: 4rem;
   margin-bottom: 2rem;

@@ -10,7 +10,7 @@ on March 18 and 19, 2025, organized by
 {% include person.html person=site.data.people.me %} and
 {% include person.html person=site.data.people.matthias_schuett %}.
 
-This is part of Geometry Week in Hannover. Participants may also be interested
+This is part of _Geometry Week in Hannover_. Participants may also be interested
 in the workshops [Aspects of Algebraic Geometry](/fab75) and [Geometry of
 Arrangements](https://konferenz.uni-hannover.de/event/153/) taking place later
 in the week.
@@ -28,7 +28,85 @@ in the week.
 
 ### Programme
 
-The schedule and abstracts will be announced closer to the event date.
+<table>
+<tr>
+<th>March 18, 2025</th>
+<th>Speaker</th>
+</tr>
+<tr>
+<td>10:30 — 11:30</td>
+<td><span class="talk-information-speaker">
+{% include person.html person=site.data.people.stefan_schroeer %}
+</span></td>
+</tr>
+<tr>
+<td>12:00 — 13:00</td>
+<td><span class="talk-information-speaker">
+{% include person.html person=site.data.people.tatsuro_kawakami %}
+</span></td>
+</tr>
+<tr>
+<td>13:00 — 14:30</td>
+<td><span class="talk-information-speaker">
+Lunch
+</span></td>
+</tr>
+<tr>
+<td>14:30 — 15:30</td>
+<td><span class="talk-information-speaker">
+{% include person.html person=site.data.people.quentin_posva %}
+</span></td>
+</tr>
+<tr>
+<td>16:00 — 17:00</td>
+<td><span class="talk-information-speaker">
+{% include person.html person=site.data.people.seoyoung_kim %}
+</span></td>
+</tr>
+<tr>
+<td>17:15 — 18:15</td>
+<td><span class="talk-information-speaker">
+{% include person.html person=site.data.people.giacomo_mezzedimi %}
+</span></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th>March 19, 2025</th>
+<th>Speaker</th>
+</tr>
+<tr>
+<td>09:30 — 10:30</td>
+<td><span class="talk-information-speaker">
+{% include person.html person=site.data.people.fabio_bernasconi %}
+</span></td>
+</tr>
+<tr>
+<td>11:00 — 12:00</td>
+<td><span class="talk-information-speaker">
+{% include person.html person=site.data.people.valentijn_karemaker %}
+</span></td>
+</tr>
+<tr>
+<td>12:00 — 13:30</td>
+<td><span class="talk-information-speaker">
+Lunch
+</span></td>
+</tr>
+<tr>
+<td>13:30 — 14:30</td>
+<td><span class="talk-information-speaker">
+{% include person.html person=site.data.people.stevell_muller  %}
+</span></td>
+</tr>
+<tr>
+<td>15:00 — 16:00</td>
+<td><span class="talk-information-speaker">
+{% include person.html person=site.data.people.keiji_oguiso %}
+</span></td>
+</tr>
+</table>
 
 ### Registration
 

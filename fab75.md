@@ -12,7 +12,7 @@ on March 21, 2025, organized by
 {% include person.html person=site.data.people.me %} and
 {% include person.html person=site.data.people.matthias_schuett %}.
 
-This workshop is part of the Geometry Week in Hannover. Participants may also
+This workshop is part of the _Geometry Week in Hannover_. Participants may also
 be interested in the workshops [Algebraic Geometry in Hannover](/hannover-2025)
 and [Geometry of Arrangements](https://konferenz.uni-hannover.de/event/153/)
 taking place earlier in the week.
@@ -25,7 +25,42 @@ taking place earlier in the week.
 
 ### Programme
 
-The schedule and abstracts will be announced closer to the event date.
+<table>
+<tr>
+<th>March 21, 2025</th>
+<th>Speaker</th>
+</tr>
+<tr>
+<td>11:30 — 12:30</td>
+<td><span class="talk-information-speaker">
+{% include person.html person=site.data.people.keiji_oguiso %}
+</span></td>
+</tr>
+<tr>
+<td>12:30 — 14:30</td>
+<td><span class="talk-information-speaker">
+Lunch
+</span></td>
+</tr>
+<tr>
+<td>14:30 — 15:30</td>
+<td><span class="talk-information-speaker">
+{% include person.html person=site.data.people.stefan_schreieder %}
+</span></td>
+</tr>
+<tr>
+<td>16:00 — 17:00</td>
+<td><span class="talk-information-speaker">
+{% include person.html person=site.data.people.paola_frediani %}
+</span></td>
+</tr>
+<tr>
+<td>17:15 — 18:15</td>
+<td><span class="talk-information-speaker">
+{% include person.html person=site.data.people.thomas_peternell %}
+</span></td>
+</tr>
+</table>
 
 ### Registration
 
