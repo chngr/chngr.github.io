@@ -10,8 +10,10 @@ on March 18 and 19, 2025, organized by
 {% include person.html person=site.data.people.me %} and
 {% include person.html person=site.data.people.matthias_schuett %}.
 
-Participants may also be interested in the workshop [Aspects of Algebraic
-Geometry](/fab75) also taking place in Hannover at the end of the week.
+This is part of Geometry Week in Hannover. Participants may also be interested
+in the workshops [Aspects of Algebraic Geometry](/fab75) and [Geometry of
+Arrangements](https://konferenz.uni-hannover.de/event/153/) taking place later
+in the week.
 
 ### Speakers
 - {% include person.html person=site.data.people.fabio_bernasconi %} (Rome)

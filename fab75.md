@@ -12,8 +12,10 @@ on March 21, 2025, organized by
 {% include person.html person=site.data.people.me %} and
 {% include person.html person=site.data.people.matthias_schuett %}.
 
-Participants may also be interested in the workshop [Algebraic Geometry in
-Hannover](/hannover-2025) taking place earlier in the week.
+This workshop is part of the Geometry Week in Hannover. Participants may also
+be interested in the workshops [Algebraic Geometry in Hannover](/hannover-2025)
+and [Geometry of Arrangements](https://konferenz.uni-hannover.de/event/153/)
+taking place earlier in the week.
 
 ### Speakers
 - {% include person.html person=site.data.people.paola_frediani %} (Pavia)
