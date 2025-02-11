@@ -10,7 +10,7 @@ Collected here is the writing that I have done over the various years.
 
 5.  <div class="paper">
     <div class="paper-title">Free curves in Fano hypersurfaces must have high degree.</div>
-    <div class="journal">Preprint.</div>
+    <div class="journal">Accepted in Proc. Am. Math. Soc.</div>
     <div class="paper-links">(<a href="https://arxiv.org/abs/2404.17341">arXiv</a> | <a href="/assets/free-curves.pdf">pdf</a>)</div>
     </div>
 
@@ -19,7 +19,7 @@ Collected here is the writing that I have done over the various years.
     <div class="coauthor">with {% include person.html person=site.data.people.alex_perry %}, and
                                {% include person.html person=site.data.people.xiaolei_zhao %}.
     </div>
-    <div class="journal">Preprint.</div>
+    <div class="journal">Accepted in IMRN.</div>
     <div class="paper-links">(<a href="https://arxiv.org/abs/2403.13463">arXiv</a> | <a href="/assets/quartic-double-fivefold.pdf">pdf</a>)</div>
     </div>
 
@@ -31,7 +31,7 @@ Collected here is the writing that I have done over the various years.
 
 0.  <div class="paper">
     <div class="paper-title">\(q\)-bic hypersurfaces and their Fano schemes.</div>
-    <div class="journal">Preprint.</div>
+    <div class="journal">Accepted in Pure Appl. Math. Q.</div>
     <div class="paper-links">(<a href="https://arxiv.org/abs/2307.06160">arXiv</a> | <a href="/assets/qbic-fanos.pdf">pdf</a>)</div>
     </div>
 
