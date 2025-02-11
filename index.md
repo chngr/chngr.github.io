@@ -13,12 +13,8 @@ exploration. In particular, I think a lot about rational curves,
 rationality problems, and geometry in positive characteristic.
 
 ### Current Projects
-During the autumn of 2024, I am:
+During the winter of 2025, I am:
 
--  organizing a working seminar with
-   {% include person.html person=site.data.people.stefan_schreieder %}
-   around rational curves in algebraic varieties; see
-   [here](/rational-curves-F2024.html) for more details.
 -  thinking about unirationality of a large class of high degree hypersurfaces
    in positive characteristic. These are related to the \\(q\\)-bic
    hypersurfaces that feature in [this](/assets/qbic-fanos.pdf) and
