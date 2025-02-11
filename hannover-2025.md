@@ -119,5 +119,9 @@ We acknowledge and thank the
 [Alexander von Humboldt-Stiftung](https://www.humboldt-foundation.de/),
 [Leibniz Universität Hannover](https://www.uni-hannover.de/en/), and the
 [Riemann Center for Geometry and Physics](https://www.rc.uni-hannover.de/en/)
-for their generous support.
+for their generous support. This workshop is in association with
+[RTG 2965 - From Geometry to Numbers: Moduli, Hodge Theory, Rational
+Points](https://sites.google.com/view/rtg-2965).
+
+<a href="https://sites.google.com/view/rtg-2965"><img src="/assets/logortg2965_title.png"/></a>
 
