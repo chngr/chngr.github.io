@@ -33,6 +33,16 @@ a:visited.people {
   font-weight: bold;
 }
 
+.talk-information-abstract {
+  text-align: left;
+  font-size: 10pt;
+}
+
+details > summary {
+  text-align: left;
+  font-size:11pt;
+}
+
 .talk-information-time {
   width: 6em;
 }
