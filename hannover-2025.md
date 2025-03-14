@@ -27,6 +27,12 @@ in the week.
 - {% include person.html person=site.data.people.stefan_schroeer %} (Düsseldorf)
 
 ### Programme
+All talks will take place in room
+[B302](https://info.cafm.uni-hannover.de/de/room/1101.003.B302) in the
+[main
+building](https://www.uni-hannover.de/en/universitaet/campus-und-stadt/wegweiser)
+of the Leibniz Universität Hannover. A social dinner will take place Tuesday
+evening at the restaurant [Al-Dar](https://www.aldar-hannover.de/).
 
 <table>
 <tr>

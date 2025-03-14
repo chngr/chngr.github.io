@@ -24,6 +24,11 @@ taking place earlier in the week.
 - {% include person.html person=site.data.people.stefan_schreieder %} (Hannover)
 
 ### Programme
+All talks will take place in room
+[B302](https://info.cafm.uni-hannover.de/de/room/1101.003.B302) in the
+[main
+building](https://www.uni-hannover.de/en/universitaet/campus-und-stadt/wegweiser)
+of the Leibniz Universität Hannover.
 
 <table>
 <tr>
