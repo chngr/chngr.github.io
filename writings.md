@@ -38,7 +38,7 @@ Collected here is the writing that I have done over the various years.
 1.  <div class="paper">
     <div class="paper-title">\(q\)-bic forms.</div>
     <div class="journal">Accepted in J. Algebra.</div>
-    <div class="paper-links">(<a href="https://arxiv.org/abs/2301.09929">arXiv</a> | <a href="/assets/qbic-forms.pdf">pdf</a>)</div>
+    <div class="paper-links">(<a href="https://arxiv.org/abs/2301.09929">arXiv</a> | <a href="https://doi.org/10.1016/j.jalgebra.2025.03.031">doi</a> | <a href="/assets/qbic-forms.pdf">pdf</a>)</div>
     </div>
 
 2.  <div class="paper">
