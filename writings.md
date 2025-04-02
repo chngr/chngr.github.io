@@ -10,7 +10,7 @@ Collected here is the writing that I have done over the various years.
 
 5.  <div class="paper">
     <div class="paper-title">Free curves in Fano hypersurfaces must have high degree.</div>
-    <div class="journal">Accepted in Proc. Am. Math. Soc.</div>
+    <div class="journal">To appear in Proc. Am. Math. Soc.</div>
     <div class="paper-links">(<a href="https://arxiv.org/abs/2404.17341">arXiv</a> | <a href="https://doi.org/10.1090/proc/17206">doi</a> | <a href="/assets/free-curves.pdf">pdf</a>)</div>
     </div>
 
@@ -31,13 +31,13 @@ Collected here is the writing that I have done over the various years.
 
 0.  <div class="paper">
     <div class="paper-title">\(q\)-bic hypersurfaces and their Fano schemes.</div>
-    <div class="journal">Accepted in Pure Appl. Math. Q.</div>
-    <div class="paper-links">(<a href="https://arxiv.org/abs/2307.06160">arXiv</a> | <a href="/assets/qbic-fanos.pdf">pdf</a>)</div>
+    <div class="journal">Pure Appl. Math. Q. <b>21</b> (2025), no. 4, 1721-1773.</div>
+    <div class="paper-links">(<a href="https://arxiv.org/abs/2307.06160">arXiv</a> | <a href="https://dx.doi.org/10.4310/PAMQ.250402030943">doi</a> | <a href="/assets/qbic-fanos.pdf">pdf</a>)</div>
     </div>
 
 1.  <div class="paper">
     <div class="paper-title">\(q\)-bic forms.</div>
-    <div class="journal">Accepted in J. Algebra.</div>
+    <div class="journal">To appear in J. Algebra.</div>
     <div class="paper-links">(<a href="https://arxiv.org/abs/2301.09929">arXiv</a> | <a href="https://doi.org/10.1016/j.jalgebra.2025.03.031">doi</a> | <a href="/assets/qbic-forms.pdf">pdf</a>)</div>
     </div>
 
