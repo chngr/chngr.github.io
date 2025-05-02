@@ -20,7 +20,7 @@ Collected here is the writing that I have done over the various years.
                                {% include person.html person=site.data.people.xiaolei_zhao %}.
     </div>
     <div class="journal">To appear in IMRN.</div>
-    <div class="paper-links">(<a href="https://arxiv.org/abs/2403.13463">arXiv</a> | <a href="https://doi.org/10.1093/imrn/rnaf119">doi<a> | <a href="/assets/quartic-double-fivefold.pdf">pdf</a>)</div>
+    <div class="paper-links">(<a href="https://arxiv.org/abs/2403.13463">arXiv</a> | <a href="https://doi.org/10.1093/imrn/rnaf119">doi</a> | <a href="/assets/quartic-double-fivefold.pdf">pdf</a>)</div>
     </div>
 
 0.  <div class="paper">
