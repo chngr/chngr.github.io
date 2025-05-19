@@ -19,13 +19,13 @@ Collected here is the writing that I have done over the various years.
     <div class="coauthor">with {% include person.html person=site.data.people.alex_perry %}, and
                                {% include person.html person=site.data.people.xiaolei_zhao %}.
     </div>
-    <div class="journal">To appear in IMRN.</div>
+    <div class="journal">Int. Math. Res. Not. IMRN 2025, no. 10, rnaf119.</div>
     <div class="paper-links">(<a href="https://arxiv.org/abs/2403.13463">arXiv</a> | <a href="https://doi.org/10.1093/imrn/rnaf119">doi</a> | <a href="/assets/quartic-double-fivefold.pdf">pdf</a>)</div>
     </div>
 
 0.  <div class="paper">
     <div class="paper-title">\(q\)-bic threefolds and their surface of lines.</div>
-    <div class="journal">Preprint.</div>
+    <div class="journal">Accepted in Nagoya Math. J.</div>
     <div class="paper-links">(<a href="https://arxiv.org/abs/2402.09884">arXiv</a> | <a href="/assets/qbic-threefolds.pdf">pdf</a>)</div>
     </div>
 
