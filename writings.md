@@ -9,6 +9,12 @@ Collected here is the writing that I have done over the various years.
 ## Publications and Preprints
 
 5.  <div class="paper">
+    <div class="paper-title">Profiles, linear spaces, and unirationality of complete intersections.</div>
+    <div class="journal">Preprint.</div>
+    <div class="paper-links">(<a href="https://arxiv.org/abs/2508.08395">arXiv</a> | <a href="/assets/qatics.pdf">pdf</a>)</div>
+    </div>
+
+5.  <div class="paper">
     <div class="paper-title">Free curves in Fano hypersurfaces must have high degree.</div>
     <div class="journal">Proc. Amer. Math. Soc. <b>153</b> (2025), 2841-2846.</div>
     <div class="paper-links">(<a href="https://arxiv.org/abs/2404.17341">arXiv</a> | <a href="https://doi.org/10.1090/proc/17206">doi</a> | <a href="/assets/free-curves.pdf">pdf</a>)</div>

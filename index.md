@@ -12,21 +12,21 @@ Geometry fascinates me, with algebraic methods my preferred means of
 exploration. In particular, I think a lot about rational curves,
 rationality problems, and geometry in positive characteristic.
 
-### Current Projects
-During the winter of 2025, I am:
+### Current projects
+During the summer of 2025, I am:
 
--  thinking about unirationality of a large class of high degree hypersurfaces
-   in positive characteristic. These are related to the \\(q\\)-bic
-   hypersurfaces that feature in [this](/assets/qbic-fanos.pdf) and
-   [this](/assets/qbic-threefolds.pdf) paper; also take a look at this
-   [talk](https://www.youtube.com/watch?v=0xx6MBSB1BY) I gave a while ago!
+-  thinking about unirationality of complete intersections. Things get fun
+   in positive characteristic: see the [new paper](/assets/qatics.pdf), and
+   older work on \\(q\\)-bic hypersurfaces, featuring in
+   [this](/assets/qbic-fanos.pdf) and [this](/assets/qbic-threefolds.pdf) paper
+   and also the [talk](https://www.youtube.com/watch?v=0xx6MBSB1BY).
 -  thinking about derived categories of quadric bundles with
    {% include person.html person=site.data.people.noah_olander %}!
 -  thinking about Prym varieties and cubic fourfolds in characteristic \\(2\\)
    with {% include person.html person=site.data.people.gebhard_martin %} and
    {% include person.html person=site.data.people.dominique_mattei %}.
 
-### Upcoming Events
+### Events organized
 
 -  March 18--19, 2025: [Algebraic Geometry in Hannover](hannover-2025.html).
 -  March 21, 2025: [Aspects of Algebraic Geometry](fab75.html).
