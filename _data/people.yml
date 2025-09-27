@@ -26,7 +26,7 @@ lena_ji: {
 
 matt_larson: {
   name: Matt Larson,
-  url: "https://stanford.edu/~mwlarson/"
+  url: "https://mattlarson2399.github.io/"
 }
 
 noah_olander: {
@@ -129,7 +129,7 @@ laura_pertusi: {
 
 sarah_frei: {
   name: Sarah Frei,
-  url: "https://math.dartmouth.edu/~sfrei/"
+  url: "https://math.rice.edu/~sf31/"
 }
 
 philip_engel : {
@@ -275,4 +275,9 @@ tim_graefnitz: {
 seoyoung_kim: {
   name: "Seoyoung Kim",
   url: "https://sites.google.com/brown.edu/seoyoungkim/"
+}
+
+aline_zanardini: {
+  name: "Aline Zanardini",
+  url: "https://sites.google.com/view/alinez/"
 }

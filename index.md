@@ -4,27 +4,21 @@ title: About
 heading: About
 ---
 
-I am a postdoctoral
-[Humboldt Research Fellow](https://www.humboldt-foundation.de/en/) based at the
-[Institute of Algebraic Geometry](https://www.iag.uni-hannover.de/en/) within
-[Leibniz Universität Hannover](https://www.uni-hannover.de/en/).
+I am a _collaborateur scientifique_ with the [Chair of Algebraic
+Geometry](https://www.epfl.ch/labs/cag/) at the
+[_École Polytechnique Fédérale de Lausanne_](https://www.epfl.ch/en/).
 Geometry fascinates me, with algebraic methods my preferred means of
 exploration. In particular, I think a lot about rational curves,
 rationality problems, and geometry in positive characteristic.
 
-### Current projects
-During the summer of 2025, I am:
-
--  thinking about unirationality of complete intersections. Things get fun
-   in positive characteristic: see the [new paper](/assets/qatics.pdf), and
-   older work on \\(q\\)-bic hypersurfaces, featuring in
-   [this](/assets/qbic-fanos.pdf) and [this](/assets/qbic-threefolds.pdf) paper
-   and also the [talk](https://www.youtube.com/watch?v=0xx6MBSB1BY).
--  thinking about derived categories of quadric bundles with
-   {% include person.html person=site.data.people.noah_olander %}!
--  thinking about Prym varieties and cubic fourfolds in characteristic \\(2\\)
-   with {% include person.html person=site.data.people.gebhard_martin %} and
-   {% include person.html person=site.data.people.dominique_mattei %}.
+Previously, I spent time at the [Institute of Algebraic
+Geometry](https://www.iag.uni-hannover.de/en/) within
+[Leibniz Universität Hannover](https://www.uni-hannover.de/en/) as a
+postdoctoral [Humboldt Research Fellow](https://www.humboldt-foundation.de/en/).
+Before that, I was a graduate student at [Columbia
+University](https://www.math.columbia.edu/) where I had the privilege and
+pleasure to converse regularly with [Aise Johan de
+Jong](https://www.math.columbia.edu/~dejong/).
 
 ### Events organized
 
@@ -34,12 +28,11 @@ During the summer of 2025, I am:
 ### Contact
 <div class="contact">
 email: <br/>
-<a id="email" href="mailto:cheng@math.uni-hannover.de">cheng@math.uni-hannover.de</a><br/>
+<a id="email" href="mailto:raymond.cheng@epfl.ch">raymond.cheng@epfl.ch</a><br/>
 address:<br/>
 <div id="address">
-Institute of Algebraic Geometry<br/>
-Leibniz Universität Hannover<br/>
-Welfengarten 1<br/>
-30167 Hannover<br/>
+EPFL SB MATH CAG<br/>
+Station 8<br/>
+1015 Lausanne<br/>
 </div>
 </div>

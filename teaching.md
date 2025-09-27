@@ -6,6 +6,12 @@ heading: Teaching
 
 Here is an archive of teaching activities I have been involved in.
 
+### École Polytechnique Fédérale de Lausanne
+
+* Fall 2025 --
+  Tutorials for Galois Theory, taught by
+  {% include person.html person=site.data.people.aline_zanardini %}.
+
 ### Leibniz Universität Hannover
 
 * Summer 2022 --
