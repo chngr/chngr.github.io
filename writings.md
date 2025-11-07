@@ -9,6 +9,13 @@ Collected here is the writing that I have done over the various years.
 ## Publications and Preprints
 
 5.  <div class="paper">
+    <div class="paper-title">Unirationality of hypersurfaces via highly tangent lines,</div>
+    <div class="coauthor">see also the related repository <a href="https://github.com/chngr/unirationality-bounds">unirationality-bounds</a>.</div>
+    <div class="journal">Preprint.</div>
+    <div class="paper-links">(<a href="/assets/unirationality.pdf">pdf</a>)</div>
+    </div>
+
+5.  <div class="paper">
     <div class="paper-title">Profiles, linear spaces, and unirationality of complete intersections.</div>
     <div class="journal">Preprint.</div>
     <div class="paper-links">(<a href="https://arxiv.org/abs/2508.08395">arXiv</a> | <a href="/assets/qatics.pdf">pdf</a>)</div>
