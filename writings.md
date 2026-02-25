@@ -9,6 +9,13 @@ Collected here is the writing that I have done over the various years.
 ## Publications and Preprints
 
 5.  <div class="paper">
+    <div class="paper-title">Derived categories of quadric bundles and moduli stacks of spinor sheaves,</div>
+    <div class="coauthor">with {% include person.html person=site.data.people.noah_olander %}.</div>
+    <div class="journal">Preprint.</div>
+    <div class="paper-links">(<a href="https://arxiv.org/abs/2602.20263">arXiv</a> | <a href="/assets/quadric-bundles.pdf">pdf</a>)</div>
+    </div>
+
+5.  <div class="paper">
     <div class="paper-title">Unirationality of hypersurfaces via highly tangent lines,</div>
     <div class="coauthor">see also the related repository <a href="https://github.com/chngr/unirationality-bounds">unirationality-bounds</a>.</div>
     <div class="journal">Preprint.</div>
