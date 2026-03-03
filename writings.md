@@ -45,8 +45,8 @@ Collected here is the writing that I have done over the various years.
 
 0.  <div class="paper">
     <div class="paper-title">\(q\)-bic threefolds and their surface of lines.</div>
-    <div class="journal">Accepted in Nagoya Math. J.</div>
-    <div class="paper-links">(<a href="https://arxiv.org/abs/2402.09884">arXiv</a> | <a href="/assets/qbic-threefolds.pdf">pdf</a>)</div>
+    <div class="journal">Nagoya Math. J. <b>261</b> (2026), e21.</div>
+    <div class="paper-links">(<a href="https://arxiv.org/abs/2402.09884">arXiv</a> | <a href="https://doi.org/10.1017/nmj.2026.10105">doi</a> | <a href="/assets/qbic-threefolds.pdf">pdf</a>)</div>
     </div>
 
 0.  <div class="paper">
