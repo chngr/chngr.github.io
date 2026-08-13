@@ -9,6 +9,13 @@ Collected here is the writing that I have done over the various years.
 ## Publications and Preprints
 
 5.  <div class="paper">
+    <div class="paper-title">Frobenius–Tschirnhausen ampleness,</div>
+    <div class="coauthor">with {% include person.html person=site.data.people.emre_alp_ozavci %}.</div>
+    <div class="journal">Preprint.</div>
+    <div class="paper-links">(<a href="https://arxiv.org/abs/2608.11304">arXiv</a> | <a href="/assets/frobenius-tschirnhausen.pdf">pdf</a>)</div>
+    </div>
+
+5.  <div class="paper">
     <div class="paper-title">Derived categories of quadric bundles and moduli stacks of spinor sheaves,</div>
     <div class="coauthor">with {% include person.html person=site.data.people.noah_olander %}.</div>
     <div class="journal">Preprint.</div>
