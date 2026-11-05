@@ -5,6 +5,12 @@ heading: Organization
 ---
 
 Events and workshops that I have been involved in organizing:
+  * March 8 to 12, 2027 ---
+  (with {% include person.html person=site.data.people.roya_beheshti %},
+  {% include person.html person=site.data.people.shibashis_mukhopadhyay %},
+  and {% include person.html person=site.data.people.eric_riedl %})
+  [Curves in varieties via geometry and arithmetic](bernoulli-2027.html).
+
   * March 21, 2025 ---
   (with {% include person.html person=site.data.people.matthias_schuett %})
   [Aspects of Algebraic Geometry](fab75.html).

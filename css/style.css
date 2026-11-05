@@ -83,3 +83,12 @@ td {
 #fab75-conference-sidebar-image {
   background-color: #17A977;
 }
+
+#bernoulli-conference-sidebar {
+  background-color: #FF0000;
+  text-align: center;
+}
+
+#bernoulli-conference-sidebar-image {
+  background-color: #FFFFFF;
+}

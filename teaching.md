@@ -8,6 +8,9 @@ Here is an archive of teaching activities I have been involved in.
 
 ### École Polytechnique Fédérale de Lausanne
 
+* Fall 2026 --
+  [Rings and modules](https://edu.epfl.ch/coursebook/en/algebra-iv-rings-and-modules-MATH-311).
+
 * Fall 2025 --
   Tutorials for Galois Theory, taught by
   {% include person.html person=site.data.people.aline_zanardini %}.

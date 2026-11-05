@@ -22,6 +22,7 @@ Jong](https://www.math.columbia.edu/~dejong/).
 
 ### Events organized
 
+-  March 8--12, 2027: [Curves in varieties via geometry and arithmetic](bernoulli-2027.html).
 -  March 18--19, 2025: [Algebraic Geometry in Hannover](hannover-2025.html).
 -  March 21, 2025: [Aspects of Algebraic Geometry](fab75.html).
 
